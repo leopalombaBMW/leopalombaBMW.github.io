@@ -2,17 +2,6 @@
  "atualizado": "2026-10-21",
  "modelos": [
   {
-   "id": "ix5",
-   "linha": "iX5",
-   "versao": "iX5 (lançamento)",
-   "ano": "",
-   "preco_bmw": null,
-   "carroceria": "SUV",
-   "motorizacao": "Elétrico",
-   "fotos": [],
-   "estoque": []
-  },
-  {
    "id": "ix3",
    "linha": "iX3",
    "versao": "iX3 50 xDrive M Sport",
@@ -42,35 +31,6 @@
     "https://grandbrasil.com.br/wp-content/uploads/2024/08/higligth-1-1024x661.avif",
     "https://grandbrasil.com.br/wp-content/uploads/2024/08/front.avif",
     "https://grandbrasil.com.br/wp-content/uploads/2024/08/interno-1-1024x516.avif"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "ix1",
-   "linha": "iX1",
-   "versao": "iX1 xDrive30 M Sport",
-   "ano": "2025/2026",
-   "preco_bmw": 485950,
-   "carroceria": "SUV",
-   "motorizacao": "Elétrico",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2024/04/ixi1-20-xline-1024x768.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2023/09/ix1xdrive30-m-sport-na-pista.jpg"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "i4",
-   "linha": "i4",
-   "versao": "i4 eDrive40 M Sport",
-   "ano": "2025/2025",
-   "preco_bmw": 582950,
-   "carroceria": "Gran Coupé",
-   "motorizacao": "Elétrico",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2022/12/bmw-i4-eDrive40-icon.png",
-    "https://grandbrasil.com.br/wp-content/uploads/2022/12/bmw-i4-eDrive40-1-1024x578.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2022/12/bmw-i4-eDrive40-2-1024x576.webp"
    ],
    "estoque": []
   },
@@ -723,21 +683,6 @@
      "unidades": 1
     }
    ]
-  },
-  {
-   "id": "m3t",
-   "linha": "M3",
-   "versao": "M3 Competition Track",
-   "ano": "2026/2026",
-   "preco_bmw": 1001950,
-   "carroceria": "Sedã",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_perfil.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_exterior-1024x1024.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_volante.webp"
-   ],
-   "estoque": []
   },
   {
    "id": "s220",

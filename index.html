@@ -217,7 +217,7 @@ footer .wrap{display:grid;gap:6px}
       <div class="sec-head">
         <div class="eyebrow">Estoque <span id="upd"></span></div>
         <h2>BMW 0 km e seminovos</h2>
-        <p>Todas as versões BMW 0 km vendidas no Brasil, com as unidades que temos a pronta entrega. Sem estoque da versão? Eu faço o pedido de fábrica. Toque no carro para ver a ficha e falar comigo no WhatsApp.</p>
+        <p>Versões BMW 0 km com as unidades que temos a pronta entrega. Toque no carro para ver a ficha e falar comigo no WhatsApp.</p>
       </div>
 
       <div class="tabs" role="tablist">
@@ -230,7 +230,7 @@ footer .wrap{display:grid;gap:6px}
         <label id="brand-wrap" hidden>Marca<select id="brand"><option value="">Todas</option></select></label>
         <label>Modelo<select id="model"><option value="">Todos</option></select></label>
         <label>Ordenar<select id="sort">
-          <option value="rel">Mais relevantes</option>
+          <option value="rel">Ordem alfabética</option>
           <option value="pd">Maior preço</option>
           <option value="pa">Menor preço</option>
           <option value="km" id="opt-km">Menor km</option>
@@ -239,7 +239,6 @@ footer .wrap{display:grid;gap:6px}
         <div class="seg" id="avail-f" role="group" aria-label="Disponibilidade">
           <button type="button" aria-pressed="true" data-v="">Todas as versões</button>
           <button type="button" aria-pressed="false" data-v="e">Pronta entrega</button>
-          <button type="button" aria-pressed="false" data-v="f">Venda futura</button>
         </div>
         <div class="seg" id="armor-f" role="group" aria-label="Blindagem">
           <button type="button" aria-pressed="true" data-v="">Todos</button>
@@ -420,7 +419,7 @@ function interestSemi(c){return ["Olá Léo, vi seu site e tenho interesse neste
 function interestUnit(m,u){return ["Olá Léo, vi seu site e tenho interesse neste BMW 0 km:","BMW "+m.versao,"Ano: "+u.ano,
   "Cor: "+u.cor+" · interior "+u.cor_interna,u.blindagem?"Blindado "+u.blindagem:"Sem blindagem","Preço anunciado: "+brl(u.preco)].join("\n")}
 function interestMod(m){return ["Olá Léo, vi seu site e tenho interesse no BMW "+m.versao+" 0 km.",
-  nUnits(m)?"Quero saber das cores disponíveis e condições.":"Quero saber prazo de entrega e condições (venda futura)."].join("\n")}
+  nUnits(m)?"Quero saber das cores disponíveis e condições.":"Quero saber cores, prazo de entrega e condições."].join("\n")}
 function cardSemi(c){
   return '<button type="button" class="car" data-k="s" data-id="'+c.id+'"><div class="ph">'+photoSemi(c)+
     (c.blindagem?'<span class="tag armor">Blindado '+esc(c.blindagem)+'</span>':'')+
@@ -432,7 +431,7 @@ function cardMod(m){
   const n=nUnits(m),arm=m.estoque.some(u=>u.blindagem);
   const p=minPrice(m);
   return '<button type="button" class="car" data-k="m" data-id="'+m.id+'"><div class="ph light">'+photoMod(m)+
-    (n?'<span class="tag stock">'+n+(n>1?' em estoque':' em estoque')+'</span>':'<span class="tag">Venda futura</span>')+
+    (n?'<span class="tag stock">'+n+(n>1?' em estoque':' em estoque')+'</span>':'')+
     (arm?'<span class="tag armor qty">Blindado disponível</span>':'')+
     '</div><div class="body"><h3><small>'+esc(m.linha)+' · '+esc(m.carroceria)+'</small>'+esc(m.versao)+'</h3>'+
     '<div class="specs">'+[m.ano,m.motorizacao].filter(Boolean).map(s=>'<span>'+esc(s)+'</span>').join("")+'</div>'+
@@ -456,7 +455,7 @@ function listMod(){
     &&(!q||[m.linha,m.versao,m.carroceria,m.motorizacao,...m.estoque.map(u=>u.cor+" "+u.cor_interna+" "+(u.blindagem||""))].join(" ").toLowerCase().includes(q)));
   const P=m=>minPrice(m)||0;
   const s={pd:(a,b)=>P(b)-P(a),pa:(a,b)=>(P(a)||9e9)-(P(b)||9e9),km:()=>0,ano:(a,b)=>yr(b.ano)-yr(a.ano),
-    rel:(a,b)=>(nUnits(b)>0)-(nUnits(a)>0)||a.linha.localeCompare(b.linha,"pt",{numeric:true})||P(a)-P(b)}[st.sort];
+    rel:(a,b)=>a.versao.localeCompare(b.versao,"pt",{numeric:true,sensitivity:"base"})}[st.sort];
   return r.sort(s);
 }
 function fillSelects(){
@@ -506,13 +505,13 @@ function openSemi(id){
 }
 function openMod(id){
   const m=MODELOS.find(x=>x.id===id);if(!m)return;const n=nUnits(m);
-  $("#s-eyebrow").textContent="BMW 0 km · "+(n?n+" em estoque":"venda futura");$("#s-title").textContent=m.versao;$("#s-ver").textContent=m.linha+" · "+m.carroceria+" · "+m.motorizacao;
+  $("#s-eyebrow").textContent="BMW 0 km · "+(n?n+" em estoque":"sob consulta");$("#s-title").textContent=m.versao;$("#s-ver").textContent=m.linha+" · "+m.carroceria+" · "+m.motorizacao;
   $("#s-price").innerHTML=m.preco_bmw?'<span class="from">Preço público sugerido BMW</span>'+brl(m.preco_bmw):"Preço sob consulta";
   $("#s-ph").className="ph light";
-  $("#s-dl").innerHTML=[["Linha",m.linha],["Versão",m.versao],["Ano/modelo",m.ano||"Consulte"],["Carroceria",m.carroceria],["Motorização",m.motorizacao],["Disponibilidade",n?n+(n>1?" unidades":" unidade")+" a pronta entrega":"Venda futura · sob encomenda"]].map(([k,v])=>'<div><dt>'+k+'</dt><dd>'+esc(v)+'</dd></div>').join("");
-  $("#s-units").innerHTML=n?'<h4>Unidades em estoque</h4>'+m.estoque.map((u,i)=>'<div class="unit"><div><b>'+esc(u.cor)+'</b><span>Interior '+esc(u.cor_interna)+' · '+esc(u.ano)+(u.blindagem?' · <em>Blindado '+esc(u.blindagem)+'</em>':'')+(u.unidades>1?' · '+u.unidades+' unidades':'')+'</span></div><div class="unit-r"><b class="up">'+brl(u.preco)+'</b><a class="btn btn-wa btn-xs" target="_blank" rel="noopener" href="'+wa(interestUnit(m,u))+'">Quero este</a></div></div>').join(""):'<p class="note">Sem unidade no estoque hoje. Faço o pedido para você com a cor e os opcionais que quiser.</p>';
+  $("#s-dl").innerHTML=[["Linha",m.linha],["Versão",m.versao],["Ano/modelo",m.ano||"Consulte"],["Carroceria",m.carroceria],["Motorização",m.motorizacao],["Disponibilidade",n?n+(n>1?" unidades":" unidade")+" a pronta entrega":"Sob consulta"]].map(([k,v])=>'<div><dt>'+k+'</dt><dd>'+esc(v)+'</dd></div>').join("");
+  $("#s-units").innerHTML=n?'<h4>Unidades em estoque</h4>'+m.estoque.map((u,i)=>'<div class="unit"><div><b>'+esc(u.cor)+'</b><span>Interior '+esc(u.cor_interna)+' · '+esc(u.ano)+(u.blindagem?' · <em>Blindado '+esc(u.blindagem)+'</em>':'')+(u.unidades>1?' · '+u.unidades+' unidades':'')+'</span></div><div class="unit-r"><b class="up">'+brl(u.preco)+'</b><a class="btn btn-wa btn-xs" target="_blank" rel="noopener" href="'+wa(interestUnit(m,u))+'">Quero este</a></div></div>').join(""):'<p class="note">Me chame no WhatsApp para ver cores, prazo e condições desta versão.</p>';
   gallery(m.fotos,i=>photoMod(m,i));
-  $("#s-wa").href=wa(interestMod(m));$("#s-wa").textContent=n?"Falar sobre este modelo":"Encomendar este modelo";
+  $("#s-wa").href=wa(interestMod(m));$("#s-wa").textContent="Falar sobre este modelo";
   show();
 }
 function show(){$("#sheet").hidden=false;document.body.style.overflow="hidden";$("#s-close").focus();$(".sheet-box").scrollTop=0}
