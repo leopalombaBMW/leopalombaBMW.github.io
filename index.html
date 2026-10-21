@@ -1,0 +1,574 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Léo Palomba BMW Gastão</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Léo Palomba, Gerente Comercial da BMW Grand Brasil Gastão. Estoque BMW 0 km e seminovos com preço, blindados e avaliação do seu carro na troca.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap">
+<style>
+/* Layout: coluna única pensada para celular; faixas largas com miolo de até 1120px; vitrine em grade de cards */
+:root{
+  --bg:#f3f5f8; --surface:#ffffff; --ink:#0d1620; --muted:#5a6676; --line:#d9dfe7;
+  --accent:#1c69d4; --accent-ink:#ffffff; --band:#0d1620; --band-ink:#eef3f9; --band-muted:#9fb0c4;
+  --wa:#1f9d55; --plate:#e6ebf1; --armor:#7a5a12; --armor-bg:#f6ecd2; --shade:rgba(13,22,32,.55);
+  --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --body:"Barlow",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0a1118; --surface:#111b26; --ink:#e9eff6; --muted:#9aa8b8; --line:#223142;
+  --accent:#4d8eeb; --accent-ink:#06101b; --band:#060b10; --band-ink:#eef3f9; --band-muted:#8fa2b8;
+  --wa:#34c274; --plate:#1a2735; --armor:#e8c66e; --armor-bg:#2a2210; --shade:rgba(0,0,0,.7); color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#0a1118; --surface:#111b26; --ink:#e9eff6; --muted:#9aa8b8; --line:#223142;
+  --accent:#4d8eeb; --accent-ink:#06101b; --band:#060b10; --band-ink:#eef3f9; --band-muted:#8fa2b8;
+  --wa:#34c274; --plate:#1a2735; --armor:#e8c66e; --armor-bg:#2a2210; --shade:rgba(0,0,0,.7); color-scheme:dark }
+
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55;margin:0}
+.wrap{max-width:1120px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1,h2,h3{font-family:var(--display);font-weight:700;line-height:1.05;margin:0;text-wrap:balance;letter-spacing:.005em}
+.eyebrow{font-family:var(--display);font-weight:600;text-transform:uppercase;letter-spacing:.14em;font-size:.82rem;color:var(--accent)}
+a{color:inherit}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.5em;font-family:var(--display);font-weight:600;font-size:1.08rem;letter-spacing:.06em;text-transform:uppercase;text-decoration:none;border:0;cursor:pointer;padding:.85em 1.4em;border-radius:4px;transition:transform .15s ease,filter .15s ease}
+.btn:hover{filter:brightness(1.08)}
+.btn:active{transform:translateY(1px)}
+.btn:focus-visible,.chip:focus-visible,.seg button:focus-visible,input:focus-visible,select:focus-visible,.car:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.btn-wa{background:var(--wa);color:#fff}
+.btn-line{background:transparent;color:inherit;box-shadow:inset 0 0 0 1.5px currentColor}
+.btn-sm{font-size:.95rem;padding:.6em 1em}
+.btn svg{width:1.15em;height:1.15em;flex:none}
+
+.top{background:var(--band);color:var(--band-ink)}
+.top .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-block:14px;flex-wrap:wrap}
+.brand{font-family:var(--display);font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:1rem}
+.brand span{color:var(--band-muted);font-weight:500}
+.top nav{display:flex;gap:18px;font-family:var(--display);text-transform:uppercase;letter-spacing:.1em;font-size:.9rem}
+.top nav a{text-decoration:none;color:var(--band-muted)}
+.top nav a:hover{color:var(--band-ink)}
+
+.hero{background:var(--band);color:var(--band-ink);position:relative;overflow:hidden}
+.hero .wrap{padding-block:30px 44px;display:grid;gap:20px;position:relative;z-index:1}
+.hero h1{font-size:clamp(2.7rem,9vw,4.8rem);text-transform:uppercase}
+.hero .role{font-size:1.1rem;color:var(--band-muted);max-width:38ch;margin:0}
+.hero .role strong{color:var(--band-ink);font-weight:600}
+.hero .actions{display:flex;gap:12px;flex-wrap:wrap}
+.hero .btn-line{color:var(--band-ink)}
+.stripes{position:absolute;right:-40px;top:0;bottom:0;width:min(46%,420px);display:flex;gap:10px;transform:skewX(-18deg);opacity:.9;pointer-events:none}
+.stripes i{display:block;flex:1;max-width:18px}
+.stripes i:nth-child(1){background:#5fa3e8}.stripes i:nth-child(2){background:#1c3f94}.stripes i:nth-child(3){background:#d2283a}
+@media (max-width:640px){.stripes{width:110px;right:-30px;opacity:.55}}
+.facts{display:flex;gap:28px;flex-wrap:wrap}
+.facts div{display:grid}
+.facts b{font-family:var(--display);font-size:1.9rem;line-height:1;font-variant-numeric:tabular-nums}
+.facts span{font-size:.82rem;color:var(--band-muted);text-transform:uppercase;letter-spacing:.1em}
+
+section{padding-block:44px}
+.sec-head{display:grid;gap:8px;margin-bottom:22px}
+.sec-head h2{font-size:clamp(2rem,5.5vw,2.8rem);text-transform:uppercase}
+.sec-head p{color:var(--muted);margin:0;max-width:62ch}
+
+/* Vitrine */
+.tabs{display:flex;gap:0;border-bottom:2px solid var(--line);margin-bottom:16px}
+.tabs button{white-space:nowrap;font-family:var(--display);font-weight:600;font-size:clamp(1.05rem,4.4vw,1.25rem);text-transform:uppercase;letter-spacing:.06em;background:none;border:0;color:var(--muted);padding:.5em 1em .55em;cursor:pointer;border-bottom:3px solid transparent;margin-bottom:-2px}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tabs button span{font-variant-numeric:tabular-nums;font-size:.85em;color:var(--muted);margin-left:.3em}
+.filters{display:flex;flex-wrap:wrap;gap:10px;align-items:end;margin-bottom:14px}
+.filters label{display:grid;gap:4px;font-size:.8rem;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-family:var(--display)}
+.filters input,.filters select{font:inherit;font-size:.95rem;text-transform:none;letter-spacing:0;padding:.5em .7em;border:1.5px solid var(--line);border-radius:4px;background:var(--surface);color:var(--ink);min-width:0}
+.filters .grow{flex:1 1 200px}
+.filters .grow input{width:100%}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.seg button{font:inherit;font-size:.92rem;font-weight:500;border:1.5px solid var(--line);background:var(--surface);color:var(--ink);padding:.48em .85em;border-radius:4px;cursor:pointer}
+.seg button[aria-pressed="true"]{border-color:var(--ink);background:var(--ink);color:var(--bg)}
+.count{font-size:.9rem;color:var(--muted);margin:0 0 14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
+.car{background:var(--surface);border:1px solid var(--line);border-radius:6px;overflow:hidden;display:grid;grid-template-rows:auto 1fr;cursor:pointer;text-align:left;font:inherit;color:inherit;padding:0}
+.car:hover{border-color:var(--accent)}
+.ph{position:relative;aspect-ratio:16/10;max-width:100%;background:var(--band);color:var(--band-ink);overflow:hidden}
+.ph img{width:100%;height:100%;object-fit:cover;display:block}
+.ph .ghost{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--display);font-weight:700;font-size:clamp(3.2rem,9vw,4.6rem);letter-spacing:.02em;color:var(--band-ink);opacity:.92}
+.ph .ghost small{display:block;font-size:.95rem;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--band-muted);text-align:center}
+.ph .bars{position:absolute;right:-14px;top:0;bottom:0;display:flex;gap:5px;transform:skewX(-18deg)}
+.ph .bars i{width:8px}.ph .bars i:nth-child(1){background:#5fa3e8}.ph .bars i:nth-child(2){background:#1c3f94}.ph .bars i:nth-child(3){background:#d2283a}
+.tag{position:absolute;left:10px;top:10px;font-family:var(--display);font-weight:600;font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;padding:.25em .6em;border-radius:3px;background:var(--surface);color:var(--ink)}
+.tag.armor{background:var(--armor-bg);color:var(--armor)}
+.tag.qty{left:auto;right:10px}
+.body{padding:14px 16px 16px;display:grid;gap:8px;align-content:start}
+.body h3{font-size:1.45rem;text-transform:uppercase}
+.body h3 small{font-family:var(--body);font-weight:500;font-size:.8rem;letter-spacing:.06em;color:var(--muted);display:block;text-transform:uppercase}
+.ver{font-size:.9rem;color:var(--muted);margin:0;line-height:1.35}
+.specs{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:.88rem;color:var(--ink);font-variant-numeric:tabular-nums}
+.specs span{white-space:nowrap}
+.specs span+span::before{content:"·";margin-right:12px;color:var(--muted)}
+.price{font-family:var(--display);font-weight:700;font-size:1.7rem;font-variant-numeric:tabular-nums;line-height:1}
+.empty{padding:28px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:6px}
+.more{display:flex;justify-content:center;margin-top:20px}
+
+.ph.light{background:linear-gradient(180deg,var(--surface),var(--plate))}
+.ph.light img{object-fit:contain;padding:6% 4%}
+.ph.light .ghost{color:var(--ink)}.ph.light .ghost small{color:var(--muted)}
+.nofoto{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--display);font-size:1rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.tag.stock{background:var(--wa);color:#fff}
+.from{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);font-family:var(--display);display:block}
+.price.soft{color:var(--muted);font-size:1.3rem}
+.units{display:grid;gap:8px}
+.units h4{margin:0;font-family:var(--display);text-transform:uppercase;letter-spacing:.08em;font-size:1.05rem}
+.unit{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap;border:1px solid var(--line);border-radius:6px;padding:10px 12px}
+.unit > div:first-child{display:grid;min-width:0}
+.unit span{font-size:.88rem;color:var(--muted)}
+.unit em{font-style:normal;color:var(--armor);font-weight:600}
+.unit-r{display:flex;gap:10px;align-items:center}
+.up{font-family:var(--display);font-size:1.3rem;font-variant-numeric:tabular-nums}
+.btn-xs{font-size:.85rem;padding:.5em .8em}
+/* Ficha */
+.sheet{position:fixed;inset:0;background:var(--shade);display:grid;place-items:center;z-index:50;padding:16px;padding-top:calc(16px + env(safe-area-inset-top,0px));padding-bottom:calc(16px + env(safe-area-inset-bottom,0px))}
+.sheet-box{background:var(--surface);color:var(--ink);border-radius:8px;max-width:760px;width:100%;max-height:100%;overflow:auto;display:grid}
+.sheet-box .ph{aspect-ratio:16/9}
+.thumbs{display:flex;gap:6px;overflow-x:auto;padding:8px 16px 0}
+.thumbs img{width:76px;height:56px;object-fit:cover;border-radius:3px;cursor:pointer;opacity:.7;flex:none}
+.thumbs img[aria-current="true"]{opacity:1;outline:2px solid var(--accent)}
+.sheet-in{padding:18px 20px 22px;display:grid;gap:14px}
+.sheet-in h3{font-size:2rem;text-transform:uppercase}
+dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px 18px;margin:0}
+dl div{display:grid;border-top:1px solid var(--line);padding-top:6px}
+dt{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);font-family:var(--display)}
+dd{margin:0;font-weight:500}
+.sheet-actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.close{position:sticky;top:0;justify-self:end;margin:8px 8px -48px 0;z-index:2;width:40px;height:40px;border-radius:50%;border:0;background:var(--surface);color:var(--ink);font-size:1.4rem;cursor:pointer;box-shadow:0 1px 4px rgba(0,0,0,.25)}
+
+/* Montador */
+.builder{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:22px;display:grid;gap:22px}
+.step{display:grid;gap:10px}
+.step-label{font-family:var(--display);font-weight:600;font-size:1.05rem;text-transform:uppercase;letter-spacing:.08em;display:flex;gap:10px;align-items:baseline}
+.step-label em{font-style:normal;color:var(--accent);font-variant-numeric:tabular-nums}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{font:inherit;font-weight:500;border:1.5px solid var(--line);background:transparent;color:var(--ink);padding:.5em .95em;border-radius:999px;cursor:pointer;line-height:1.2}
+.chip small{display:block;font-size:.75rem;color:var(--muted);font-weight:400}
+.chip[aria-pressed="true"]{border-color:var(--accent);background:var(--accent);color:var(--accent-ink)}
+.chip[aria-pressed="true"] small{color:inherit;opacity:.85}
+.field{display:grid;gap:6px;max-width:420px}
+.field label{font-size:.9rem;color:var(--muted)}
+.field input{font:inherit;padding:.65em .8em;border:1.5px solid var(--line);border-radius:4px;background:var(--bg);color:var(--ink);width:100%}
+.preview{border-top:1px dashed var(--line);padding-top:18px;display:grid;gap:14px}
+.preview pre{margin:0;white-space:pre-wrap;font-family:var(--body);font-size:.95rem;background:var(--bg);border-left:3px solid var(--wa);padding:12px 14px;border-radius:0 4px 4px 0;color:var(--ink)}
+.preview .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.note{font-size:.85rem;color:var(--muted);margin:0}
+
+.armor-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.armor-grid article{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:18px;display:grid;gap:6px;align-content:start}
+.armor-grid h3{font-size:1.6rem;text-transform:uppercase}
+.armor-grid p{margin:0;color:var(--muted)}
+
+.trade{background:var(--band);color:var(--band-ink)}
+.trade .wrap{display:grid;gap:18px;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);align-items:center}
+@media (max-width:760px){.trade .wrap{grid-template-columns:1fr}}
+.trade h2{font-size:clamp(2rem,5.5vw,2.8rem);text-transform:uppercase}
+.trade p{color:var(--band-muted);margin:0}
+.trade ol{margin:0;padding-left:1.2em;display:grid;gap:6px}
+
+.contact{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:20px;display:grid;gap:10px;align-content:start}
+.card h3{font-size:1.5rem;text-transform:uppercase}
+.card .big{font-family:var(--display);font-size:1.9rem;font-weight:600;font-variant-numeric:tabular-nums;user-select:all}
+.card p{margin:0;color:var(--muted)}
+.copy{font:inherit;font-size:.85rem;border:1px solid var(--line);background:transparent;color:var(--ink);padding:.35em .8em;border-radius:4px;cursor:pointer;justify-self:start}
+
+footer{border-top:1px solid var(--line);padding-block:26px 40px;color:var(--muted);font-size:.85rem}
+footer .wrap{display:grid;gap:6px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+</head><body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">BMW Grand Brasil <span>· Gastão</span></div>
+    <nav aria-label="Seções"><a href="#estoque">Estoque</a><a href="#monte">Consulta</a><a href="#contato">Contato</a></nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="stripes" aria-hidden="true"><i></i><i></i><i></i></div>
+  <div class="wrap">
+    <div class="eyebrow">BMW 0 km · Seminovos · Blindados</div>
+    <h1>Léo<br>Palomba</h1>
+    <p class="role"><strong>Gerente Comercial</strong> da BMW Grand Brasil Gastão. Veja o estoque com preço e fale direto comigo para fechar o seu carro.</p>
+    <div class="actions">
+      <a class="btn btn-wa" id="wa-hero" href="#" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.3-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.7 11.8 11.8 0 0 0 4.5 4c1.7.7 2.3.8 3.2.6a2.7 2.7 0 0 0 1.8-1.2 2.2 2.2 0 0 0 .1-1.2c0-.1-.2-.2-.4-.3z"/></svg>
+        Chamar no WhatsApp
+      </a>
+      <a class="btn btn-line" href="#estoque">Ver estoque</a>
+    </div>
+    <div class="facts">
+      <div><b>24 anos</b><span>de Grand Brasil</span></div>
+      <div><b id="f-0km">–</b><span>versões BMW 0 km</span></div>
+      <div><b id="f-stock">–</b><span>0 km a pronta entrega</span></div>
+      <div><b id="f-semi">–</b><span>seminovos com preço</span></div>
+    </div>
+  </div>
+</div>
+
+<main>
+  <section id="estoque">
+    <div class="wrap">
+      <div class="sec-head">
+        <div class="eyebrow">Estoque <span id="upd"></span></div>
+        <h2>BMW 0 km e seminovos</h2>
+        <p>Todas as versões BMW 0 km vendidas no Brasil, com as unidades que temos a pronta entrega. Sem estoque da versão? Eu faço o pedido de fábrica. Toque no carro para ver a ficha e falar comigo no WhatsApp.</p>
+      </div>
+
+      <div class="tabs" role="tablist">
+        <button type="button" role="tab" id="tab-0km" aria-selected="true" data-t="0km">BMW 0 km<span id="c-0km"></span></button>
+        <button type="button" role="tab" id="tab-semi" aria-selected="false" data-t="seminovo">Seminovos<span id="c-semi"></span></button>
+      </div>
+
+      <div class="filters">
+        <label class="grow">Buscar<input id="q" type="search" placeholder="Modelo, versão ou cor" autocomplete="off"></label>
+        <label id="brand-wrap" hidden>Marca<select id="brand"><option value="">Todas</option></select></label>
+        <label>Modelo<select id="model"><option value="">Todos</option></select></label>
+        <label>Ordenar<select id="sort">
+          <option value="rel">Mais relevantes</option>
+          <option value="pd">Maior preço</option>
+          <option value="pa">Menor preço</option>
+          <option value="km" id="opt-km">Menor km</option>
+          <option value="ano">Mais novo</option>
+        </select></label>
+        <div class="seg" id="avail-f" role="group" aria-label="Disponibilidade">
+          <button type="button" aria-pressed="true" data-v="">Todas as versões</button>
+          <button type="button" aria-pressed="false" data-v="e">Pronta entrega</button>
+          <button type="button" aria-pressed="false" data-v="f">Venda futura</button>
+        </div>
+        <div class="seg" id="armor-f" role="group" aria-label="Blindagem">
+          <button type="button" aria-pressed="true" data-v="">Todos</button>
+          <button type="button" aria-pressed="false" data-v="b">Blindados</button>
+          <button type="button" aria-pressed="false" data-v="n">Sem blindagem</button>
+        </div>
+      </div>
+      <p class="count" id="count"></p>
+      <div class="grid" id="grid"></div>
+      <div class="more"><button class="btn btn-line btn-sm" id="more" type="button" hidden>Mostrar mais</button></div>
+      <p class="note" style="margin-top:18px">Valores, condições e disponibilidade sujeitos a alteração. Confirme com o consultor antes da visita.</p>
+    </div>
+  </section>
+
+  <section id="monte" style="padding-top:0">
+    <div class="wrap">
+      <div class="sec-head">
+        <div class="eyebrow">Não achou o que procura?</div>
+        <h2>Monte sua consulta</h2>
+        <p>Marque o que procura e o WhatsApp abre com a mensagem escrita. Eu respondo com disponibilidade, cores e a melhor condição do mês.</p>
+      </div>
+      <div class="builder">
+        <div class="step">
+          <div class="step-label"><em>1</em> Modelo</div>
+          <div class="chips" id="models"></div>
+        </div>
+        <div class="step">
+          <div class="step-label"><em>2</em> Blindagem</div>
+          <div class="seg" data-group="armor">
+            <button type="button" aria-pressed="true" data-v="Sem blindagem">Sem blindagem</button>
+            <button type="button" aria-pressed="false" data-v="Blindado">Blindado</button>
+            <button type="button" aria-pressed="false" data-v="Tanto faz, quero ver as duas opções">Ver as duas</button>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-label"><em>3</em> Pagamento</div>
+          <div class="seg" data-group="pay">
+            <button type="button" aria-pressed="true" data-v="Financiamento">Financiamento</button>
+            <button type="button" aria-pressed="false" data-v="À vista">À vista</button>
+            <button type="button" aria-pressed="false" data-v="CNPJ / venda direta">CNPJ / venda direta</button>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-label"><em>4</em> Tem carro na troca?</div>
+          <div class="seg" data-group="trade">
+            <button type="button" aria-pressed="true" data-v="">Não</button>
+            <button type="button" aria-pressed="false" data-v="yes">Sim</button>
+          </div>
+          <div class="field" id="trade-field" hidden>
+            <label for="trade-car">Modelo, ano e km do seu carro</label>
+            <input id="trade-car" type="text" placeholder="Ex.: X1 sDrive20i 2023, 28.000 km" autocomplete="off">
+          </div>
+        </div>
+        <div class="step">
+          <div class="field">
+            <label for="name">Seu nome</label>
+            <input id="name" type="text" placeholder="Como posso te chamar?" autocomplete="given-name">
+          </div>
+        </div>
+        <div class="preview">
+          <div class="step-label">Mensagem que vai para o meu WhatsApp</div>
+          <pre id="msg"></pre>
+          <div class="row">
+            <a class="btn btn-wa" id="wa-send" href="#" target="_blank" rel="noopener">Enviar no WhatsApp</a>
+            <button class="copy" type="button" id="copy-msg">Copiar mensagem</button>
+          </div>
+          <p class="note">Se o WhatsApp não abrir, copie a mensagem e envie para (11) 94176-1978.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding-top:0">
+    <div class="wrap">
+      <div class="sec-head">
+        <div class="eyebrow">Blindagem</div>
+        <h2>BMW blindado</h2>
+        <p>Unidades já blindadas a pronta entrega e carros em produção de blindagem. Use o filtro “Blindados” no estoque ou me pergunte pelo modelo que você quer.</p>
+      </div>
+      <div class="armor-grid">
+        <article><h3>Guardian</h3><p>Pergunte pelas unidades Guardian disponíveis.</p></article>
+        <article><h3>Carbon</h3><p>Pergunte pelas unidades Carbon disponíveis.</p></article>
+        <article><h3>Master</h3><p>Pergunte pelas unidades Master disponíveis.</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="trade">
+    <div class="wrap">
+      <div style="display:grid;gap:12px">
+        <div class="eyebrow">Seu usado na troca</div>
+        <h2>Avaliação do seu carro</h2>
+        <p>Aceitamos o seu carro como parte do pagamento. Me mande os dados e já volto com uma proposta.</p>
+      </div>
+      <div style="display:grid;gap:16px">
+        <ol><li>Modelo e versão</li><li>Ano e quilometragem</li><li>Fotos externas e do painel</li></ol>
+        <a class="btn btn-wa" id="wa-trade" href="#" target="_blank" rel="noopener">Avaliar meu carro</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="contato">
+    <div class="wrap">
+      <div class="sec-head">
+        <div class="eyebrow">Fale comigo</div>
+        <h2>Contato e loja</h2>
+      </div>
+      <div class="contact">
+        <div class="card">
+          <h3>WhatsApp</h3>
+          <div class="big" id="phone">(11) 94176-1978</div>
+          <button class="copy" type="button" id="copy-phone">Copiar número</button>
+        </div>
+        <div class="card">
+          <h3>Instagram</h3>
+          <div class="big" style="font-size:1.35rem;word-break:break-all">@bmw.grandbrasil_leopalomba</div>
+          <a class="btn btn-line btn-sm" style="justify-self:start" href="https://www.instagram.com/bmw.grandbrasil_leopalomba/" target="_blank" rel="noopener">Seguir no Instagram</a>
+        </div>
+        <div class="card">
+          <h3>BMW Grand Brasil Gastão</h3>
+          <p>Av. Dr. Gastão Vidigal, 1357<br>Vila Leopoldina · São Paulo – SP</p>
+          <a class="btn btn-line btn-sm" style="justify-self:start" href="https://www.google.com/maps/search/?api=1&amp;query=Av.+Dr.+Gast%C3%A3o+Vidigal,+1357+-+Vila+Leopoldina,+S%C3%A3o+Paulo+-+SP" target="_blank" rel="noopener">Ver no mapa</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>Léo Palomba · Gerente Comercial · BMW Grand Brasil Gastão</div>
+    <div>Valores, condições e disponibilidade sujeitos a alteração. Confirme com o consultor antes da visita. Imagens meramente ilustrativas quando indicado.</div>
+  </div>
+</footer>
+
+<div class="sheet" id="sheet" hidden role="dialog" aria-modal="true" aria-labelledby="s-title">
+  <div class="sheet-box">
+    <button class="close" type="button" id="s-close" aria-label="Fechar">×</button>
+    <div class="ph" id="s-ph"></div>
+    <div class="thumbs" id="s-thumbs"></div>
+    <div class="sheet-in">
+      <div>
+        <div class="eyebrow" id="s-eyebrow"></div>
+        <h3 id="s-title"></h3>
+        <p class="ver" id="s-ver"></p>
+      </div>
+      <div class="price" id="s-price"></div>
+      <dl id="s-dl"></dl>
+      <div id="s-units" class="units"></div>
+      <div class="sheet-actions">
+        <a class="btn btn-wa" id="s-wa" href="#" target="_blank" rel="noopener">Tenho interesse</a>
+        <span class="note">Valores e disponibilidade sujeitos a alteração.</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const PHONE="5511941761978";
+const $=s=>document.querySelector(s);
+const wa=t=>"https://wa.me/"+PHONE+"?text="+encodeURIComponent(t);
+const brl=v=>"R$ "+Math.round(v).toLocaleString("pt-BR");
+const kmf=v=>v.toLocaleString("pt-BR")+" km";
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const st={tab:"0km",q:"",brand:"",model:"",sort:"rel",armor:"",avail:"",shown:24};
+let CARS=[],MODELOS=[];
+const yr=a=>+String(a||"").split("/")[1]||0;
+function nUnits(m){return m.estoque.reduce((n,u)=>n+u.unidades,0)}
+function minPrice(m){return m.estoque.length?Math.min(...m.estoque.map(u=>u.preco)):m.preco_bmw}
+function title(c){return (c.marca==="BMW"?"":c.marca+" ")+c.modelo}
+function ghost(name,sub){return '<div class="ghost"><div>'+esc(name)+'<small>'+esc(sub)+'</small></div></div><div class="bars" aria-hidden="true"><i></i><i></i><i></i></div>'}
+function img(src,alt){return '<img src="'+esc(src)+'" alt="'+esc(alt)+'" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement(\'span\'),{className:\'nofoto\',textContent:\'Foto em breve\'}))">'}
+function photoSemi(c,i){return c.fotos.length?img(c.fotos[i||0],title(c)):ghost(c.modelo,c.marca+" · foto em breve")}
+function photoMod(m,i){return m.fotos.length?img(m.fotos[i||0],"BMW "+m.versao):ghost(m.linha,"BMW · foto em breve")}
+function interestSemi(c){return ["Olá Léo, vi seu site e tenho interesse neste seminovo:",
+  title(c)+" "+c.versao,"Ano: "+c.ano+" · "+kmf(c.km),"Cor: "+c.cor,c.blindagem?"Blindado "+c.blindagem:"Sem blindagem",
+  "Preço anunciado: "+brl(c.preco),"Final de placa "+c.final_placa].join("\n")}
+function interestUnit(m,u){return ["Olá Léo, vi seu site e tenho interesse neste BMW 0 km:","BMW "+m.versao,"Ano: "+u.ano,
+  "Cor: "+u.cor+" · interior "+u.cor_interna,u.blindagem?"Blindado "+u.blindagem:"Sem blindagem","Preço anunciado: "+brl(u.preco)].join("\n")}
+function interestMod(m){return ["Olá Léo, vi seu site e tenho interesse no BMW "+m.versao+" 0 km.",
+  nUnits(m)?"Quero saber das cores disponíveis e condições.":"Quero saber prazo de entrega e condições (venda futura)."].join("\n")}
+function cardSemi(c){
+  return '<button type="button" class="car" data-k="s" data-id="'+c.id+'"><div class="ph">'+photoSemi(c)+
+    (c.blindagem?'<span class="tag armor">Blindado '+esc(c.blindagem)+'</span>':'')+
+    '</div><div class="body"><h3>'+esc(title(c))+'</h3><p class="ver">'+esc(c.versao)+'</p>'+
+    '<div class="specs">'+[c.ano,kmf(c.km),c.cor,c.combustivel].map(s=>'<span>'+esc(s)+'</span>').join("")+'</div>'+
+    '<div class="price">'+brl(c.preco)+'</div></div></button>';
+}
+function cardMod(m){
+  const n=nUnits(m),arm=m.estoque.some(u=>u.blindagem);
+  const p=minPrice(m);
+  return '<button type="button" class="car" data-k="m" data-id="'+m.id+'"><div class="ph light">'+photoMod(m)+
+    (n?'<span class="tag stock">'+n+(n>1?' em estoque':' em estoque')+'</span>':'<span class="tag">Venda futura</span>')+
+    (arm?'<span class="tag armor qty">Blindado disponível</span>':'')+
+    '</div><div class="body"><h3><small>'+esc(m.linha)+' · '+esc(m.carroceria)+'</small>'+esc(m.versao)+'</h3>'+
+    '<div class="specs">'+[m.ano,m.motorizacao].filter(Boolean).map(s=>'<span>'+esc(s)+'</span>').join("")+'</div>'+
+    (p?'<div><div class="from">a partir de</div><div class="price">'+brl(p)+'</div></div>':'<div class="price soft">Consulte</div>')+
+    '</div></button>';
+}
+function listSemi(){
+  const q=st.q.toLowerCase();
+  const r=CARS.filter(c=>(!st.brand||c.marca===st.brand)&&(!st.model||c.modelo===st.model)
+    &&(!st.armor||(st.armor==="b"?!!c.blindagem:!c.blindagem))
+    &&(!q||[c.marca,c.modelo,c.versao,c.cor,c.blindagem].join(" ").toLowerCase().includes(q)));
+  const s={pd:(a,b)=>b.preco-a.preco,pa:(a,b)=>a.preco-b.preco,km:(a,b)=>a.km-b.km,ano:(a,b)=>yr(b.ano)-yr(a.ano)||a.km-b.km,
+    rel:(a,b)=>(b.marca==="BMW")-(a.marca==="BMW")||b.preco-a.preco}[st.sort];
+  return r.sort(s);
+}
+function listMod(){
+  const q=st.q.toLowerCase();
+  const r=MODELOS.filter(m=>(!st.model||m.linha===st.model)
+    &&(!st.avail||(st.avail==="e"?nUnits(m)>0:nUnits(m)===0))
+    &&(!st.armor||(st.armor==="b"?m.estoque.some(u=>u.blindagem):(m.estoque.some(u=>!u.blindagem)||!m.estoque.length)))
+    &&(!q||[m.linha,m.versao,m.carroceria,m.motorizacao,...m.estoque.map(u=>u.cor+" "+u.cor_interna+" "+(u.blindagem||""))].join(" ").toLowerCase().includes(q)));
+  const P=m=>minPrice(m)||0;
+  const s={pd:(a,b)=>P(b)-P(a),pa:(a,b)=>(P(a)||9e9)-(P(b)||9e9),km:()=>0,ano:(a,b)=>yr(b.ano)-yr(a.ano),
+    rel:(a,b)=>(nUnits(b)>0)-(nUnits(a)>0)||a.linha.localeCompare(b.linha,"pt",{numeric:true})||P(a)-P(b)}[st.sort];
+  return r.sort(s);
+}
+function fillSelects(){
+  const semi=st.tab==="seminovo";
+  if(semi){
+    const brands=[...new Set(CARS.map(c=>c.marca))].sort((a,b)=>(b==="BMW")-(a==="BMW")||a.localeCompare(b));
+    $("#brand").innerHTML='<option value="">Todas</option>'+brands.map(b=>'<option>'+esc(b)+'</option>').join("");
+    $("#brand").value=st.brand;
+  }
+  const models=semi?[...new Set(CARS.filter(c=>!st.brand||c.marca===st.brand).map(c=>c.modelo))]:[...new Set(MODELOS.map(m=>m.linha))];
+  models.sort((a,b)=>a.localeCompare(b,"pt",{numeric:true}));
+  $("#model").innerHTML='<option value="">Todos</option>'+models.map(m=>'<option>'+esc(m)+'</option>').join("");
+  if(!models.includes(st.model))st.model="";
+  $("#model").value=st.model;
+  $("#brand-wrap").hidden=!semi; $("#avail-f").hidden=semi; $("#opt-km").hidden=!semi;
+  $("#q").placeholder=semi?"Marca, modelo, versão ou cor":"Modelo, versão ou cor";
+}
+function render(){
+  const semi=st.tab==="seminovo", r=semi?listSemi():listMod();
+  if(semi)$("#count").textContent=r.length+(r.length===1?" seminovo":" seminovos");
+  else{const u=r.reduce((n,m)=>n+nUnits(m),0);$("#count").textContent=r.length+(r.length===1?" versão":" versões")+" · "+u+(u===1?" unidade":" unidades")+" em estoque"}
+  $("#grid").innerHTML=r.length?r.slice(0,st.shown).map(semi?cardSemi:cardMod).join(""):'<div class="empty">Nada com esses filtros agora. Me chame no WhatsApp que eu procuro para você.</div>';
+  $("#more").hidden=r.length<=st.shown;
+}
+function setTab(t){
+  st.tab=t;st.brand="";st.model="";st.shown=24;if(t==="0km"&&st.sort==="km")st.sort="rel";$("#sort").value=st.sort;
+  document.querySelectorAll(".tabs button").forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));
+  fillSelects();render();
+}
+function gallery(fotos,ph){
+  $("#s-thumbs").innerHTML=fotos.length>1?fotos.map((f,i)=>'<img src="'+esc(f)+'" alt="Foto '+(i+1)+'" data-i="'+i+'" aria-current="'+(i?"false":"true")+'" loading="lazy">').join(""):"";
+  $("#s-thumbs").hidden=fotos.length<2;
+  $("#s-thumbs").onclick=e=>{const im=e.target.closest("img");if(!im)return;$("#s-ph").innerHTML=ph(+im.dataset.i);$("#s-thumbs").querySelectorAll("img").forEach(x=>x.setAttribute("aria-current",x===im?"true":"false"))};
+  $("#s-ph").innerHTML=ph(0);
+}
+function openSemi(id){
+  const c=CARS.find(x=>x.id===id);if(!c)return;
+  $("#s-eyebrow").textContent="Seminovo";$("#s-title").textContent=title(c);$("#s-ver").textContent=c.versao;
+  $("#s-price").textContent=brl(c.preco);$("#s-ph").className="ph";
+  const rows=[["Marca",c.marca],["Modelo",c.modelo],["Versão",c.versao],["Ano fab./modelo",c.ano],["Quilometragem",kmf(c.km)],["Cor",c.cor],["Câmbio",c.cambio],["Combustível",c.combustivel],["Portas",c.portas],["Final de placa",c.final_placa],["Blindagem",c.blindagem||"Sem blindagem"]];
+  if(c.opcionais&&c.opcionais.length)rows.push(["Opcionais",c.opcionais.join(", ")]);
+  $("#s-dl").innerHTML=rows.map(([k,v])=>'<div><dt>'+k+'</dt><dd>'+esc(v)+'</dd></div>').join("");
+  $("#s-units").innerHTML="";
+  gallery(c.fotos,i=>photoSemi(c,i));
+  $("#s-wa").href=wa(interestSemi(c));$("#s-wa").textContent="Tenho interesse";
+  show();
+}
+function openMod(id){
+  const m=MODELOS.find(x=>x.id===id);if(!m)return;const n=nUnits(m);
+  $("#s-eyebrow").textContent="BMW 0 km · "+(n?n+" em estoque":"venda futura");$("#s-title").textContent=m.versao;$("#s-ver").textContent=m.linha+" · "+m.carroceria+" · "+m.motorizacao;
+  $("#s-price").innerHTML=m.preco_bmw?'<span class="from">Preço público sugerido BMW</span>'+brl(m.preco_bmw):"Preço sob consulta";
+  $("#s-ph").className="ph light";
+  $("#s-dl").innerHTML=[["Linha",m.linha],["Versão",m.versao],["Ano/modelo",m.ano||"Consulte"],["Carroceria",m.carroceria],["Motorização",m.motorizacao],["Disponibilidade",n?n+(n>1?" unidades":" unidade")+" a pronta entrega":"Venda futura · sob encomenda"]].map(([k,v])=>'<div><dt>'+k+'</dt><dd>'+esc(v)+'</dd></div>').join("");
+  $("#s-units").innerHTML=n?'<h4>Unidades em estoque</h4>'+m.estoque.map((u,i)=>'<div class="unit"><div><b>'+esc(u.cor)+'</b><span>Interior '+esc(u.cor_interna)+' · '+esc(u.ano)+(u.blindagem?' · <em>Blindado '+esc(u.blindagem)+'</em>':'')+(u.unidades>1?' · '+u.unidades+' unidades':'')+'</span></div><div class="unit-r"><b class="up">'+brl(u.preco)+'</b><a class="btn btn-wa btn-xs" target="_blank" rel="noopener" href="'+wa(interestUnit(m,u))+'">Quero este</a></div></div>').join(""):'<p class="note">Sem unidade no estoque hoje. Faço o pedido para você com a cor e os opcionais que quiser.</p>';
+  gallery(m.fotos,i=>photoMod(m,i));
+  $("#s-wa").href=wa(interestMod(m));$("#s-wa").textContent=n?"Falar sobre este modelo":"Encomendar este modelo";
+  show();
+}
+function show(){$("#sheet").hidden=false;document.body.style.overflow="hidden";$("#s-close").focus();$(".sheet-box").scrollTop=0}
+function closeSheet(){$("#sheet").hidden=true;document.body.style.overflow=""}
+$("#s-close").onclick=closeSheet;
+$("#sheet").addEventListener("click",e=>{if(e.target.id==="sheet")closeSheet()});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("#sheet").hidden)closeSheet()});
+$("#grid").addEventListener("click",e=>{const b=e.target.closest(".car");if(!b)return;b.dataset.k==="m"?openMod(b.dataset.id):openSemi(b.dataset.id)});
+document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>setTab(b.dataset.t));
+$("#q").addEventListener("input",e=>{st.q=e.target.value.trim();st.shown=24;render()});
+$("#brand").onchange=e=>{st.brand=e.target.value;st.model="";fillSelects();render()};
+$("#model").onchange=e=>{st.model=e.target.value;render()};
+$("#sort").onchange=e=>{st.sort=e.target.value;render()};
+$("#more").onclick=()=>{st.shown+=24;render()};
+function segBind(id,key){$(id).addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;st[key]=b.dataset.v;
+  $(id).querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b?"true":"false"));render()})}
+segBind("#armor-f","armor");segBind("#avail-f","avail");
+function boot(data){
+  CARS=(data.veiculos||[]).filter(c=>c.tipo==="seminovo").map(c=>({...c,fotos:c.fotos||[]}));
+  MODELOS=(data.modelos||[]).map(m=>({...m,fotos:m.fotos||[],estoque:m.estoque||[]}));
+  const n0=MODELOS.reduce((n,m)=>n+nUnits(m),0);
+  $("#f-0km").textContent=MODELOS.length;$("#f-stock").textContent=n0;$("#f-semi").textContent=CARS.length;
+  $("#c-0km").textContent=MODELOS.length;$("#c-semi").textContent=CARS.length;
+  if(data.atualizado){const [y,m,d]=data.atualizado.split("-");$("#upd").textContent="· atualizado em "+d+"/"+m+"/"+y}
+  setTab("0km");
+}
+if(window.ESTOQUE)boot(window.ESTOQUE);
+else fetch("estoque.json",{cache:"no-store"}).then(r=>r.json()).then(boot).catch(()=>{$("#grid").innerHTML='<div class="empty">Não consegui carregar o estoque agora. Me chame no WhatsApp.</div>'});
+
+/* Montador de consulta */
+const MODELS=[["Série 3","320i M Sport"],["Série 4","420i Cabrio"],["X1","sDrive20i"],["X2","xDrive20i M Sport"],["X3","30 xDrive · M50"],["iX3","50 xDrive · elétrico"],["X5","xDrive50e M Sport"],["X6","xDrive40i M Sport"],["X7","xDrive40i M Sport"],["Linha M","M2, M3, M4"],["Seminovo","qualquer marca"],["Outro","me ajude a escolher"]];
+const bs={model:"X3",armor:"Sem blindagem",pay:"Financiamento",trade:""};
+const box=$("#models");
+MODELS.forEach(([m,sub])=>{const b=document.createElement("button");b.type="button";b.className="chip";b.dataset.v=m;b.setAttribute("aria-pressed",m===bs.model?"true":"false");b.innerHTML=m+"<small>"+sub+"</small>";box.appendChild(b)});
+box.addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;bs.model=b.dataset.v;box.querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed",c===b?"true":"false"));renderMsg()});
+document.querySelectorAll(".builder .seg").forEach(g=>g.addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;bs[g.dataset.group]=b.dataset.v;
+  g.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b?"true":"false"));$("#trade-field").hidden=bs.trade!=="yes";renderMsg()}));
+["#name","#trade-car"].forEach(id=>$(id).addEventListener("input",renderMsg));
+function message(){
+  const name=$("#name").value.trim(),tc=$("#trade-car").value.trim();
+  const l=["Olá Léo"+(name?", aqui é "+name:"")+". Vi seu site e tenho interesse em um BMW"+(bs.model==="Seminovo"?" / seminovo":" 0 km")+".",
+    "Modelo: "+(bs.model==="Outro"?"ainda não decidi, quero sugestões":bs.model),"Blindagem: "+bs.armor,"Pagamento: "+bs.pay];
+  if(bs.trade==="yes")l.push("Carro na troca: "+(tc||"sim (passo os dados)"));
+  return l.join("\n");
+}
+function renderMsg(){const m=message();$("#msg").textContent=m;$("#wa-send").href=wa(m)}
+$("#wa-hero").href=wa("Olá Léo, vi seu site e gostaria de falar sobre um BMW.");
+$("#wa-trade").href=wa("Olá Léo, quero avaliar meu carro na troca.\nModelo/versão: \nAno: \nKm: ");
+function copy(text,btn,el){
+  const done=()=>{const t=btn.textContent;btn.textContent="Copiado";setTimeout(()=>btn.textContent=t,1600)};
+  const sel=()=>{const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r)};
+  try{navigator.clipboard.writeText(text).then(done).catch(sel)}catch(e){sel()}
+}
+$("#copy-msg").onclick=e=>copy(message(),e.currentTarget,$("#msg"));
+$("#copy-phone").onclick=e=>copy("(11) 94176-1978",e.currentTarget,$("#phone"));
+renderMsg();
+</script>
+
+</body></html>
