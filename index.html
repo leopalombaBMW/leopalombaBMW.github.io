@@ -202,12 +202,6 @@ footer .wrap{display:grid;gap:6px}
       </a>
       <a class="btn btn-line" href="#estoque">Ver estoque</a>
     </div>
-    <div class="facts">
-      <div><b>24 anos</b><span>de Grand Brasil</span></div>
-      <div><b id="f-stock">–</b><span>BMW 0 km a pronta entrega</span></div>
-      <div><b id="f-0km">–</b><span>versões no catálogo</span></div>
-      <div><b id="f-semi">–</b><span>seminovos com preço</span></div>
-    </div>
   </div>
 </div>
 
@@ -481,7 +475,7 @@ function render(){
   $("#more").hidden=r.length<=st.shown;
 }
 function setTab(t){
-  st.tab=t;st.brand="";st.model="";st.shown=24;if(t==="0km"&&st.sort==="km")st.sort="rel";$("#sort").value=st.sort;
+  st.tab=t;st.brand="";st.model="";st.shown=t==="0km"?999:24;if(t==="0km"&&st.sort==="km")st.sort="rel";$("#sort").value=st.sort;
   document.querySelectorAll(".tabs button").forEach(b=>b.setAttribute("aria-selected",b.dataset.t===t?"true":"false"));
   fillSelects();render();
 }
@@ -533,7 +527,7 @@ function boot(data){
   CARS=(data.veiculos||[]).filter(c=>c.tipo==="seminovo").map(c=>({...c,fotos:c.fotos||[]}));
   MODELOS=(data.modelos||[]).map(m=>({...m,fotos:m.fotos||[],estoque:m.estoque||[]}));
   const n0=MODELOS.reduce((n,m)=>n+nUnits(m),0);
-  $("#f-0km").textContent=MODELOS.length;$("#f-stock").textContent=n0;$("#f-semi").textContent=CARS.length;
+  
   $("#c-0km").textContent=MODELOS.length;$("#c-semi").textContent=CARS.length;
   if(data.atualizado){const [y,m,d]=data.atualizado.split("-");$("#upd").textContent="· atualizado em "+d+"/"+m+"/"+y}
   setTab("0km");

@@ -115,17 +115,6 @@
    ]
   },
   {
-   "id": "x5g",
-   "linha": "X5",
-   "versao": "X5 a gasolina (novo)",
-   "ano": "",
-   "preco_bmw": null,
-   "carroceria": "SUV",
-   "motorizacao": "Gasolina",
-   "fotos": [],
-   "estoque": []
-  },
-  {
    "id": "s530e",
    "linha": "Série 5",
    "versao": "530e M Sport",
@@ -562,7 +551,7 @@
    "id": "c420",
    "linha": "Série 4",
    "versao": "420i Cabrio M Sport",
-   "ano": "2026/2027",
+   "ano": "2026/2026",
    "preco_bmw": 514950,
    "carroceria": "Cabrio",
    "motorizacao": "Gasolina",
@@ -660,6 +649,7 @@
    "carroceria": "Sedã",
    "motorizacao": "Gasolina",
    "fotos": [
+    "m3-ruby-star.jpg",
     "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_perfil.webp",
     "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_frontal-1024x576.webp",
     "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_traseira.webp",
@@ -667,7 +657,7 @@
    ],
    "estoque": [
     {
-     "cor": "Rosa Ruby Star",
+     "cor": "Ruby Star",
      "cor_interna": "Full Merino · Silverstone",
      "ano": "2026/2026",
      "preco": 897950,
