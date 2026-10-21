@@ -1,0 +1,24 @@
+name: Atualizar seminovos
+on:
+  schedule:
+    - cron: "17 9 * * *"   # todo dia ~06:17 (Brasília)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python atualizar_seminovos.py
+      - name: Salvar no repositório
+        run: |
+          git config user.name "atualizacao-automatica"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A estoque.json fotos
+          git diff --cached --quiet || git commit -m "Atualiza seminovos $(date +%F)"
+          git push
