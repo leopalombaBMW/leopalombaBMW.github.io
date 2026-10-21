@@ -1,0 +1,96 @@
+{
+ "motivo": "reserva ou proposta no DealerUp",
+ "atualizado": "2026-10-21",
+ "veiculos": [
+  {
+   "marca": "BMW",
+   "km": 12789,
+   "ano": "2024/2025",
+   "final_placa": "6"
+  },
+  {
+   "marca": "MINI",
+   "km": 5540,
+   "ano": "2025/2025",
+   "final_placa": "1"
+  },
+  {
+   "marca": "BMW",
+   "km": 22492,
+   "ano": "2023/2024",
+   "final_placa": "2"
+  },
+  {
+   "marca": "BMW",
+   "km": 70623,
+   "ano": "2020/2021",
+   "final_placa": "6"
+  },
+  {
+   "marca": "BMW",
+   "km": 11100,
+   "ano": "2023/2023",
+   "final_placa": "1"
+  },
+  {
+   "marca": "HYUNDAI",
+   "km": 3080,
+   "ano": "2025/2025",
+   "final_placa": "7"
+  },
+  {
+   "marca": "LEXUS",
+   "km": 17088,
+   "ano": "2024/2025",
+   "final_placa": "5"
+  },
+  {
+   "marca": "BMW",
+   "km": 9460,
+   "ano": "2025/2025",
+   "final_placa": "0"
+  },
+  {
+   "marca": "BMW",
+   "km": 71438,
+   "ano": "2021/2022",
+   "final_placa": "0"
+  },
+  {
+   "marca": "HYUNDAI",
+   "km": 101127,
+   "ano": "2014/2015",
+   "final_placa": "4"
+  },
+  {
+   "marca": "PORSCHE",
+   "km": 93614,
+   "ano": "2019/2020",
+   "final_placa": "1"
+  },
+  {
+   "marca": "YAMAHA",
+   "km": 4600,
+   "ano": "2025/2026",
+   "final_placa": "7"
+  },
+  {
+   "marca": "LAND ROVER",
+   "km": 54760,
+   "ano": "2014/2014",
+   "final_placa": "3"
+  },
+  {
+   "marca": "AUDI",
+   "km": 67737,
+   "ano": "2020/2021",
+   "final_placa": "3"
+  },
+  {
+   "marca": "LEXUS",
+   "km": 61362,
+   "ano": "2023/2023",
+   "final_placa": "0"
+  }
+ ]
+}

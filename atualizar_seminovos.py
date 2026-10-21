@@ -2,7 +2,8 @@
 - Pega todos os seminovos publicados (wp-json) e fica só com as lojas BMW Alphaville e BMW Vila Leopoldina.
 - Ignora motos (Motorrad).
 - Baixa as fotos para fotos/<slug>/ (as URLs do CDN expiram, por isso ficam no repositório).
-- Mantém o catálogo 0 km (modelos) que já está no estoque.json (atualizado pelo Claude a partir do estoque diário).
+- Tira os carros com reserva ou proposta listados em excluir.json (atualizado pelo Claude a partir do DealerUp/estoque diário).
+- O catálogo 0 km fica em modelos.json (atualizado pelo Claude).
 Nunca grava em qual loja o carro está."""
 import json, os, re, shutil, datetime, concurrent.futures as cf
 import requests
@@ -81,7 +82,12 @@ def main():
         for p in os.listdir("fotos"):
             if p not in ativos and not p.startswith("0km"): shutil.rmtree(os.path.join("fotos", p), ignore_errors=True)
     est = json.load(open("estoque.json", encoding="utf-8")) if os.path.exists("estoque.json") else {"veiculos": []}
-    json.dump({"atualizado": datetime.date.today().isoformat(), "modelos": est.get("modelos", []), "veiculos": carros},
+    exc = json.load(open("excluir.json", encoding="utf-8")).get("veiculos", []) if os.path.exists("excluir.json") else []
+    chaves = {(e["km"], e["ano"], str(e["final_placa"])) for e in exc}
+    antes = len(carros)
+    carros = [c for c in carros if (c["km"], c["ano"], str(c["final_placa"])) not in chaves]
+    print("fora por reserva/proposta:", antes - len(carros))
+    json.dump({"atualizado": datetime.date.today().isoformat(), "veiculos": carros},
               open("estoque.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 if __name__ == "__main__":

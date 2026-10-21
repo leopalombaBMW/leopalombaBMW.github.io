@@ -204,8 +204,8 @@ footer .wrap{display:grid;gap:6px}
     </div>
     <div class="facts">
       <div><b>24 anos</b><span>de Grand Brasil</span></div>
-      <div><b id="f-0km">–</b><span>versões BMW 0 km</span></div>
-      <div><b id="f-stock">–</b><span>0 km a pronta entrega</span></div>
+      <div><b id="f-stock">–</b><span>BMW 0 km a pronta entrega</span></div>
+      <div><b id="f-0km">–</b><span>versões no catálogo</span></div>
       <div><b id="f-semi">–</b><span>seminovos com preço</span></div>
     </div>
   </div>
@@ -540,7 +540,13 @@ function boot(data){
   setTab("0km");
 }
 if(window.ESTOQUE)boot(window.ESTOQUE);
-else fetch("estoque.json",{cache:"no-store"}).then(r=>r.json()).then(boot).catch(()=>{$("#grid").innerHTML='<div class="empty">Não consegui carregar o estoque agora. Me chame no WhatsApp.</div>'});
+else{
+  const get=f=>fetch(f,{cache:"no-store"}).then(r=>r.ok?r.json():{}).catch(()=>({}));
+  Promise.all([get("modelos.json"),get("estoque.json")]).then(([m,s])=>{
+    if(!m.modelos&&!s.veiculos){$("#grid").innerHTML='<div class="empty">Não consegui carregar o estoque agora. Me chame no WhatsApp.</div>';return}
+    boot({atualizado:[m.atualizado,s.atualizado].filter(Boolean).sort().pop(),modelos:m.modelos||s.modelos||[],veiculos:s.veiculos||[]});
+  });
+}
 
 /* Montador de consulta */
 const MODELS=[["Série 3","320i M Sport"],["Série 4","420i Cabrio"],["X1","sDrive20i"],["X2","xDrive20i M Sport"],["X3","30 xDrive · M50"],["iX3","50 xDrive · elétrico"],["X5","xDrive50e M Sport"],["X6","xDrive40i M Sport"],["X7","xDrive40i M Sport"],["Linha M","M2, M3, M4"],["Seminovo","qualquer marca"],["Outro","me ajude a escolher"]];
