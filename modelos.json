@@ -572,35 +572,6 @@
    ]
   },
   {
-   "id": "s320gp",
-   "linha": "Série 3",
-   "versao": "320i GP",
-   "ano": "2025/2026",
-   "preco_bmw": 356950,
-   "carroceria": "Sedã",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/a44ce-https-production.autoforce.com-uploads-version-profile_image-3674-model_main_comprar-320i-sport-gp_bb56c49064v2.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/g20_ice_ext_alloy-wheels-1024x1024.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/g20_ice_int_instrument-panel-1024x1024.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "s320sgp",
-   "linha": "Série 3",
-   "versao": "320i Sport GP",
-   "ano": "2026/2026",
-   "preco_bmw": 369950,
-   "carroceria": "Sedã",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/a44ce-https-production.autoforce.com-uploads-version-profile_image-3674-model_main_comprar-320i-sport-gp_bb56c49064v2.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/g20_ice_ext_alloy-wheels-1024x1024.webp"
-   ],
-   "estoque": []
-  },
-  {
    "id": "s320ms",
    "linha": "Série 3",
    "versao": "320i M Sport",
