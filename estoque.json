@@ -684,36 +684,6 @@
    ]
   },
   {
-   "id": "s-denza-b5-4wd",
-   "tipo": "seminovo",
-   "marca": "Denza",
-   "modelo": "B5",
-   "versao": "4WD",
-   "preco": 439790.0,
-   "km": 100,
-   "combustivel": "Híbrido",
-   "cor": "Preto",
-   "ano": "2026/2027",
-   "cambio": "Automático",
-   "final_placa": "2",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/denza-b5-4wd/1.jpg",
-    "fotos/denza-b5-4wd/2.jpg",
-    "fotos/denza-b5-4wd/3.jpg",
-    "fotos/denza-b5-4wd/4.jpg",
-    "fotos/denza-b5-4wd/5.jpg",
-    "fotos/denza-b5-4wd/6.jpg",
-    "fotos/denza-b5-4wd/7.jpg",
-    "fotos/denza-b5-4wd/8.jpg",
-    "fotos/denza-b5-4wd/9.jpg",
-    "fotos/denza-b5-4wd/10.jpg",
-    "fotos/denza-b5-4wd/11.jpg",
-    "fotos/denza-b5-4wd/12.jpg"
-   ]
-  },
-  {
    "id": "s-bmw-x4-m40i-3-0-turbo-388cv-aut-m40i-3-0-turbo-388cv-aut",
    "tipo": "seminovo",
    "marca": "BMW",
