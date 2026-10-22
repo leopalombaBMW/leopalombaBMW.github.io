@@ -115,6 +115,15 @@ section{padding-block:44px}
 .ph.light .ghost{color:var(--ink)}.ph.light .ghost small{color:var(--muted)}
 .nofoto{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--display);font-size:1rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 .tag.stock{background:var(--wa);color:#fff}
+.tag.track{background:#d2283a;color:#fff}
+.track-box{display:grid;gap:10px;border:1px solid var(--line);border-radius:6px;padding:14px 16px;background:var(--bg)}
+.track-box h4{margin:0;font-family:var(--display);text-transform:uppercase;letter-spacing:.08em;font-size:1.2rem}
+.track-box h5{margin:6px 0 0;font-family:var(--display);text-transform:uppercase;letter-spacing:.08em;font-size:.95rem;color:var(--muted)}
+.track-box p{margin:0;color:var(--muted);font-size:.92rem}
+.badges{display:flex;flex-wrap:wrap;gap:6px}
+.badges span{font-size:.8rem;font-weight:600;padding:.25em .6em;border-radius:3px;background:#d2283a;color:#fff}
+.track-box ul{margin:0;padding-left:1.1em;display:grid;gap:4px;font-size:.92rem}
+.track-box ul.no{color:var(--muted)}
 .from{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);font-family:var(--display);display:block}
 .price.soft{color:var(--muted);font-size:1.3rem}
 .units{display:grid;gap:8px}
@@ -416,14 +425,26 @@ function photoSemi(c,i){return c.fotos.length?img(c.fotos[i||0],title(c)):ghost(
 function photoMod(m,i){return m.fotos.length?img(m.fotos[i||0],"BMW "+m.versao):ghost(m.linha,"BMW · foto em breve")}
 function interestSemi(c){return ["Olá Léo, vi seu site e tenho interesse neste seminovo:",
   title(c)+" "+c.versao,"Ano: "+c.ano+" · "+kmf(c.km),"Cor: "+c.cor,c.blindagem?"Blindado "+c.blindagem:"Sem blindagem",
-  "Preço anunciado: "+brl(c.preco),"Final de placa "+c.final_placa].join("\n")}
+  "Preço anunciado: "+brl(c.preco)].concat(isPista(c)?["Edição de pista (M2 Racing)"]:["Final de placa "+c.final_placa]).join("\n")}
 function interestUnit(m,u){return ["Olá Léo, vi seu site e tenho interesse neste BMW 0 km:","BMW "+m.versao,"Ano: "+u.ano,
   "Cor: "+u.cor+" · interior "+u.cor_interna,u.blindagem?"Blindado "+u.blindagem:"Sem blindagem","Preço anunciado: "+brl(u.preco)].join("\n")}
 function interestMod(m){return ["Olá Léo, vi seu site e tenho interesse no BMW "+m.versao+" 0 km.",
   nUnits(m)?"Quero saber das cores disponíveis e condições.":"Quero saber cores, prazo de entrega e condições."].join("\n")}
+const PISTA={ids:["s-bmw-m2-coupe-track-3-0-bi-turbo-24v-460cv-3p","s-bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-2"],pdf:"BMW_M2_Racing_Grand_Brasil.pdf",
+  avisos:["Uso exclusivo em pista","Não emplaca","Sem IPVA","Não roda em vias públicas"],
+  prep:[["Suspensão KW Automotive","amortecedores e molas KW, os mesmos usados nas M2 Racing"],["Braços traseiros reforçados","braços de suspensão traseira reforçados para autódromo"],["Refrigeração do diferencial","arrefecimento adicional para uso contínuo de pista"],["Aerofólio em fibra de carbono","asa traseira em fibra de carbono"],["Carroceria em fibra de carbono","capô, portas e porta-malas"],["Vidros em policarbonato","janelas laterais e vigia traseiro"]],
+  inc:["Pinças de freio M Sport vermelhas","Ajuste de largura do encosto (motorista e passageiro)","Acabamento interno Dark Graphite fosco","Sensor de estacionamento (PDC)","Piloto automático com função de frenagem","Sistema de som HiFi","BMW Live Cockpit Plus","Tela widescreen"],
+  nao:["Bancos M Sport com ajuste elétrico, memória, lombar e aquecimento","Acabamento interno M em fibra de carbono","Teto solar elétrico","Comfort Access e alarme","Farol LED adaptativo e assistente de farol alto","Driving Assistant e piloto automático adaptativo","Parking Assistant","Som Harman Kardon surround","Banco traseiro bipartido e encostos traseiros rebatíveis","Indicador de pressão dos pneus e parafusos antifurto","Tapetes em veludo"]};
+const isPista=c=>PISTA.ids.includes(c.id)||(c.marca==="BMW"&&c.modelo==="M2"&&c.preco===789950);
+function pistaBox(){const li=a=>a.map(x=>"<li>"+esc(x)+"</li>").join("");
+  return '<div class="track-box"><h4>BMW M2 Racing · edição de pista</h4><p>Preparado de fábrica para autódromo, com upgrades exclusivos para competição.</p>'+
+  '<div class="badges">'+PISTA.avisos.map(a=>"<span>"+esc(a)+"</span>").join("")+'</div>'+
+  '<h5>Preparação para pista</h5><ul>'+PISTA.prep.map(([t,d])=>"<li><b>"+esc(t)+"</b> · "+esc(d)+"</li>").join("")+'</ul>'+
+  '<h5>Itens incluídos</h5><ul>'+li(PISTA.inc)+'</ul><h5>Itens não incluídos</h5><ul class="no">'+li(PISTA.nao)+'</ul>'+
+  '<a class="btn btn-line btn-sm" style="justify-self:start" href="'+PISTA.pdf+'" target="_blank" rel="noopener">Ver ficha completa (PDF)</a></div>'}
 function cardSemi(c){
   return '<button type="button" class="car" data-k="s" data-id="'+c.id+'"><div class="ph">'+photoSemi(c)+
-    (c.blindagem?'<span class="tag armor">Blindado '+esc(c.blindagem)+'</span>':'')+
+    (isPista(c)?'<span class="tag track">Edição de pista</span>':'')+(c.blindagem?'<span class="tag armor">Blindado '+esc(c.blindagem)+'</span>':'')+
     '</div><div class="body"><h3>'+esc(title(c))+'</h3><p class="ver">'+esc(c.versao)+'</p>'+
     '<div class="specs">'+[c.ano,kmf(c.km),c.cor,c.combustivel].map(s=>'<span>'+esc(s)+'</span>').join("")+'</div>'+
     '<div class="price">'+brl(c.preco)+'</div></div></button>';
@@ -443,7 +464,7 @@ function listSemi(){
   const q=st.q.toLowerCase();
   const r=CARS.filter(c=>(!st.brand||c.marca===st.brand)&&(!st.model||c.modelo===st.model)
     &&(!st.armor||(st.armor==="b"?!!c.blindagem:!c.blindagem))
-    &&(!q||[c.marca,c.modelo,c.versao,c.cor,c.blindagem].join(" ").toLowerCase().includes(q)));
+    &&(!q||[c.marca,c.modelo,c.versao,c.cor,c.blindagem,isPista(c)?"pista racing track":""].join(" ").toLowerCase().includes(q)));
   const s={pd:(a,b)=>b.preco-a.preco,pa:(a,b)=>a.preco-b.preco,km:(a,b)=>a.km-b.km,ano:(a,b)=>yr(b.ano)-yr(a.ano)||a.km-b.km,
     rel:(a,b)=>(b.marca==="BMW")-(a.marca==="BMW")||b.preco-a.preco}[st.sort];
   return r.sort(s);
@@ -494,12 +515,12 @@ function gallery(fotos,ph){
 }
 function openSemi(id){
   const c=CARS.find(x=>x.id===id);if(!c)return;
-  $("#s-eyebrow").textContent="Seminovo";$("#s-title").textContent=title(c);$("#s-ver").textContent=c.versao;
+  $("#s-eyebrow").textContent=isPista(c)?"Seminovo · Edição de pista":"Seminovo";$("#s-title").textContent=title(c);$("#s-ver").textContent=c.versao;
   $("#s-price").textContent=brl(c.preco);$("#s-ph").className="ph";
-  const rows=[["Marca",c.marca],["Modelo",c.modelo],["Versão",c.versao],["Ano fab./modelo",c.ano],["Quilometragem",kmf(c.km)],["Cor",c.cor],["Câmbio",c.cambio],["Combustível",c.combustivel],["Portas",c.portas],["Final de placa",c.final_placa],["Blindagem",c.blindagem||"Sem blindagem"]];
+  const rows=[["Marca",c.marca],["Modelo",c.modelo],["Versão",c.versao],["Ano fab./modelo",c.ano],["Quilometragem",kmf(c.km)],["Cor",c.cor],["Câmbio",c.cambio],["Combustível",c.combustivel],["Portas",c.portas],...(isPista(c)?[]:[["Final de placa",c.final_placa]]),["Blindagem",c.blindagem||"Sem blindagem"]];
   if(c.opcionais&&c.opcionais.length)rows.push(["Opcionais",c.opcionais.join(", ")]);
   $("#s-dl").innerHTML=rows.map(([k,v])=>'<div><dt>'+k+'</dt><dd>'+esc(v)+'</dd></div>').join("");
-  $("#s-units").innerHTML="";
+  $("#s-units").innerHTML=isPista(c)?pistaBox():"";
   gallery(c.fotos,i=>photoSemi(c,i));
   $("#s-wa").href=wa(interestSemi(c));$("#s-wa").textContent="Tenho interesse";
   show();
