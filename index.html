@@ -439,6 +439,7 @@ const isPista=c=>PISTA.ids.includes(c.id)||(c.marca==="BMW"&&c.modelo==="M2"&&c.
 function pistaBox(){const li=a=>a.map(x=>"<li>"+esc(x)+"</li>").join("");
   return '<div class="track-box"><h4>BMW M2 Racing · edição de pista</h4><p>Preparado de fábrica para autódromo, com upgrades exclusivos para competição.</p>'+
   '<div class="badges">'+PISTA.avisos.map(a=>"<span>"+esc(a)+"</span>").join("")+'</div>'+
+  '<h5>Motor e transmissão</h5><ul>'+[["Motor","S58 3.0L biturbo"],["Potência máxima","480 cv a 6.250 rpm"],["Torque máximo","600 Nm (cerca de 61,2 kgfm)"],["Tração","traseira (RWD)"],["Transmissão","automática M Steptronic de 8 velocidades com Drivelogic"]].map(([t,d])=>"<li><b>"+t+"</b> · "+d+"</li>").join("")+'</ul>'+
   '<h5>Preparação para pista</h5><ul>'+PISTA.prep.map(([t,d])=>"<li><b>"+esc(t)+"</b> · "+esc(d)+"</li>").join("")+'</ul>'+
   '<h5>Itens incluídos</h5><ul>'+li(PISTA.inc)+'</ul><h5>Itens não incluídos</h5><ul class="no">'+li(PISTA.nao)+'</ul>'+
   '<a class="btn btn-line btn-sm" style="justify-self:start" href="'+PISTA.pdf+'" target="_blank" rel="noopener">Ver ficha completa (PDF)</a></div>'}
