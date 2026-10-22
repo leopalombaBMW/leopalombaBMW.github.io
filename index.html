@@ -109,6 +109,8 @@ section{padding-block:44px}
 
 .ph.light{background:linear-gradient(180deg,var(--surface),var(--plate))}
 .ph.light img{object-fit:contain;padding:6% 4%}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]) .ph.light img{mix-blend-mode:multiply}}
+:root[data-theme="light"] .ph.light img{mix-blend-mode:multiply}
 .ph.light .ghost{color:var(--ink)}.ph.light .ghost small{color:var(--muted)}
 .nofoto{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--display);font-size:1rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 .tag.stock{background:var(--wa);color:#fff}
