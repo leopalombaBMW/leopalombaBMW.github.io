@@ -1,739 +1,706 @@
 {
- "atualizado": "2026-10-21",
- "modelos": [
-  {
-   "id": "ix3",
-   "linha": "iX3",
-   "versao": "iX3 50 xDrive M Sport",
-   "ano": "2026/2027",
-   "preco_bmw": 587950,
-   "carroceria": "SUV",
-   "motorizacao": "Elétrico",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/cosySec-1-768x627.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-34-1024x683.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-35.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-36.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-33-1024x681.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "ix2",
-   "linha": "iX2",
-   "versao": "iX2 xDrive30 M Sport",
-   "ano": "2026/2027",
-   "preco_bmw": 495950,
-   "carroceria": "SUV",
-   "motorizacao": "Elétrico",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2024/08/ix2-xdrive.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2024/08/higligth-1-1024x661.avif",
-    "https://grandbrasil.com.br/wp-content/uploads/2024/08/front.avif",
-    "https://grandbrasil.com.br/wp-content/uploads/2024/08/interno-1-1024x516.avif"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "x5",
-   "linha": "X5",
-   "versao": "X5 xDrive50e M Sport",
-   "ano": "2026/2026",
-   "preco_bmw": 868950,
-   "carroceria": "SUV",
-   "motorizacao": "Plug-in híbrido",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2020/02/g05_exterior_video_fb.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2020/02/g05_spaciousness_fb.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2020/02/g05_carousel_columns_panoramaglass-1024x1024.webp"
-   ],
-   "estoque": [
+  "atualizado": "2026-10-23",
+  "modelos": [
     {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Sensafin · Café",
-     "ano": "2026/2026",
-     "preco": 868950,
-     "blindagem": null,
-     "unidades": 1
+      "id": "ix3",
+      "linha": "iX3",
+      "versao": "iX3 50 xDrive M Sport",
+      "ano": "2026/2027",
+      "preco_bmw": 587950,
+      "carroceria": "SUV",
+      "motorizacao": "Elétrico",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/cosySec-1-768x627.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-34-1024x683.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-35.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-36.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-33-1024x681.webp"
+      ],
+      "estoque": []
     },
     {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Sensafin · Café",
-     "ano": "2026/2026",
-     "preco": 868950,
-     "blindagem": "Guardian",
-     "unidades": 1
+      "id": "ix2",
+      "linha": "iX2",
+      "versao": "iX2 xDrive30 M Sport",
+      "ano": "2026/2027",
+      "preco_bmw": 495950,
+      "carroceria": "SUV",
+      "motorizacao": "Elétrico",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2024/08/ix2-xdrive.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2024/08/higligth-1-1024x661.avif",
+        "https://grandbrasil.com.br/wp-content/uploads/2024/08/front.avif",
+        "https://grandbrasil.com.br/wp-content/uploads/2024/08/interno-1-1024x516.avif"
+      ],
+      "estoque": []
     },
     {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Sensafin · Cognac",
-     "ano": "2026/2026",
-     "preco": 868950,
-     "blindagem": null,
-     "unidades": 2
+      "id": "x5",
+      "linha": "X5",
+      "versao": "X5 xDrive50e M Sport",
+      "ano": "2026/2026",
+      "preco_bmw": 868950,
+      "carroceria": "SUV",
+      "motorizacao": "Plug-in híbrido",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2020/02/g05_exterior_video_fb.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2020/02/g05_spaciousness_fb.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2020/02/g05_carousel_columns_panoramaglass-1024x1024.webp"
+      ],
+      "estoque": [
+        {
+          "cor": "Cinza Brooklyn",
+          "cor_interna": "Sensafin · Café",
+          "ano": "2026/2026",
+          "preco": 868950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Brooklyn",
+          "cor_interna": "Sensafin · Café",
+          "ano": "2026/2026",
+          "preco": 868950,
+          "blindagem": "Guardian",
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Brooklyn",
+          "cor_interna": "Sensafin · Cognac",
+          "ano": "2026/2026",
+          "preco": 868950,
+          "blindagem": null,
+          "unidades": 2
+        },
+        {
+          "cor": "Cinza Skyscraper",
+          "cor_interna": "Sensafin · Café",
+          "ano": "2026/2026",
+          "preco": 868950,
+          "blindagem": "Guardian",
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Skyscraper",
+          "cor_interna": "Sensafin · Preto",
+          "ano": "2026/2026",
+          "preco": 868950,
+          "blindagem": "Guardian",
+          "unidades": 1
+        },
+        {
+          "cor": "Preto Carbono",
+          "cor_interna": "Sensafin · Café",
+          "ano": "2026/2026",
+          "preco": 868950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Preto Carbono",
+          "cor_interna": "Sensafin · Preto",
+          "ano": "2026/2026",
+          "preco": 864950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Preto Safira",
+          "cor_interna": "Sensafin · Silverstone",
+          "ano": "2026/2026",
+          "preco": 868950,
+          "blindagem": "Guardian",
+          "unidades": 1
+        }
+      ]
     },
     {
-     "cor": "Cinza Skyscraper",
-     "cor_interna": "Sensafin · Café",
-     "ano": "2026/2026",
-     "preco": 868950,
-     "blindagem": "Guardian",
-     "unidades": 1
+      "id": "s530e",
+      "linha": "Série 5",
+      "versao": "530e M Sport",
+      "ano": "2025/2026",
+      "preco_bmw": 647950,
+      "carroceria": "Sedã",
+      "motorizacao": "Plug-in híbrido",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2019/09/Serie5_white-removebg-preview.png",
+        "https://grandbrasil.com.br/wp-content/uploads/2019/09/image-7.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2019/09/image-12.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2019/09/image-8.webp"
+      ],
+      "estoque": []
     },
     {
-     "cor": "Cinza Skyscraper",
-     "cor_interna": "Sensafin · Preto",
-     "ano": "2026/2026",
-     "preco": 868950,
-     "blindagem": "Guardian",
-     "unidades": 1
+      "id": "s330e",
+      "linha": "Série 3",
+      "versao": "330e M Sport",
+      "ano": "2026/2026",
+      "preco_bmw": 467950,
+      "carroceria": "Sedã",
+      "motorizacao": "Plug-in híbrido",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2020/03/330emv2.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2020/03/9-1024x577-1.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2020/03/8-1024x586-1.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2020/03/2-1024x683-1.webp"
+      ],
+      "estoque": []
     },
     {
-     "cor": "Preto Carbono",
-     "cor_interna": "Sensafin · Café",
-     "ano": "2026/2026",
-     "preco": 868950,
-     "blindagem": null,
-     "unidades": 1
+      "id": "x7",
+      "linha": "X7",
+      "versao": "X7 xDrive40i M Sport",
+      "ano": "2026/2026",
+      "preco_bmw": 1033950,
+      "carroceria": "SUV",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2025/12/x7.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/12/x7-elegancia-dinamica-roda_3to2-1024x683.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/12/x7-espaco-elegancia_3to2-1-1024x683.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/12/g07_ice_drive-and-suspension_3to2-1024x683.webp"
+      ],
+      "estoque": [
+        {
+          "cor": "Preto Carbono",
+          "cor_interna": "Merino · Café",
+          "ano": "2026/2026",
+          "preco": 1033950,
+          "blindagem": null,
+          "unidades": 1
+        }
+      ]
     },
     {
-     "cor": "Preto Carbono",
-     "cor_interna": "Sensafin · Preto",
-     "ano": "2026/2026",
-     "preco": 864950,
-     "blindagem": null,
-     "unidades": 1
+      "id": "x6",
+      "linha": "X6",
+      "versao": "X6 xDrive40i M Sport",
+      "ano": "2026/2026",
+      "preco_bmw": 892950,
+      "carroceria": "SUV",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2023/10/bmw-x-6-m-sport.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2023/10/bmw-x6-m-sport-1024x549.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2023/10/image.1674190815220.jpg"
+      ],
+      "estoque": []
     },
     {
-     "cor": "Preto Safira",
-     "cor_interna": "Sensafin · Silverstone",
-     "ano": "2026/2026",
-     "preco": 868950,
-     "blindagem": "Guardian",
-     "unidades": 1
+      "id": "x3",
+      "linha": "X3",
+      "versao": "X3 30 xDrive M Sport",
+      "ano": "2026/2027",
+      "preco_bmw": 528950,
+      "carroceria": "SUV",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2026/02/bmw-x3-mobile.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/02/bmw-x3-30-xdrive-m-sport-1024x1024.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/02/C2HRVS54W5A7NANSPKLGBG5LBY-1024x576.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/02/Captura-de-Tela-2026-02-05-as-08.56.08-1024x493.webp"
+      ],
+      "estoque": [
+        {
+          "cor": "Azul Artic Race",
+          "cor_interna": "Veganza · Preto",
+          "ano": "2026/2027",
+          "preco": 528950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Branco Alpino",
+          "cor_interna": "Veganza · Marrom Expresso",
+          "ano": "2026/2027",
+          "preco": 528950,
+          "blindagem": null,
+          "unidades": 2
+        },
+        {
+          "cor": "Cinza Brooklyn",
+          "cor_interna": "Veganza · Bege Calm",
+          "ano": "2026/2027",
+          "preco": 528950,
+          "blindagem": "Carbon",
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Brooklyn",
+          "cor_interna": "Veganza · Marrom Expresso",
+          "ano": "2026/2027",
+          "preco": 528950,
+          "blindagem": "Carbon",
+          "unidades": 3
+        },
+        {
+          "cor": "Cinza Brooklyn",
+          "cor_interna": "Veganza · Preto",
+          "ano": "2026/2027",
+          "preco": 528950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Dune",
+          "cor_interna": "Veganza · Marrom Expresso",
+          "ano": "2026/2027",
+          "preco": 528950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Sophisto",
+          "cor_interna": "Veganza · Bege Calm",
+          "ano": "2026/2027",
+          "preco": 528950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Sophisto",
+          "cor_interna": "Veganza · Marrom Expresso",
+          "ano": "2026/2027",
+          "preco": 528950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Sophisto",
+          "cor_interna": "Veganza · Preto",
+          "ano": "2026/2027",
+          "preco": 528950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Preto Safira",
+          "cor_interna": "Veganza · Marrom Expresso",
+          "ano": "2026/2027",
+          "preco": 528950,
+          "blindagem": null,
+          "unidades": 1
+        }
+      ]
+    },
+    {
+      "id": "x3m50",
+      "linha": "X3",
+      "versao": "X3 M50 xDrive",
+      "ano": "2026/2027",
+      "preco_bmw": 659950,
+      "carroceria": "SUV",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2025/02/bmw-x3-m50.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/02/g45_ice-mp_driving-dynamics_fb.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/02/x3m50painel_3to2-1024x683.webp"
+      ],
+      "estoque": [
+        {
+          "cor": "Cinza Dune",
+          "cor_interna": "Veganza · Preto",
+          "ano": "2026/2027",
+          "preco": 659950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Sophisto",
+          "cor_interna": "Veganza · Marrom Expresso",
+          "ano": "2026/2027",
+          "preco": 659950,
+          "blindagem": null,
+          "unidades": 1
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "linha": "X2",
+      "versao": "X2 xDrive20i M Sport",
+      "ano": "2026/2027",
+      "preco_bmw": 415950,
+      "carroceria": "SUV",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2024/08/bmw-x2-cover.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2024/08/lateral-1024x461.avif",
+        "https://grandbrasil.com.br/wp-content/uploads/2024/08/back-1024x560.avif",
+        "https://grandbrasil.com.br/wp-content/uploads/2024/08/painel-1024x643.avif"
+      ],
+      "estoque": [
+        {
+          "cor": "Cinza Brooklyn",
+          "cor_interna": "Veganza · Preto/Preto",
+          "ano": "2026/2027",
+          "preco": 415950,
+          "blindagem": "Master",
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Skyscraper",
+          "cor_interna": "Veganza · Branco Smoke",
+          "ano": "2026/2027",
+          "preco": 410950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Cinza Skyscraper",
+          "cor_interna": "Veganza · Preto/Preto",
+          "ano": "2026/2027",
+          "preco": 415950,
+          "blindagem": null,
+          "unidades": 1
+        }
+      ]
+    },
+    {
+      "id": "x2m35",
+      "linha": "X2",
+      "versao": "X2 M35i xDrive",
+      "ano": "2026/2026",
+      "preco_bmw": 545950,
+      "carroceria": "SUV",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/bmw-x2-m35i-768x627.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-17.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-19.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-14.webp"
+      ],
+      "estoque": []
+    },
+    {
+      "id": "x1gp",
+      "linha": "X1",
+      "versao": "X1 sDrive20i GP",
+      "ano": "2026/2027",
+      "preco_bmw": 334950,
+      "carroceria": "SUV",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/mobile-1.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_03_X1-1024x1024.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_02_X1-1024x1024.webp"
+      ],
+      "estoque": []
+    },
+    {
+      "id": "x1xl",
+      "linha": "X1",
+      "versao": "X1 sDrive20i X Line",
+      "ano": "2026/2027",
+      "preco_bmw": 367950,
+      "carroceria": "SUV",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/mobile-1.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_04_X1-1024x1024.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_06_X1-1024x1024.webp"
+      ],
+      "estoque": []
+    },
+    {
+      "id": "x1ms",
+      "linha": "X1",
+      "versao": "X1 sDrive20i M Sport",
+      "ano": "2026/2027",
+      "preco_bmw": 389950,
+      "carroceria": "SUV",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2021/11/bmwx1xdrive-removebg-preview.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_05_X1-1024x1024.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_07_X1-1024x1024.webp"
+      ],
+      "estoque": [
+        {
+          "cor": "Branco Alpino",
+          "cor_interna": "Veganza · Castanea",
+          "ano": "2026/2027",
+          "preco": 389950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Prata Espacial",
+          "cor_interna": "Veganza · Castanea",
+          "ano": "2026/2026",
+          "preco": 389950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Prata Espacial",
+          "cor_interna": "Veganza · Castanea",
+          "ano": "2026/2027",
+          "preco": 389950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Prata Espacial",
+          "cor_interna": "Veganza · Preto",
+          "ano": "2026/2027",
+          "preco": 389950,
+          "blindagem": "Guardian",
+          "unidades": 2
+        },
+        {
+          "cor": "Preto Safira",
+          "cor_interna": "Veganza · Castanea",
+          "ano": "2026/2027",
+          "preco": 389950,
+          "blindagem": null,
+          "unidades": 3
+        },
+        {
+          "cor": "Preto Safira",
+          "cor_interna": "Veganza · Castanea",
+          "ano": "2026/2027",
+          "preco": 389950,
+          "blindagem": "Guardian",
+          "unidades": 1
+        },
+        {
+          "cor": "Preto Safira",
+          "cor_interna": "Veganza · Preto",
+          "ano": "2026/2027",
+          "preco": 389950,
+          "blindagem": "Guardian",
+          "unidades": 1
+        },
+        {
+          "cor": "Preto Safira",
+          "cor_interna": "Veganza · Preto",
+          "ano": "2026/2027",
+          "preco": 389950,
+          "blindagem": "Master",
+          "unidades": 1
+        },
+        {
+          "cor": "Verde Cape York",
+          "cor_interna": "Veganza · Castanea",
+          "ano": "2026/2027",
+          "preco": 389950,
+          "blindagem": "Carbon",
+          "unidades": 1
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "linha": "M4",
+      "versao": "M4 Competition",
+      "ano": "2026/2027",
+      "preco_bmw": 915950,
+      "carroceria": "Coupé",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/cosySec-768x627.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-31-1024x682.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-24.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-30-1024x681.webp"
+      ],
+      "estoque": []
+    },
+    {
+      "id": "m4t",
+      "linha": "M4",
+      "versao": "M4 Competition Track",
+      "ano": "2026/2027",
+      "preco_bmw": 1022950,
+      "carroceria": "Coupé",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/cosySec-768x627.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-26.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-3.jpg"
+      ],
+      "estoque": [
+        {
+          "cor": "Cinza Brooklyn",
+          "cor_interna": "Full Merino · Silverstone",
+          "ano": "2026/2027",
+          "preco": 1022950,
+          "blindagem": null,
+          "unidades": 1
+        }
+      ]
+    },
+    {
+      "id": "c420",
+      "linha": "Série 4",
+      "versao": "420i Cabrio M Sport",
+      "ano": "2026/2026",
+      "preco_bmw": 514950,
+      "carroceria": "Cabrio",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2019/08/bmw_420i_cabrio_mobile.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2019/08/g23_design_softtop-1024x1024.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2019/08/4_series_farol-1024x1024.webp"
+      ],
+      "estoque": [
+        {
+          "cor": "Cinza Brooklyn",
+          "cor_interna": "Vernasca · Mocha",
+          "ano": "2025/2026",
+          "preco": 514950,
+          "blindagem": null,
+          "unidades": 1
+        }
+      ]
+    },
+    {
+      "id": "s320ms",
+      "linha": "Série 3",
+      "versao": "320i M Sport",
+      "ano": "2026/2026",
+      "preco_bmw": 391950,
+      "carroceria": "Sedã",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2019/08/fa104-https-production.autoforce.com-uploads-version-profile_image-3672-model_main_comprar-320i-m-sport_25f1ac911dv2.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2019/08/g20_ice_ext_m-sport-package-1024x1024.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2019/08/g20_ice_int_instrument-panel-1024x1024.webp"
+      ],
+      "estoque": [
+        {
+          "cor": "Cinza Skyscraper",
+          "cor_interna": "Vernasca · Preto/Cost. Azul",
+          "ano": "2026/2026",
+          "preco": 391950,
+          "blindagem": "Carbon",
+          "unidades": 1
+        },
+        {
+          "cor": "Preto Safira",
+          "cor_interna": "Vernasca · Preto/Cost. Azul",
+          "ano": "2026/2026",
+          "preco": 391950,
+          "blindagem": "Guardian",
+          "unidades": 1
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "linha": "M3",
+      "versao": "M3 Competition",
+      "ano": "2026/2026",
+      "preco_bmw": 894950,
+      "carroceria": "Sedã",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "m3-ruby-star.jpg",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_perfil.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_frontal-1024x576.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_traseira.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_farol.webp"
+      ],
+      "estoque": [
+        {
+          "cor": "Ruby Star",
+          "cor_interna": "Full Merino · Silverstone",
+          "ano": "2026/2026",
+          "preco": 897950,
+          "blindagem": null,
+          "unidades": 1
+        },
+        {
+          "cor": "Smyrna Green",
+          "cor_interna": "Full Merino · Silverstone",
+          "ano": "2026/2026",
+          "preco": 897950,
+          "blindagem": null,
+          "unidades": 1
+        }
+      ]
+    },
+    {
+      "id": "s220",
+      "linha": "Série 2",
+      "versao": "220 M Sport Gran Coupé",
+      "ano": "2026/2026",
+      "preco_bmw": 334950,
+      "carroceria": "Gran Coupé",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2025/08/mobile-bmw.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/08/f74_ice_exterior_rear-design_3to2-1024x683.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/08/f74_ice_interior_illuminated-metal-trims-1_3to2-1024x683.webp"
+      ],
+      "estoque": []
+    },
+    {
+      "id": "m2",
+      "linha": "M2",
+      "versao": "M2 Coupé",
+      "ano": "2026/2027",
+      "preco_bmw": 690950,
+      "carroceria": "Coupé",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2024/03/bmw_m2_coupe_mobile.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2024/03/g87_intro-1024x1024.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2024/03/g87_interior_m-sport-seats_fb.webp"
+      ],
+      "estoque": [
+        {
+          "cor": "Amarelo São Paulo",
+          "cor_interna": "Vernasca · Preto/Cost. Azul",
+          "ano": "2026/2027",
+          "preco": 690950,
+          "blindagem": null,
+          "unidades": 1
+        }
+      ]
+    },
+    {
+      "id": "m2t",
+      "linha": "M2",
+      "versao": "M2 Coupé Track",
+      "ano": "2026/2027",
+      "preco_bmw": 744950,
+      "carroceria": "Coupé",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2024/03/Sem-titulo.webp"
+      ],
+      "estoque": []
+    },
+    {
+      "id": "m235",
+      "linha": "Série 2",
+      "versao": "M235 xDrive Gran Coupé",
+      "ano": "2026/2026",
+      "preco_bmw": 492950,
+      "carroceria": "Gran Coupé",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/bmw_m235_mobile.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/f74_mp_m-driving-dynamics_fb.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2025/09/f74_mp_interior_m-sport-seats_fb.webp"
+      ],
+      "estoque": []
+    },
+    {
+      "id": "m135",
+      "linha": "Série 1",
+      "versao": "M135 xDrive",
+      "ano": "2026/2026",
+      "preco_bmw": 462950,
+      "carroceria": "Hatch",
+      "motorizacao": "Gasolina",
+      "fotos": [
+        "https://grandbrasil.com.br/wp-content/uploads/2026/02/m135_mobile.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/02/f70_mp_driving-dynamics_fb.webp",
+        "https://grandbrasil.com.br/wp-content/uploads/2026/02/f70_mp_ext-design_kidney_fb.webp"
+      ],
+      "estoque": []
     }
-   ]
-  },
-  {
-   "id": "s530e",
-   "linha": "Série 5",
-   "versao": "530e M Sport",
-   "ano": "2025/2026",
-   "preco_bmw": 647950,
-   "carroceria": "Sedã",
-   "motorizacao": "Plug-in híbrido",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2019/09/Serie5_white-removebg-preview.png",
-    "https://grandbrasil.com.br/wp-content/uploads/2019/09/image-7.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2019/09/image-12.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2019/09/image-8.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "s330e",
-   "linha": "Série 3",
-   "versao": "330e M Sport",
-   "ano": "2026/2026",
-   "preco_bmw": 467950,
-   "carroceria": "Sedã",
-   "motorizacao": "Plug-in híbrido",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2020/03/330emv2.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2020/03/9-1024x577-1.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2020/03/8-1024x586-1.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2020/03/2-1024x683-1.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "x7",
-   "linha": "X7",
-   "versao": "X7 xDrive40i M Sport",
-   "ano": "2026/2026",
-   "preco_bmw": 1033950,
-   "carroceria": "SUV",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2025/12/x7.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/12/x7-elegancia-dinamica-roda_3to2-1024x683.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/12/x7-espaco-elegancia_3to2-1-1024x683.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/12/g07_ice_drive-and-suspension_3to2-1024x683.webp"
-   ],
-   "estoque": [
-    {
-     "cor": "Preto Carbono",
-     "cor_interna": "Merino · Café",
-     "ano": "2026/2026",
-     "preco": 1033950,
-     "blindagem": null,
-     "unidades": 2
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Merino · Café",
-     "ano": "2026/2026",
-     "preco": 1033950,
-     "blindagem": null,
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "x6",
-   "linha": "X6",
-   "versao": "X6 xDrive40i M Sport",
-   "ano": "2026/2026",
-   "preco_bmw": 892950,
-   "carroceria": "SUV",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2023/10/bmw-x-6-m-sport.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2023/10/bmw-x6-m-sport-1024x549.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2023/10/image.1674190815220.jpg"
-   ],
-   "estoque": [
-    {
-     "cor": "Preto Carbono",
-     "cor_interna": "Sensafin · Café",
-     "ano": "2026/2026",
-     "preco": 892950,
-     "blindagem": null,
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "x3",
-   "linha": "X3",
-   "versao": "X3 30 xDrive M Sport",
-   "ano": "2026/2027",
-   "preco_bmw": 528950,
-   "carroceria": "SUV",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2026/02/bmw-x3-mobile.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/02/bmw-x3-30-xdrive-m-sport-1024x1024.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/02/C2HRVS54W5A7NANSPKLGBG5LBY-1024x576.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/02/Captura-de-Tela-2026-02-05-as-08.56.08-1024x493.webp"
-   ],
-   "estoque": [
-    {
-     "cor": "Azul Artic Race",
-     "cor_interna": "Veganza · Preto",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Branco Alpino",
-     "cor_interna": "Veganza · Marrom Expresso",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": null,
-     "unidades": 2
-    },
-    {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Veganza · Bege Calm",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": "Carbon",
-     "unidades": 1
-    },
-    {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Veganza · Marrom Expresso",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": "Carbon",
-     "unidades": 3
-    },
-    {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Veganza · Preto",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Cinza Dune",
-     "cor_interna": "Veganza · Marrom Expresso",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Cinza Sophisto",
-     "cor_interna": "Veganza · Bege Calm",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Cinza Sophisto",
-     "cor_interna": "Veganza · Marrom Expresso",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Cinza Sophisto",
-     "cor_interna": "Veganza · Preto",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Veganza · Marrom Expresso",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": null,
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "x3m50",
-   "linha": "X3",
-   "versao": "X3 M50 xDrive",
-   "ano": "2026/2027",
-   "preco_bmw": 659950,
-   "carroceria": "SUV",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2025/02/bmw-x3-m50.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/02/g45_ice-mp_driving-dynamics_fb.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/02/x3m50painel_3to2-1024x683.webp"
-   ],
-   "estoque": [
-    {
-     "cor": "Cinza Dune",
-     "cor_interna": "Veganza · Preto",
-     "ano": "2026/2027",
-     "preco": 659950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Cinza Sophisto",
-     "cor_interna": "Veganza · Marrom Expresso",
-     "ano": "2026/2027",
-     "preco": 659950,
-     "blindagem": null,
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "x2",
-   "linha": "X2",
-   "versao": "X2 xDrive20i M Sport",
-   "ano": "2026/2027",
-   "preco_bmw": 415950,
-   "carroceria": "SUV",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2024/08/bmw-x2-cover.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2024/08/lateral-1024x461.avif",
-    "https://grandbrasil.com.br/wp-content/uploads/2024/08/back-1024x560.avif",
-    "https://grandbrasil.com.br/wp-content/uploads/2024/08/painel-1024x643.avif"
-   ],
-   "estoque": [
-    {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Veganza · Preto/preto",
-     "ano": "2026/2027",
-     "preco": 415950,
-     "blindagem": "Master",
-     "unidades": 1
-    },
-    {
-     "cor": "Cinza Skyscraper",
-     "cor_interna": "Veganza · Preto/preto",
-     "ano": "2026/2027",
-     "preco": 415950,
-     "blindagem": null,
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "x2m35",
-   "linha": "X2",
-   "versao": "X2 M35i xDrive",
-   "ano": "2026/2026",
-   "preco_bmw": 545950,
-   "carroceria": "SUV",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/bmw-x2-m35i-768x627.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-17.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-19.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-14.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "x1gp",
-   "linha": "X1",
-   "versao": "X1 sDrive20i GP",
-   "ano": "2026/2027",
-   "preco_bmw": 334950,
-   "carroceria": "SUV",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/mobile-1.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_03_X1-1024x1024.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_02_X1-1024x1024.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "x1xl",
-   "linha": "X1",
-   "versao": "X1 sDrive20i X Line",
-   "ano": "2026/2027",
-   "preco_bmw": 367950,
-   "carroceria": "SUV",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/mobile-1.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_04_X1-1024x1024.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_06_X1-1024x1024.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "x1ms",
-   "linha": "X1",
-   "versao": "X1 sDrive20i M Sport",
-   "ano": "2026/2027",
-   "preco_bmw": 389950,
-   "carroceria": "SUV",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2021/11/bmwx1xdrive-removebg-preview.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_05_X1-1024x1024.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/foto_07_X1-1024x1024.webp"
-   ],
-   "estoque": [
-    {
-     "cor": "Branco Alpino",
-     "cor_interna": "Veganza · Castanea",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Prata Espacial",
-     "cor_interna": "Veganza · Castanea",
-     "ano": "2026/2026",
-     "preco": 389950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Prata Espacial",
-     "cor_interna": "Veganza · Castanea",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Prata Espacial",
-     "cor_interna": "Veganza · Preto",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": "Guardian",
-     "unidades": 2
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Veganza · Castanea",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": null,
-     "unidades": 3
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Veganza · Castanea",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": "Guardian",
-     "unidades": 1
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Veganza · Preto",
-     "ano": "2026/2027",
-     "preco": 387950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Veganza · Preto",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": "Guardian",
-     "unidades": 1
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Veganza · Preto",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": "Master",
-     "unidades": 1
-    },
-    {
-     "cor": "Verde Cape York",
-     "cor_interna": "Veganza · Castanea",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": "Carbon",
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "m4",
-   "linha": "M4",
-   "versao": "M4 Competition",
-   "ano": "2026/2027",
-   "preco_bmw": 915950,
-   "carroceria": "Coupé",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/cosySec-768x627.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-31-1024x682.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-24.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-30-1024x681.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "m4t",
-   "linha": "M4",
-   "versao": "M4 Competition Track",
-   "ano": "2026/2027",
-   "preco_bmw": 1022950,
-   "carroceria": "Coupé",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/cosySec-768x627.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-26.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-3.jpg"
-   ],
-   "estoque": [
-    {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Full Merino · Silverstone",
-     "ano": "2026/2027",
-     "preco": 1022950,
-     "blindagem": null,
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "c420",
-   "linha": "Série 4",
-   "versao": "420i Cabrio M Sport",
-   "ano": "2026/2026",
-   "preco_bmw": 514950,
-   "carroceria": "Cabrio",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/bmw_420i_cabrio_mobile.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/g23_design_softtop-1024x1024.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/4_series_farol-1024x1024.webp"
-   ],
-   "estoque": [
-    {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Vernasca · Mocha",
-     "ano": "2025/2026",
-     "preco": 514950,
-     "blindagem": null,
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "s320ms",
-   "linha": "Série 3",
-   "versao": "320i M Sport",
-   "ano": "2026/2026",
-   "preco_bmw": 391950,
-   "carroceria": "Sedã",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/fa104-https-production.autoforce.com-uploads-version-profile_image-3672-model_main_comprar-320i-m-sport_25f1ac911dv2.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/g20_ice_ext_m-sport-package-1024x1024.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2019/08/g20_ice_int_instrument-panel-1024x1024.webp"
-   ],
-   "estoque": [
-    {
-     "cor": "Cinza Skyscraper",
-     "cor_interna": "Vernasca · Mocha",
-     "ano": "2026/2026",
-     "preco": 390950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Cinza Skyscraper",
-     "cor_interna": "Vernasca · Preto/cost. Azul",
-     "ano": "2026/2026",
-     "preco": 391950,
-     "blindagem": "Carbon",
-     "unidades": 1
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Vernasca · Preto/cost. Azul",
-     "ano": "2026/2026",
-     "preco": 391950,
-     "blindagem": "Guardian",
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "m3",
-   "linha": "M3",
-   "versao": "M3 Competition",
-   "ano": "2026/2026",
-   "preco_bmw": 894950,
-   "carroceria": "Sedã",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "m3-ruby-star.jpg",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_perfil.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_frontal-1024x576.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_traseira.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/m3_ctrack_farol.webp"
-   ],
-   "estoque": [
-    {
-     "cor": "Ruby Star",
-     "cor_interna": "Full Merino · Silverstone",
-     "ano": "2026/2026",
-     "preco": 897950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Verde Smyrna Green Uni",
-     "cor_interna": "Full Merino · Silverstone",
-     "ano": "2026/2026",
-     "preco": 897950,
-     "blindagem": null,
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "s220",
-   "linha": "Série 2",
-   "versao": "220 M Sport Gran Coupé",
-   "ano": "2026/2026",
-   "preco_bmw": 334950,
-   "carroceria": "Gran Coupé",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2025/08/mobile-bmw.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/08/f74_ice_exterior_rear-design_3to2-1024x683.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/08/f74_ice_interior_illuminated-metal-trims-1_3to2-1024x683.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "m2",
-   "linha": "M2",
-   "versao": "M2 Coupé",
-   "ano": "2026/2027",
-   "preco_bmw": 690950,
-   "carroceria": "Coupé",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2024/03/bmw_m2_coupe_mobile.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2024/03/g87_intro-1024x1024.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2024/03/g87_interior_m-sport-seats_fb.webp"
-   ],
-   "estoque": [
-    {
-     "cor": "Amarelo Sao Paulo",
-     "cor_interna": "Vernasca · Preto/cost. Azul",
-     "ano": "2026/2027",
-     "preco": 690950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Vernasca · Preto/cost. Azul",
-     "ano": "2026/2027",
-     "preco": 690950,
-     "blindagem": null,
-     "unidades": 1
-    }
-   ]
-  },
-  {
-   "id": "m2t",
-   "linha": "M2",
-   "versao": "M2 Coupé Track",
-   "ano": "2026/2027",
-   "preco_bmw": 744950,
-   "carroceria": "Coupé",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2024/03/Sem-titulo.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "m235",
-   "linha": "Série 2",
-   "versao": "M235 xDrive Gran Coupé",
-   "ano": "2026/2026",
-   "preco_bmw": 492950,
-   "carroceria": "Gran Coupé",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/bmw_m235_mobile.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/f74_mp_m-driving-dynamics_fb.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2025/09/f74_mp_interior_m-sport-seats_fb.webp"
-   ],
-   "estoque": []
-  },
-  {
-   "id": "m135",
-   "linha": "Série 1",
-   "versao": "M135 xDrive",
-   "ano": "2026/2026",
-   "preco_bmw": 462950,
-   "carroceria": "Hatch",
-   "motorizacao": "Gasolina",
-   "fotos": [
-    "https://grandbrasil.com.br/wp-content/uploads/2026/02/m135_mobile.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/02/f70_mp_driving-dynamics_fb.webp",
-    "https://grandbrasil.com.br/wp-content/uploads/2026/02/f70_mp_ext-design_kidney_fb.webp"
-   ],
-   "estoque": []
-  }
- ]
+  ]
 }
