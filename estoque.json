@@ -1,6 +1,85 @@
 {
- "atualizado": "2026-10-23",
+ "atualizado": "2026-10-24",
  "veiculos": [
+  {
+   "id": "s-ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct",
+   "tipo": "seminovo",
+   "marca": "Ferrari",
+   "modelo": "296 GTB",
+   "versao": "3.0 V6 TURBO PHEV F1-DCT",
+   "preco": 3300000.0,
+   "km": 100,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2024/2024",
+   "cambio": "Automático",
+   "final_placa": "2",
+   "portas": 2,
+   "blindagem": null,
+   "fotos": [
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/1.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/2.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/3.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/4.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/5.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/6.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/7.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/8.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/9.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/10.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/11.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/12.jpg"
+   ]
+  },
+  {
+   "id": "s-audi-a4-2-0-tfsi-mhev-s-line-quattro-s-tronic",
+   "tipo": "seminovo",
+   "marca": "Audi",
+   "modelo": "A4",
+   "versao": "2.0 TFSI MHEV S LINE QUATTRO S TRONIC",
+   "preco": 219950.0,
+   "km": 16775,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2023/2024",
+   "cambio": "Automático",
+   "final_placa": "4",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/audi-a4-2-0-tfsi-mhev-s-line-quattro-s-tronic/1.jpg"
+   ]
+  },
+  {
+   "id": "s-porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk",
+   "tipo": "seminovo",
+   "marca": "Porsche",
+   "modelo": "718",
+   "versao": "2.0 16V H4 GASOLINA CAYMAN T PDK",
+   "preco": 459950.0,
+   "km": 10066,
+   "combustivel": "Gasolina",
+   "cor": "Cinza",
+   "ano": "2023/2023",
+   "cambio": "Automático",
+   "final_placa": "4",
+   "portas": 2,
+   "blindagem": null,
+   "fotos": [
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/1.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/2.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/3.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/4.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/5.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/6.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/7.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/8.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/9.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/10.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/11.jpg",
+    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/12.jpg"
+   ]
+  },
   {
    "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2",
    "tipo": "seminovo",
@@ -385,36 +464,6 @@
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/8.jpg",
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/9.jpg",
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/10.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X1",
-   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I M SPORT STEPTRONIC",
-   "preco": 249890.0,
-   "km": 32255,
-   "combustivel": "Gasolina",
-   "cor": "Prata",
-   "ano": "2023/2023",
-   "cambio": "Automático",
-   "final_placa": "1",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/1.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/2.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/3.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/4.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/5.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/6.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/7.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/8.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/9.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/10.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/11.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-8/12.jpg"
    ]
   },
   {
