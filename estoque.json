@@ -2,6 +2,25 @@
  "atualizado": "2026-10-26",
  "veiculos": [
   {
+   "id": "s-bmw-x6-m-competition",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X6",
+   "versao": "M COMPETITION",
+   "preco": 729890.0,
+   "km": 24678,
+   "combustivel": "Gasolina",
+   "cor": "Preto",
+   "ano": "2023/2023",
+   "cambio": "Automático",
+   "final_placa": "8",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x6-m-competition/1.jpg"
+   ]
+  },
+  {
    "id": "s-honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt",
    "tipo": "seminovo",
    "marca": "Honda",
@@ -837,7 +856,7 @@
    "tipo": "seminovo",
    "marca": "Toyota",
    "modelo": "Corolla Cross",
-   "versao": "2.0 VVT-IE FLEX XRE DIRECT SHIFT",
+   "versao": "2.0 VVT-IE FLEX XRX DIRECT SHIFT",
    "preco": 164950.0,
    "km": 17085,
    "combustivel": "Flex",
