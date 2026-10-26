@@ -1,6 +1,55 @@
 {
- "atualizado": "2026-10-24",
+ "atualizado": "2026-10-26",
  "veiculos": [
+  {
+   "id": "s-ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct",
+   "tipo": "seminovo",
+   "marca": "Ferrari",
+   "modelo": "296 GTB",
+   "versao": "3.0 V6 TURBO PHEV F1-DCT",
+   "preco": 3300000.0,
+   "km": 100,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2024/2024",
+   "cambio": "Automático",
+   "final_placa": "2",
+   "portas": 2,
+   "blindagem": null,
+   "fotos": [
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/1.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/2.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/3.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/4.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/5.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/6.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/7.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/8.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/9.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/10.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/11.jpg",
+    "fotos/ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct/12.jpg"
+   ]
+  },
+  {
+   "id": "s-audi-a4-2-0-tfsi-mhev-s-line-quattro-s-tronic",
+   "tipo": "seminovo",
+   "marca": "Audi",
+   "modelo": "A4",
+   "versao": "2.0 TFSI MHEV S LINE QUATTRO S TRONIC",
+   "preco": 219950.0,
+   "km": 16775,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2023/2024",
+   "cambio": "Automático",
+   "final_placa": "4",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/audi-a4-2-0-tfsi-mhev-s-line-quattro-s-tronic/1.jpg"
+   ]
+  },
   {
    "id": "s-porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk",
    "tipo": "seminovo",
@@ -89,34 +138,6 @@
     "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/10.jpg",
     "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/11.jpg",
     "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X3",
-   "versao": "2.0 TWINPOWER MHEV XDRIVE30I M SPORT STEPTRONIC",
-   "preco": 559950.0,
-   "km": 7850,
-   "combustivel": "Híbrido",
-   "cor": "Azul",
-   "ano": "2025/2026",
-   "cambio": "Automático",
-   "final_placa": "7",
-   "portas": 4,
-   "blindagem": "Guardian",
-   "fotos": [
-    "fotos/bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic/1.jpg",
-    "fotos/bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic/2.jpg",
-    "fotos/bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic/3.jpg",
-    "fotos/bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic/4.jpg",
-    "fotos/bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic/5.jpg",
-    "fotos/bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic/6.jpg",
-    "fotos/bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic/7.jpg",
-    "fotos/bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic/8.jpg",
-    "fotos/bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic/9.jpg",
-    "fotos/bmw-x3-2-0-twinpower-mhev-xdrive30i-m-sport-steptronic/10.jpg"
    ]
   },
   {
@@ -749,7 +770,7 @@
    "marca": "Toyota",
    "modelo": "Corolla Cross",
    "versao": "2.0 VVT-IE FLEX XRE DIRECT SHIFT",
-   "preco": 169950.0,
+   "preco": 164950.0,
    "km": 17085,
    "combustivel": "Flex",
    "cor": "Azul",
@@ -1824,36 +1845,6 @@
    ]
   },
   {
-   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "320I",
-   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
-   "preco": 299950.0,
-   "km": 8210,
-   "combustivel": "Flex",
-   "cor": "Cinza",
-   "ano": "2024/2024",
-   "cambio": "Automático",
-   "final_placa": "1",
-   "portas": 5,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/1.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/2.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/3.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/4.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/5.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/6.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/7.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/8.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/9.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/10.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/11.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-10/12.jpg"
-   ]
-  },
-  {
    "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-6",
    "tipo": "seminovo",
    "marca": "BMW",
@@ -1941,36 +1932,6 @@
     "fotos/land-rover-discovery-3-0-d350-turbo-diesel-mhev-metropolitan-edition-automatico/10.jpg",
     "fotos/land-rover-discovery-3-0-d350-turbo-diesel-mhev-metropolitan-edition-automatico/11.jpg",
     "fotos/land-rover-discovery-3-0-d350-turbo-diesel-mhev-metropolitan-edition-automatico/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x1-s20i-x-line-2",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X1",
-   "versao": "S20I X LINE",
-   "preco": 279950.0,
-   "km": 40930,
-   "combustivel": "Gasolina",
-   "cor": "Branco",
-   "ano": "2023/2023",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x1-s20i-x-line-2/1.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/2.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/3.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/4.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/5.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/6.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/7.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/8.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/9.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/10.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/11.jpg",
-    "fotos/bmw-x1-s20i-x-line-2/12.jpg"
    ]
   },
   {
