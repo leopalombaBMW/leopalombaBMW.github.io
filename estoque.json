@@ -646,36 +646,6 @@
    ]
   },
   {
-   "id": "s-bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X3",
-   "versao": "2.0 16V HÍBRIDO X LINE XDRIVE30E STEPTRONIC",
-   "preco": 279950.0,
-   "km": 51379,
-   "combustivel": "Híbrido",
-   "cor": "Branco",
-   "ano": "2024/2024",
-   "cambio": "Automático",
-   "final_placa": "2",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/1.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/2.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/3.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/4.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/5.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/6.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/7.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/8.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/9.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/10.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/11.jpg",
-    "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/12.jpg"
-   ]
-  },
-  {
    "id": "s-mini-aceman-542-kw-eletrico-john-cooper-works",
    "tipo": "seminovo",
    "marca": "MINI",
