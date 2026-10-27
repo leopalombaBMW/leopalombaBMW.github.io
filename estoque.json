@@ -2,123 +2,6 @@
  "atualizado": "2026-10-27",
  "veiculos": [
   {
-   "id": "s-bmw-x6-m-competition",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X6",
-   "versao": "M COMPETITION",
-   "preco": 729890.0,
-   "km": 24678,
-   "combustivel": "Gasolina",
-   "cor": "Preto",
-   "ano": "2023/2023",
-   "cambio": "Automático",
-   "final_placa": "8",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x6-m-competition/1.jpg"
-   ]
-  },
-  {
-   "id": "s-honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt",
-   "tipo": "seminovo",
-   "marca": "Honda",
-   "modelo": "HR-V",
-   "versao": "1.5 DI I-VTEC TURBO FLEX TOURING CVT",
-   "preco": 193950.0,
-   "km": 46748,
-   "combustivel": "Flex",
-   "cor": "Cinza",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "5",
-   "portas": 4,
-   "blindagem": "Carbon",
-   "fotos": [
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/1.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/2.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/3.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/4.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/5.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/6.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/7.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/8.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/9.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/10.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/11.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/12.jpg"
-   ]
-  },
-  {
-   "id": "s-chery-tiggo-8-pro-1-6-187cv-gasolina",
-   "tipo": "seminovo",
-   "marca": "Chery",
-   "modelo": "TIGGO 8 PRO",
-   "versao": "1.6 187CV GASOLINA",
-   "preco": 199950.0,
-   "km": 21611,
-   "combustivel": "Gasolina",
-   "cor": "Azul",
-   "ano": "2024/2025",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/1.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/2.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/3.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/4.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/5.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/6.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/7.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/8.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/9.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/10.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/11.jpg",
-    "fotos/chery-tiggo-8-pro-1-6-187cv-gasolina/12.jpg"
-   ]
-  },
-  {
-   "id": "s-denza-b5-4wd",
-   "tipo": "seminovo",
-   "marca": "Denza",
-   "modelo": "B5",
-   "versao": "4WD",
-   "preco": 429950.0,
-   "km": 8106,
-   "combustivel": "Híbrido",
-   "cor": "Verde",
-   "ano": "2026/2027",
-   "cambio": "Automático",
-   "final_placa": "2",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/denza-b5-4wd/1.jpg"
-   ]
-  },
-  {
-   "id": "s-denza-b5-gs-4wd",
-   "tipo": "seminovo",
-   "marca": "Denza",
-   "modelo": "B5",
-   "versao": "GS 4WD",
-   "preco": 399950.0,
-   "km": 8648,
-   "combustivel": "Híbrido",
-   "cor": "Azul",
-   "ano": "2025/2026",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/denza-b5-gs-4wd/1.jpg"
-   ]
-  },
-  {
    "id": "s-ferrari-296-gtb-3-0-v6-turbo-phev-f1-dct",
    "tipo": "seminovo",
    "marca": "Ferrari",
@@ -255,6 +138,36 @@
     "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/10.jpg",
     "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/11.jpg",
     "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/12.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X3",
+   "versao": "3.0 TWINPOWER MHEV M50 XDRIVE STEPTRONIC",
+   "preco": 669950.0,
+   "km": 5195,
+   "combustivel": "Híbrido",
+   "cor": "Branco",
+   "ano": "2024/2025",
+   "cambio": "Automático",
+   "final_placa": "6",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/1.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/2.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/3.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/4.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/5.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/6.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/7.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/8.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/9.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/10.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/11.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/12.jpg"
    ]
   },
   {
@@ -553,6 +466,36 @@
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/10.jpg",
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/11.jpg",
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/12.jpg"
+   ]
+  },
+  {
+   "id": "s-honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt",
+   "tipo": "seminovo",
+   "marca": "Honda",
+   "modelo": "HR-V",
+   "versao": "1.5 DI I-VTEC TURBO FLEX TOURING CVT",
+   "preco": 193950.0,
+   "km": 46748,
+   "combustivel": "Flex",
+   "cor": "Cinza",
+   "ano": "2023/2024",
+   "cambio": "Automático",
+   "final_placa": "5",
+   "portas": 4,
+   "blindagem": "Carbon",
+   "fotos": [
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/1.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/2.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/3.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/4.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/5.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/6.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/7.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/8.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/9.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/10.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/11.jpg",
+    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/12.jpg"
    ]
   },
   {
@@ -1632,36 +1575,6 @@
    ]
   },
   {
-   "id": "s-bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "M135I",
-   "versao": "2.0 16V TURBO GASOLINA XDRIVE AUTOMÁTICO",
-   "preco": 419950.0,
-   "km": 7379,
-   "combustivel": "Gasolina",
-   "cor": "Preto",
-   "ano": "2025/2026",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/1.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/2.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/3.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/4.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/5.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/6.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/7.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/8.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/9.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/10.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/11.jpg",
-    "fotos/bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico-2/12.jpg"
-   ]
-  },
-  {
    "id": "s-land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico",
    "tipo": "seminovo",
    "marca": "Land Rover",
@@ -1809,36 +1722,6 @@
     "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-srx-platinum-7l-4x4-automatico/10.jpg",
     "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-srx-platinum-7l-4x4-automatico/11.jpg",
     "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-srx-platinum-7l-4x4-automatico/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X1",
-   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I GP STEPTRONIC",
-   "preco": 287900.0,
-   "km": 138,
-   "combustivel": "Gasolina",
-   "cor": "Prata",
-   "ano": "2026/2026",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/1.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/2.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/3.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/4.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/5.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/6.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/7.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/8.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/9.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/10.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/11.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/12.jpg"
    ]
   },
   {
