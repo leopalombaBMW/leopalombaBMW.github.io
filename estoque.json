@@ -2,6 +2,36 @@
  "atualizado": "2026-10-29",
  "veiculos": [
   {
+   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X1",
+   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I GP STEPTRONIC",
+   "preco": 287900.0,
+   "km": 138,
+   "combustivel": "Gasolina",
+   "cor": "Prata",
+   "ano": "2026/2026",
+   "cambio": "Automático",
+   "final_placa": "4",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/1.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/2.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/3.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/4.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/5.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/6.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/7.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/8.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/9.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/10.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/11.jpg",
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/12.jpg"
+   ]
+  },
+  {
    "id": "s-land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico",
    "tipo": "seminovo",
    "marca": "Land Rover",
@@ -225,25 +255,6 @@
     "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/10.jpg",
     "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/11.jpg",
     "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/12.jpg"
-   ]
-  },
-  {
-   "id": "s-denza-b5-4wd",
-   "tipo": "seminovo",
-   "marca": "Denza",
-   "modelo": "B5",
-   "versao": "4WD",
-   "preco": 429950.0,
-   "km": 8106,
-   "combustivel": "Híbrido",
-   "cor": "Verde",
-   "ano": "2026/2027",
-   "cambio": "Automático",
-   "final_placa": "2",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/denza-b5-4wd/1.jpg"
    ]
   },
   {
