@@ -2,6 +2,55 @@
  "atualizado": "2026-10-30",
  "veiculos": [
   {
+   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X5",
+   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE50E M SPORT AUTOMÁTICO",
+   "preco": 679950.0,
+   "km": 2807,
+   "combustivel": "Híbrido",
+   "cor": "Cinza",
+   "ano": "2026/2026",
+   "cambio": "Automático",
+   "final_placa": "5",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "330E",
+   "versao": "2.0 16V TURBO HÍBRIDO M SPORT AUTOMÁTICO",
+   "preco": 374890.0,
+   "km": 28795,
+   "combustivel": "Híbrido",
+   "cor": "Branco",
+   "ano": "2025/2025",
+   "cambio": "Automático",
+   "final_placa": "5",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/1.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/2.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/3.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/4.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/5.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/6.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/7.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/8.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/9.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/10.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/11.jpg",
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/12.jpg"
+   ]
+  },
+  {
    "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic",
    "tipo": "seminovo",
    "marca": "BMW",
@@ -59,25 +108,6 @@
     "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/10.jpg",
     "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/11.jpg",
     "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-3",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X1",
-   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I M SPORT STEPTRONIC",
-   "preco": 319950.0,
-   "km": 3130,
-   "combustivel": "Gasolina",
-   "cor": "Verde",
-   "ano": "2025/2026",
-   "cambio": "Automático",
-   "final_placa": "2",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-3/1.jpg"
    ]
   },
   {
