@@ -1,6 +1,25 @@
 {
- "atualizado": "2026-10-29",
+ "atualizado": "2026-10-30",
  "veiculos": [
+  {
+   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X5",
+   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE45E M SPORT AUTOMÁTICO",
+   "preco": 415000.0,
+   "km": 48405,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2021/2022",
+   "cambio": "Automático",
+   "final_placa": "7",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/1.jpg"
+   ]
+  },
   {
    "id": "s-bmw-m135i-2-0-16v-turbo-gasolina-xdrive-automatico",
    "tipo": "seminovo",
