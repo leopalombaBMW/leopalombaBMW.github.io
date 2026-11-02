@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29",
+ "atualizado": "2026-11-02",
  "modelos": [
   {
    "id": "ix3",
@@ -53,7 +53,14 @@
      "cor_interna": "Sensafin · Café",
      "ano": "2026/2026",
      "preco": 868950,
-     "blindagem": null,
+     "unidades": 1
+    },
+    {
+     "cor": "Cinza Brooklyn",
+     "cor_interna": "Sensafin · Café",
+     "ano": "2026/2026",
+     "preco": 868950,
+     "blindagem": "Guardian",
      "unidades": 1
     },
     {
@@ -61,23 +68,6 @@
      "cor_interna": "Sensafin · Cognac",
      "ano": "2026/2026",
      "preco": 868950,
-     "blindagem": null,
-     "unidades": 2
-    },
-    {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Sensafin · Café",
-     "ano": "2026/2026",
-     "preco": 868950,
-     "blindagem": "Guardian",
-     "unidades": 1
-    },
-    {
-     "cor": "Cinza Skyscraper",
-     "cor_interna": "Sensafin · Café",
-     "ano": "2026/2026",
-     "preco": 868950,
-     "blindagem": "Guardian",
      "unidades": 1
     },
     {
@@ -90,18 +80,9 @@
     },
     {
      "cor": "Preto Carbono",
-     "cor_interna": "Sensafin · Preto",
-     "ano": "2026/2026",
-     "preco": 864950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Preto Carbono",
      "cor_interna": "Sensafin · Café",
      "ano": "2026/2026",
      "preco": 868950,
-     "blindagem": null,
      "unidades": 1
     },
     {
@@ -166,7 +147,6 @@
      "cor_interna": "Merino · Café",
      "ano": "2026/2026",
      "preco": 1033950,
-     "blindagem": null,
      "unidades": 1
     }
    ]
@@ -203,10 +183,17 @@
    "estoque": [
     {
      "cor": "Azul Artic Race",
+     "cor_interna": "Veganza · Bege Calm",
+     "ano": "2026/2027",
+     "preco": 528950,
+     "unidades": 1
+    },
+    {
+     "cor": "Azul Artic Race",
      "cor_interna": "Veganza · Preto",
      "ano": "2026/2027",
      "preco": 528950,
-     "blindagem": null,
+     "blindagem": "Carbon",
      "unidades": 1
     },
     {
@@ -214,16 +201,7 @@
      "cor_interna": "Veganza · Marrom Expresso",
      "ano": "2026/2027",
      "preco": 528950,
-     "blindagem": null,
      "unidades": 2
-    },
-    {
-     "cor": "Cinza Brooklyn",
-     "cor_interna": "Veganza · Marrom Expresso",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": "Carbon",
-     "unidades": 3
     },
     {
      "cor": "Cinza Brooklyn",
@@ -235,18 +213,17 @@
     },
     {
      "cor": "Cinza Brooklyn",
-     "cor_interna": "Veganza · Preto",
+     "cor_interna": "Veganza · Marrom Expresso",
      "ano": "2026/2027",
      "preco": 528950,
-     "blindagem": null,
-     "unidades": 1
+     "blindagem": "Carbon",
+     "unidades": 3
     },
     {
-     "cor": "Cinza Sophisto",
+     "cor": "Cinza Brooklyn",
      "cor_interna": "Veganza · Preto",
      "ano": "2026/2027",
      "preco": 528950,
-     "blindagem": null,
      "unidades": 1
     },
     {
@@ -254,7 +231,20 @@
      "cor_interna": "Veganza · Marrom Expresso",
      "ano": "2026/2027",
      "preco": 528950,
-     "blindagem": null,
+     "unidades": 1
+    },
+    {
+     "cor": "Cinza Sophisto",
+     "cor_interna": "Veganza · Preto",
+     "ano": "2026/2027",
+     "preco": 528950,
+     "unidades": 1
+    },
+    {
+     "cor": "Preto Safira",
+     "cor_interna": "Veganza · Marrom Expresso",
+     "ano": "2026/2027",
+     "preco": 528950,
      "unidades": 1
     },
     {
@@ -263,14 +253,6 @@
      "ano": "2026/2027",
      "preco": 528950,
      "blindagem": "Guardian",
-     "unidades": 1
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Veganza · Marrom Expresso",
-     "ano": "2026/2027",
-     "preco": 528950,
-     "blindagem": null,
      "unidades": 1
     }
    ]
@@ -290,11 +272,17 @@
    ],
    "estoque": [
     {
+     "cor": "Azul Artic Race",
+     "cor_interna": "Veganza · Preto",
+     "ano": "2026/2027",
+     "preco": 659950,
+     "unidades": 1
+    },
+    {
      "cor": "Cinza Brooklyn",
      "cor_interna": "Veganza · Marrom Expresso",
      "ano": "2026/2027",
      "preco": 659950,
-     "blindagem": null,
      "unidades": 1
     },
     {
@@ -302,7 +290,6 @@
      "cor_interna": "Veganza · Marrom Expresso",
      "ano": "2026/2027",
      "preco": 659950,
-     "blindagem": null,
      "unidades": 1
     }
    ]
@@ -332,10 +319,9 @@
     },
     {
      "cor": "Cinza Skyscraper",
-     "cor_interna": "Veganza · Branco Smoke",
+     "cor_interna": "Veganza · Preto/Preto",
      "ano": "2026/2027",
-     "preco": 410950,
-     "blindagem": null,
+     "preco": 415950,
      "unidades": 1
     }
    ]
@@ -401,19 +387,24 @@
    ],
    "estoque": [
     {
-     "cor": "Branco Alpino",
+     "cor": "Prata Espacial",
      "cor_interna": "Veganza · Castanea",
-     "ano": "2026/2027",
+     "ano": "2026/2026",
      "preco": 389950,
-     "blindagem": null,
      "unidades": 1
     },
     {
      "cor": "Prata Espacial",
      "cor_interna": "Veganza · Castanea",
-     "ano": "2026/2026",
+     "ano": "2026/2027",
      "preco": 389950,
-     "blindagem": null,
+     "unidades": 1
+    },
+    {
+     "cor": "Prata Espacial",
+     "cor_interna": "Veganza · Preto",
+     "ano": "2026/2027",
+     "preco": 387950,
      "unidades": 1
     },
     {
@@ -425,35 +416,10 @@
      "unidades": 2
     },
     {
-     "cor": "Prata Espacial",
-     "cor_interna": "Veganza · Castanea",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": null,
-     "unidades": 1
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Veganza · Preto",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": "Guardian",
-     "unidades": 1
-    },
-    {
      "cor": "Preto Safira",
      "cor_interna": "Veganza · Castanea",
      "ano": "2026/2027",
      "preco": 389950,
-     "blindagem": "Guardian",
-     "unidades": 1
-    },
-    {
-     "cor": "Preto Safira",
-     "cor_interna": "Veganza · Castanea",
-     "ano": "2026/2027",
-     "preco": 389950,
-     "blindagem": null,
      "unidades": 3
     },
     {
@@ -461,15 +427,15 @@
      "cor_interna": "Veganza · Preto",
      "ano": "2026/2027",
      "preco": 389950,
-     "blindagem": "Master",
+     "blindagem": "Guardian",
      "unidades": 1
     },
     {
      "cor": "Preto Safira",
      "cor_interna": "Veganza · Preto",
      "ano": "2026/2027",
-     "preco": 387950,
-     "blindagem": null,
+     "preco": 389950,
+     "blindagem": "Master",
      "unidades": 1
     },
     {
@@ -502,7 +468,6 @@
      "cor_interna": "Full Merino · Silverstone",
      "ano": "2026/2027",
      "preco": 915950,
-     "blindagem": null,
      "unidades": 1
     }
    ]
@@ -526,7 +491,6 @@
      "cor_interna": "Full Merino · Silverstone",
      "ano": "2026/2027",
      "preco": 1022950,
-     "blindagem": null,
      "unidades": 1
     }
    ]
@@ -550,7 +514,6 @@
      "cor_interna": "Vernasca · Mocha",
      "ano": "2025/2026",
      "preco": 514950,
-     "blindagem": null,
      "unidades": 1
     }
    ]
@@ -571,6 +534,13 @@
    "estoque": [
     {
      "cor": "Cinza Skyscraper",
+     "cor_interna": "Vernasca · Mocha",
+     "ano": "2026/2026",
+     "preco": 391950,
+     "unidades": 1
+    },
+    {
+     "cor": "Cinza Skyscraper",
      "cor_interna": "Vernasca · Preto/Cost. Azul",
      "ano": "2026/2026",
      "preco": 391950,
@@ -578,11 +548,31 @@
      "unidades": 1
     },
     {
-     "cor": "Preto Safira",
-     "cor_interna": "Vernasca · Preto/Cost. Azul",
+     "cor": "Cinza Skyscraper",
+     "cor_interna": "Vernasca · Preto",
      "ano": "2026/2026",
      "preco": 391950,
-     "blindagem": "Guardian",
+     "unidades": 1
+    },
+    {
+     "cor": "Preto Safira",
+     "cor_interna": "Vernasca · Mocha",
+     "ano": "2026/2026",
+     "preco": 390950,
+     "unidades": 1
+    },
+    {
+     "cor": "Preto Safira",
+     "cor_interna": "Vernasca · Mocha",
+     "ano": "2026/2026",
+     "preco": 391950,
+     "unidades": 1
+    },
+    {
+     "cor": "Preto Safira",
+     "cor_interna": "Vernasca · Oyster",
+     "ano": "2026/2026",
+     "preco": 391950,
      "unidades": 1
     }
    ]
@@ -638,7 +628,6 @@
      "cor_interna": "Vernasca · Preto/Cost. Azul",
      "ano": "2026/2027",
      "preco": 690950,
-     "blindagem": null,
      "unidades": 1
     },
     {
@@ -646,7 +635,13 @@
      "cor_interna": "Vernasca · Preto/Cost. Azul",
      "ano": "2026/2027",
      "preco": 690950,
-     "blindagem": null,
+     "unidades": 1
+    },
+    {
+     "cor": "Cinza Skyscraper",
+     "cor_interna": "Vernasca · Preto (M Highlight)",
+     "ano": "2026/2027",
+     "preco": 690950,
      "unidades": 1
     }
    ]
