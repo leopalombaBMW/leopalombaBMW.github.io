@@ -2,6 +2,25 @@
  "atualizado": "2026-11-03",
  "veiculos": [
   {
+   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-x-line-steptronic-2",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X1",
+   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I X-LINE STEPTRONIC",
+   "preco": 269890.0,
+   "km": 28048,
+   "combustivel": "Gasolina",
+   "cor": "Branco",
+   "ano": "2024/2025",
+   "cambio": "Automático",
+   "final_placa": "8",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-x-line-steptronic-2/1.jpg"
+   ]
+  },
+  {
    "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4",
    "tipo": "seminovo",
    "marca": "BMW",
