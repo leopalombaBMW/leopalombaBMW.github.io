@@ -1,44 +1,6 @@
 {
- "atualizado": "2026-11-02",
+ "atualizado": "2026-11-03",
  "veiculos": [
-  {
-   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-x-line-steptronic-2",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X1",
-   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I X-LINE STEPTRONIC",
-   "preco": 269890.0,
-   "km": 28048,
-   "combustivel": "Gasolina",
-   "cor": "Branco",
-   "ano": "2024/2025",
-   "cambio": "Automático",
-   "final_placa": "8",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-x-line-steptronic-2/1.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "320I",
-   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
-   "preco": 299950.0,
-   "km": 13950,
-   "combustivel": "Flex",
-   "cor": "Cinza",
-   "ano": "2025/2025",
-   "cambio": "Automático",
-   "final_placa": "3",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/1.jpg"
-   ]
-  },
   {
    "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4",
    "tipo": "seminovo",
