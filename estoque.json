@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03",
+ "atualizado": "2026-11-04",
  "veiculos": [
   {
    "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-x-line-steptronic-2",
@@ -7,7 +7,7 @@
    "marca": "BMW",
    "modelo": "X1",
    "versao": "2.0 16V TURBO GASOLINA SDRIVE20I X-LINE STEPTRONIC",
-   "preco": 269890.0,
+   "preco": 259890.0,
    "km": 28048,
    "combustivel": "Gasolina",
    "cor": "Branco",
@@ -18,6 +18,25 @@
    "blindagem": null,
    "fotos": [
     "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-x-line-steptronic-2/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "320I",
+   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
+   "preco": 389890.0,
+   "km": 9227,
+   "combustivel": "Flex",
+   "cor": "Preto",
+   "ano": "2025/2026",
+   "cambio": "Automático",
+   "final_placa": "2",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/1.jpg"
    ]
   },
   {
@@ -1499,7 +1518,7 @@
    "marca": "BMW",
    "modelo": "X1",
    "versao": "2.0 16V TURBO GASOLINA SDRIVE20I X-LINE STEPTRONIC",
-   "preco": 269890.0,
+   "preco": 259890.0,
    "km": 33167,
    "combustivel": "Gasolina",
    "cor": "Prata",
@@ -1589,7 +1608,7 @@
    "marca": "Land Rover",
    "modelo": "RANGE ROVER EVOQUE",
    "versao": "2.0 P250 FLEX R-DYNAMIC HSE AWD AUTOMÁTICO",
-   "preco": 279890.0,
+   "preco": 269890.0,
    "km": 27263,
    "combustivel": "Gasolina",
    "cor": "Cinza",
@@ -2001,36 +2020,6 @@
     "fotos/bmw-i7-eletrico-xdrive60-m-sport-2/10.jpg",
     "fotos/bmw-i7-eletrico-xdrive60-m-sport-2/11.jpg",
     "fotos/bmw-i7-eletrico-xdrive60-m-sport-2/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X5",
-   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE50E M SPORT AUTOMÁTICO",
-   "preco": 668950.0,
-   "km": 10162,
-   "combustivel": "Híbrido",
-   "cor": "Preto",
-   "ano": "2025/2026",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/1.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/2.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/3.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/4.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/5.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/6.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/7.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/8.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/9.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/10.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/11.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/12.jpg"
    ]
   },
   {
