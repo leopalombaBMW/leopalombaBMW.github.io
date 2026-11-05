@@ -2,35 +2,6 @@
  "atualizado": "2026-11-05",
  "veiculos": [
   {
-   "id": "s-mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico",
-   "tipo": "seminovo",
-   "marca": "MINI",
-   "modelo": "COOPER",
-   "versao": "2.0 S 16V TURBO GASOLINA 2P AUTOMATICO",
-   "preco": 168890.0,
-   "km": 19257,
-   "combustivel": "Gasolina",
-   "cor": "Branco",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 2,
-   "blindagem": null,
-   "fotos": [
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/1.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/2.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/3.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/4.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/5.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/6.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/7.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/8.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/9.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/10.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/11.jpg"
-   ]
-  },
-  {
    "id": "s-ford-ranger-3-0-v6-turbo-diesel-cd-limited-4x4-automatico-2",
    "tipo": "seminovo",
    "marca": "Ford",
@@ -224,7 +195,7 @@
    "marca": "BMW",
    "modelo": "X5",
    "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE45E M SPORT AUTOMÁTICO",
-   "preco": 415000.0,
+   "preco": 400000.0,
    "km": 48405,
    "combustivel": "Híbrido",
    "cor": "Preto",
@@ -234,7 +205,18 @@
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/1.jpg"
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/1.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/2.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/3.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/4.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/5.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/6.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/7.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/8.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/9.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/10.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/11.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/12.jpg"
    ]
   },
   {
