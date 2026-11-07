@@ -2,6 +2,44 @@
  "atualizado": "2026-11-07",
  "veiculos": [
   {
+   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "320I",
+   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
+   "preco": 309950.0,
+   "km": 4823,
+   "combustivel": "Flex",
+   "cor": "Cinza",
+   "ano": "2026/2026",
+   "cambio": "Automático",
+   "final_placa": "1",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "320I",
+   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
+   "preco": 309950.0,
+   "km": 8592,
+   "combustivel": "Flex",
+   "cor": "Azul",
+   "ano": "2026/2026",
+   "cambio": "Automático",
+   "final_placa": "4",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/1.jpg"
+   ]
+  },
+  {
    "id": "s-bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-4",
    "tipo": "seminovo",
    "marca": "BMW",
