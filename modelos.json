@@ -57,6 +57,13 @@
     },
     {
      "cor": "Cinza Brooklyn",
+     "cor_interna": "Sensafin · Cognac",
+     "ano": "2026/2026",
+     "preco": 864950,
+     "unidades": 1
+    },
+    {
+     "cor": "Cinza Brooklyn",
      "cor_interna": "Sensafin · Café",
      "ano": "2026/2026",
      "preco": 868950,
@@ -71,10 +78,25 @@
     },
     {
      "cor": "Cinza Skyscraper",
+     "cor_interna": "Sensafin · Café",
+     "ano": "2026/2026",
+     "preco": 864950,
+     "blindagem": "Guardian",
+     "unidades": 1
+    },
+    {
+     "cor": "Cinza Skyscraper",
      "cor_interna": "Sensafin · Preto",
      "ano": "2026/2026",
      "preco": 868950,
      "blindagem": "Guardian",
+     "unidades": 1
+    },
+    {
+     "cor": "Preto Carbono",
+     "cor_interna": "Sensafin · Preto",
+     "ano": "2026/2026",
+     "preco": 864950,
      "unidades": 1
     },
     {
@@ -87,6 +109,14 @@
     {
      "cor": "Preto Safira",
      "cor_interna": "Sensafin · Silverstone",
+     "ano": "2026/2026",
+     "preco": 868950,
+     "blindagem": "Guardian",
+     "unidades": 1
+    },
+    {
+     "cor": "Preto Safira",
+     "cor_interna": "Sensafin · Café",
      "ano": "2026/2026",
      "preco": 868950,
      "blindagem": "Guardian",
@@ -196,11 +226,18 @@
      "unidades": 1
     },
     {
+     "cor": "Azul Artic Race",
+     "cor_interna": "Veganza · Preto",
+     "ano": "2026/2027",
+     "preco": 528950,
+     "unidades": 1
+    },
+    {
      "cor": "Branco Alpino",
      "cor_interna": "Veganza · Marrom Expresso",
      "ano": "2026/2027",
      "preco": 528950,
-     "unidades": 2
+     "unidades": 4
     },
     {
      "cor": "Cinza Brooklyn",
@@ -223,6 +260,20 @@
      "cor_interna": "Veganza · Preto",
      "ano": "2026/2027",
      "preco": 528950,
+     "unidades": 3
+    },
+    {
+     "cor": "Cinza Brooklyn",
+     "cor_interna": "Veganza · Marrom Expresso",
+     "ano": "2026/2027",
+     "preco": 528950,
+     "unidades": 1
+    },
+    {
+     "cor": "Cinza Dune",
+     "cor_interna": "Veganza · Preto",
+     "ano": "2026/2027",
+     "preco": 528950,
      "unidades": 1
     },
     {
@@ -235,6 +286,13 @@
     {
      "cor": "Cinza Sophisto",
      "cor_interna": "Veganza · Marrom Expresso",
+     "ano": "2026/2027",
+     "preco": 528950,
+     "unidades": 1
+    },
+    {
+     "cor": "Cinza Sophisto",
+     "cor_interna": "Veganza · Bege Calm",
      "ano": "2026/2027",
      "preco": 528950,
      "unidades": 1
@@ -252,7 +310,7 @@
      "cor_interna": "Veganza · Marrom Expresso",
      "ano": "2026/2027",
      "preco": 528950,
-     "unidades": 1
+     "unidades": 3
     }
    ]
   },
@@ -292,11 +350,18 @@
      "unidades": 1
     },
     {
+     "cor": "Cinza Sophisto",
+     "cor_interna": "Veganza · Preto",
+     "ano": "2026/2027",
+     "preco": 659950,
+     "unidades": 1
+    },
+    {
      "cor": "Preto Safira",
      "cor_interna": "Veganza · Marrom Expresso",
      "ano": "2026/2027",
      "preco": 659950,
-     "unidades": 1
+     "unidades": 3
     }
    ]
   },
@@ -338,7 +403,15 @@
     "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-19.webp",
     "https://grandbrasil.com.br/wp-content/uploads/2026/09/image-14.webp"
    ],
-   "estoque": []
+   "estoque": [
+    {
+     "cor": "Cinza Skyscraper",
+     "cor_interna": "Alcantara/Veganza · Preto/Azul",
+     "ano": "2026/2027",
+     "preco": 545950,
+     "unidades": 1
+    }
+   ]
   },
   {
    "id": "x1gp",
@@ -407,6 +480,13 @@
      "unidades": 2
     },
     {
+     "cor": "Prata Espacial",
+     "cor_interna": "Veganza · Branco Smoke",
+     "ano": "2026/2027",
+     "preco": 389950,
+     "unidades": 1
+    },
+    {
      "cor": "Preto Safira",
      "cor_interna": "Veganza · Preto",
      "ano": "2026/2027",
@@ -419,7 +499,7 @@
      "cor_interna": "Veganza · Castanea",
      "ano": "2026/2027",
      "preco": 389950,
-     "unidades": 4
+     "unidades": 5
     },
     {
      "cor": "Preto Safira",
