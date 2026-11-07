@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06",
+ "atualizado": "2026-11-07",
  "modelos": [
   {
    "id": "ix3",
@@ -530,18 +530,18 @@
      "unidades": 1
     },
     {
-     "cor": "Cinza Skyscraper",
-     "cor_interna": "Vernasca · Preto/Cost. Azul",
-     "ano": "2026/2026",
-     "preco": 391950,
-     "blindagem": "Carbon",
-     "unidades": 1
-    },
-    {
      "cor": "Preto Safira",
      "cor_interna": "Vernasca · Oyster",
      "ano": "2026/2026",
      "preco": 391950,
+     "unidades": 1
+    },
+    {
+     "cor": "Preto Safira",
+     "cor_interna": "Vernasca · Mocha",
+     "ano": "2026/2026",
+     "preco": 391950,
+     "blindagem": "Guardian",
      "unidades": 1
     }
    ]
