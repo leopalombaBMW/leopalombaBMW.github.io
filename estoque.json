@@ -1,6 +1,82 @@
 {
- "atualizado": "2026-11-07",
+ "atualizado": "2026-11-09",
  "veiculos": [
+  {
+   "id": "s-bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico-2",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "330E",
+   "versao": "2.0 16V TURBO HÍBRIDO M SPORT AUTOMÁTICO",
+   "preco": 259950.0,
+   "km": 12368,
+   "combustivel": "Híbrido",
+   "cor": "Cinza",
+   "ano": "2022/2022",
+   "cambio": "Automático",
+   "final_placa": "5",
+   "portas": 4,
+   "blindagem": "Master",
+   "fotos": [
+    "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico-2/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-3",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X1",
+   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I M SPORT STEPTRONIC",
+   "preco": 319950.0,
+   "km": 1596,
+   "combustivel": "Gasolina",
+   "cor": "Preto",
+   "ano": "2026/2026",
+   "cambio": "Automático",
+   "final_placa": "1",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-3/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-8",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "320I",
+   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
+   "preco": 309950.0,
+   "km": 1690,
+   "combustivel": "Flex",
+   "cor": "Preto",
+   "ano": "2026/2026",
+   "cambio": "Automático",
+   "final_placa": "6",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-8/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-2",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X1",
+   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I M SPORT STEPTRONIC",
+   "preco": 319950.0,
+   "km": 3643,
+   "combustivel": "Gasolina",
+   "cor": "Preto",
+   "ano": "2026/2027",
+   "cambio": "Automático",
+   "final_placa": "1",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic-2/1.jpg"
+   ]
+  },
   {
    "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7",
    "tipo": "seminovo",
