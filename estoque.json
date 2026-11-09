@@ -2,6 +2,36 @@
  "atualizado": "2026-11-09",
  "veiculos": [
   {
+   "id": "s-land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico",
+   "tipo": "seminovo",
+   "marca": "Land Rover",
+   "modelo": "DEFENDER",
+   "versao": "3.0 D300 TURBO DIESEL MHEV 110 X-DYNAMIC HSE AWD AUTOMÁTICO",
+   "preco": 629950.0,
+   "km": 27835,
+   "combustivel": "Híbrido",
+   "cor": "Azul",
+   "ano": "2025/2025",
+   "cambio": "Automático",
+   "final_placa": "1",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/1.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/2.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/3.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/4.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/5.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/6.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/7.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/8.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/9.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/10.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/11.jpg",
+    "fotos/land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/12.jpg"
+   ]
+  },
+  {
    "id": "s-bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico-2",
    "tipo": "seminovo",
    "marca": "BMW",
