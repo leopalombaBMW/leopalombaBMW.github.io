@@ -2,6 +2,112 @@
  "atualizado": "2026-11-10",
  "veiculos": [
   {
+   "id": "s-bmw-x5-3-0-xdrive50e-m-sport-aut-hibrido",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X5",
+   "versao": "3.0 XDRIVE50E M SPORT AUT. (HIBRIDO)",
+   "preco": 619950.0,
+   "km": 6710,
+   "combustivel": "Híbrido",
+   "cor": "Cinza",
+   "ano": "2023/2024",
+   "cambio": "Automático",
+   "final_placa": "1",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x5-3-0-xdrive50e-m-sport-aut-hibrido/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "320I",
+   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
+   "preco": 309950.0,
+   "km": 8592,
+   "combustivel": "Flex",
+   "cor": "Azul",
+   "ano": "2026/2026",
+   "cambio": "Automático",
+   "final_placa": "4",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/1.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/2.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/3.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/4.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/5.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/6.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/7.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/8.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/9.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/10.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/11.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/12.jpg"
+   ]
+  },
+  {
+   "id": "s-land-rover-range-rover-autobio-3-0-i6-tb-p550e-hib",
+   "tipo": "seminovo",
+   "marca": "Land Rover",
+   "modelo": "RANGE ROVER",
+   "versao": "AUTOBIO. 3.0 I6 TB P550E (HÍB.)",
+   "preco": 1429950.0,
+   "km": 13833,
+   "combustivel": "Híbrido",
+   "cor": "Branco",
+   "ano": "2024/2025",
+   "cambio": "Automático",
+   "final_placa": "2",
+   "portas": 4,
+   "blindagem": "Cart",
+   "fotos": [
+    "fotos/land-rover-range-rover-autobio-3-0-i6-tb-p550e-hib/1.jpg"
+   ]
+  },
+  {
+   "id": "s-kia-sportage-1-6-tgdi-mhev-ex-prestige-dct",
+   "tipo": "seminovo",
+   "marca": "Kia",
+   "modelo": "SPORTAGE",
+   "versao": "1.6 TGDI MHEV EX PRESTIGE DCT",
+   "preco": 174890.0,
+   "km": 34900,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2023/2024",
+   "cambio": "Automático",
+   "final_placa": "8",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/kia-sportage-1-6-tgdi-mhev-ex-prestige-dct/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico-2",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X6",
+   "versao": "3.0 TWINPOWER GASOLINA XDRIVE40I M SPORT AUTOMÁTICO",
+   "preco": 649950.0,
+   "km": 16920,
+   "combustivel": "Híbrido",
+   "cor": "Cinza",
+   "ano": "2024/2025",
+   "cambio": "Automático",
+   "final_placa": "0",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico-2/1.jpg"
+   ]
+  },
+  {
    "id": "s-land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico",
    "tipo": "seminovo",
    "marca": "Land Rover",
@@ -165,35 +271,6 @@
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/10.jpg",
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/11.jpg",
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "320I",
-   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
-   "preco": 309950.0,
-   "km": 8592,
-   "combustivel": "Flex",
-   "cor": "Azul",
-   "ano": "2026/2026",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/1.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/2.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/3.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/4.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/5.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/6.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/7.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/8.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/9.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/10.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/12.jpg"
    ]
   },
   {
