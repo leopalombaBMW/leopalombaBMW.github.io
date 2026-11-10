@@ -1,6 +1,93 @@
 {
- "atualizado": "2026-11-09",
+ "atualizado": "2026-11-10",
  "veiculos": [
+  {
+   "id": "s-land-rover-range-rover-autobio-3-0-i6-tb-p550e-hib",
+   "tipo": "seminovo",
+   "marca": "Land Rover",
+   "modelo": "RANGE ROVER",
+   "versao": "AUTOBIO. 3.0 I6 TB P550E (HÍB.)",
+   "preco": 1429950.0,
+   "km": 13833,
+   "combustivel": "Híbrido",
+   "cor": "Branco",
+   "ano": "2024/2025",
+   "cambio": "Automático",
+   "final_placa": "2",
+   "portas": 4,
+   "blindagem": "Cart",
+   "fotos": [
+    "fotos/land-rover-range-rover-autobio-3-0-i6-tb-p550e-hib/1.jpg"
+   ]
+  },
+  {
+   "id": "s-kia-sportage-1-6-tgdi-mhev-ex-prestige-dct",
+   "tipo": "seminovo",
+   "marca": "Kia",
+   "modelo": "SPORTAGE",
+   "versao": "1.6 TGDI MHEV EX PRESTIGE DCT",
+   "preco": 174890.0,
+   "km": 34900,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2023/2024",
+   "cambio": "Automático",
+   "final_placa": "8",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/kia-sportage-1-6-tgdi-mhev-ex-prestige-dct/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico-2",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X6",
+   "versao": "3.0 TWINPOWER GASOLINA XDRIVE40I M SPORT AUTOMÁTICO",
+   "preco": 649950.0,
+   "km": 16920,
+   "combustivel": "Híbrido",
+   "cor": "Cinza",
+   "ano": "2024/2025",
+   "cambio": "Automático",
+   "final_placa": "0",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico-2/1.jpg"
+   ]
+  },
+  {
+   "id": "s-land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico",
+   "tipo": "seminovo",
+   "marca": "Land Rover",
+   "modelo": "DEFENDER",
+   "versao": "3.0 D350 TURBO DIESEL MHEV 110 X-DYNAMIC HSE AWD AUTOMÁTICO",
+   "preco": 727950.0,
+   "km": 7184,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2025/2026",
+   "cambio": "Automático",
+   "final_placa": "6",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/1.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/2.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/3.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/4.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/5.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/6.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/7.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/8.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/9.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/10.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/11.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico/12.jpg"
+   ]
+  },
   {
    "id": "s-land-rover-defender-3-0-d300-turbo-diesel-mhev-110-x-dynamic-hse-awd-automatico",
    "tipo": "seminovo",
@@ -123,26 +210,18 @@
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/1.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "320I",
-   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
-   "preco": 309950.0,
-   "km": 8592,
-   "combustivel": "Flex",
-   "cor": "Azul",
-   "ano": "2026/2026",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-3/1.jpg"
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/1.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/2.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/3.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/4.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/5.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/6.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/7.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/8.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/9.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/10.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/11.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-7/12.jpg"
    ]
   },
   {
@@ -758,36 +837,6 @@
    ]
   },
   {
-   "id": "s-porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk",
-   "tipo": "seminovo",
-   "marca": "Porsche",
-   "modelo": "718",
-   "versao": "2.0 16V H4 GASOLINA CAYMAN T PDK",
-   "preco": 459950.0,
-   "km": 10066,
-   "combustivel": "Gasolina",
-   "cor": "Cinza",
-   "ano": "2023/2023",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 2,
-   "blindagem": null,
-   "fotos": [
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/1.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/2.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/3.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/4.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/5.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/6.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/7.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/8.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/9.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/10.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/11.jpg",
-    "fotos/porsche-718-2-0-16v-h4-gasolina-cayman-t-pdk/12.jpg"
-   ]
-  },
-  {
    "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2",
    "tipo": "seminovo",
    "marca": "BMW",
@@ -1173,66 +1222,6 @@
     "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico-2/10.jpg",
     "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico-2/11.jpg",
     "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico-2/12.jpg"
-   ]
-  },
-  {
-   "id": "s-land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut",
-   "tipo": "seminovo",
-   "marca": "Land Rover",
-   "modelo": "DISCOVERY SPORT",
-   "versao": "DISCOVERY SP. SE DYN 2.0 P250 FLEX AUT.",
-   "preco": 298890.0,
-   "km": 3530,
-   "combustivel": "Flex",
-   "cor": "Prata",
-   "ano": "2024/2025",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/1.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/2.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/3.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/4.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/5.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/6.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/7.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/8.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/9.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/10.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/11.jpg",
-    "fotos/land-rover-discovery-sport-discovery-sp-se-dyn-2-0-p250-flex-aut/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "320I",
-   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
-   "preco": 306950.0,
-   "km": 9483,
-   "combustivel": "Flex",
-   "cor": "Preto",
-   "ano": "2025/2026",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/1.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/2.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/3.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/4.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/5.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/6.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/7.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/8.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/9.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/10.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/11.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/12.jpg"
    ]
   },
   {
