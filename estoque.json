@@ -2,6 +2,40 @@
  "atualizado": "2026-11-11",
  "veiculos": [
   {
+   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X5",
+   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE50E M SPORT AUTOMÁTICO",
+   "preco": 559950.0,
+   "km": 10067,
+   "combustivel": "Híbrido",
+   "cor": "Cinza",
+   "ano": "2025/2025",
+   "cambio": "Automático",
+   "final_placa": "5",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": []
+  },
+  {
+   "id": "s-bmw-ix3-1-087-kw-eletrico-50-xdrive",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "IX3",
+   "versao": "1.087 KW ELETRICO 50 XDRIVE",
+   "preco": 582850.0,
+   "km": 2100,
+   "combustivel": "Elétrico",
+   "cor": "Branco",
+   "ano": "2026/2027",
+   "cambio": "Automático",
+   "final_placa": "3",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": []
+  },
+  {
    "id": "s-bmw-x1-1-5-12v-turbo-gasolina-sdrive18i-gp-steptronic-2",
    "tipo": "seminovo",
    "marca": "BMW",
@@ -687,36 +721,6 @@
     "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/10.jpg",
     "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/11.jpg",
     "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X1",
-   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I GP STEPTRONIC",
-   "preco": 287900.0,
-   "km": 138,
-   "combustivel": "Gasolina",
-   "cor": "Prata",
-   "ano": "2026/2026",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/1.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/2.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/3.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/4.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/5.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/6.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/7.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/8.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/9.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/10.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/11.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-gp-steptronic/12.jpg"
    ]
   },
   {
