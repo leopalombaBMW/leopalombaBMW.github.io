@@ -1,23 +1,23 @@
 {
- "atualizado": "2026-11-10",
+ "atualizado": "2026-11-11",
  "veiculos": [
   {
-   "id": "s-bmw-x5-3-0-xdrive50e-m-sport-aut-hibrido",
+   "id": "s-bmw-x1-1-5-12v-turbo-gasolina-sdrive18i-gp-steptronic-2",
    "tipo": "seminovo",
    "marca": "BMW",
-   "modelo": "X5",
-   "versao": "3.0 XDRIVE50E M SPORT AUT. (HIBRIDO)",
-   "preco": 619950.0,
-   "km": 6710,
-   "combustivel": "Híbrido",
-   "cor": "Cinza",
-   "ano": "2023/2024",
+   "modelo": "X1",
+   "versao": "1.5 12V TURBO GASOLINA SDRIVE18I GP STEPTRONIC",
+   "preco": 219950.0,
+   "km": 7600,
+   "combustivel": "Gasolina",
+   "cor": "Branco",
+   "ano": "2023/2023",
    "cambio": "Automático",
-   "final_placa": "1",
+   "final_placa": "0",
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-x5-3-0-xdrive50e-m-sport-aut-hibrido/1.jpg"
+    "fotos/bmw-x1-1-5-12v-turbo-gasolina-sdrive18i-gp-steptronic-2/1.jpg"
    ]
   },
   {
@@ -349,7 +349,18 @@
    "portas": 4,
    "blindagem": "Guardian",
    "fotos": [
-    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/1.jpg"
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/1.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/2.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/3.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/4.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/5.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/6.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/7.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/8.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/9.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/10.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/11.jpg",
+    "fotos/audi-a5-2-0-tfsi-gasolina-performance-s-edition-quattro-s-tronic/12.jpg"
    ]
   },
   {
@@ -634,7 +645,18 @@
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/1.jpg"
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/1.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/2.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/3.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/4.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/5.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/6.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/7.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/8.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/9.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/10.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/11.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-4/12.jpg"
    ]
   },
   {
@@ -2448,7 +2470,7 @@
    "marca": "Land Rover",
    "modelo": "RANGE ROVER VELAR",
    "versao": "2.0 P400E PHEV R-DYNAMIC HSE AUTOMÁTICO",
-   "preco": 429900.0,
+   "preco": 399950.0,
    "km": 15899,
    "combustivel": "Híbrido",
    "cor": "Preto",
