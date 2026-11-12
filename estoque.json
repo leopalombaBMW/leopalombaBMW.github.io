@@ -2,36 +2,6 @@
  "atualizado": "2026-11-12",
  "veiculos": [
   {
-   "id": "s-ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico",
-   "tipo": "seminovo",
-   "marca": "Ram",
-   "modelo": "RAMPAGE",
-   "versao": "2.0 HURRICANE 4 TURBO GASOLINA R/T 4X4 AUTOMÁTICO",
-   "preco": 194890.0,
-   "km": 10378,
-   "combustivel": "Gasolina",
-   "cor": "Cinza",
-   "ano": "2025/2026",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/1.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/2.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/3.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/4.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/5.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/6.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/7.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/8.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/9.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/10.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/11.jpg",
-    "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/12.jpg"
-   ]
-  },
-  {
    "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3",
    "tipo": "seminovo",
    "marca": "BMW",
@@ -736,6 +706,36 @@
     "fotos/byd-seal-awd-gs-590ev/10.jpg",
     "fotos/byd-seal-awd-gs-590ev/11.jpg",
     "fotos/byd-seal-awd-gs-590ev/12.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X5",
+   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE45E M SPORT AUTOMÁTICO",
+   "preco": 400000.0,
+   "km": 48405,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2021/2022",
+   "cambio": "Automático",
+   "final_placa": "7",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/1.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/2.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/3.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/4.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/5.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/6.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/7.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/8.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/9.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/10.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/11.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2/12.jpg"
    ]
   },
   {
@@ -1503,36 +1503,6 @@
     "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-srx-platinum-4x4-automatico-2/10.jpg",
     "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-srx-platinum-4x4-automatico-2/11.jpg",
     "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-srx-platinum-4x4-automatico-2/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X3",
-   "versao": "3.0 TWINPOWER MHEV M50 XDRIVE STEPTRONIC",
-   "preco": 518890.0,
-   "km": 11950,
-   "combustivel": "Híbrido",
-   "cor": "Vermelho",
-   "ano": "2024/2025",
-   "cambio": "Automático",
-   "final_placa": "3",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/1.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/2.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/3.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/4.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/5.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/6.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/7.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/8.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/9.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/10.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/11.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/12.jpg"
    ]
   },
   {
