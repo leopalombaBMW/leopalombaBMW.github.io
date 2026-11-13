@@ -1,36 +1,6 @@
 {
- "atualizado": "2026-11-12",
+ "atualizado": "2026-11-13",
  "veiculos": [
-  {
-   "id": "s-honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt",
-   "tipo": "seminovo",
-   "marca": "Honda",
-   "modelo": "HR-V",
-   "versao": "1.5 DI I-VTEC TURBO FLEX TOURING CVT",
-   "preco": 189690.0,
-   "km": 46748,
-   "combustivel": "Flex",
-   "cor": "Cinza",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "5",
-   "portas": 4,
-   "blindagem": "Carbon",
-   "fotos": [
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/1.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/2.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/3.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/4.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/5.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/6.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/7.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/8.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/9.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/10.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/11.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/12.jpg"
-   ]
-  },
   {
    "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico-2",
    "tipo": "seminovo",
@@ -107,7 +77,18 @@
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/1.jpg"
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/1.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/2.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/3.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/4.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/5.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/6.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/7.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/8.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/9.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/10.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/11.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/12.jpg"
    ]
   },
   {
@@ -1724,36 +1705,6 @@
     "fotos/bmw-m2-coupe-track-3-0-bi-turbo-24v-460cv-3p/10.jpg",
     "fotos/bmw-m2-coupe-track-3-0-bi-turbo-24v-460cv-3p/11.jpg",
     "fotos/bmw-m2-coupe-track-3-0-bi-turbo-24v-460cv-3p/12.jpg"
-   ]
-  },
-  {
-   "id": "s-jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico",
-   "tipo": "seminovo",
-   "marca": "Jaguar",
-   "modelo": "F-TYPE",
-   "versao": "3.0 V6 P380 GASOLINA R-DYNAMIC COUPÉ AUTOMÁTICO",
-   "preco": 408950.0,
-   "km": 26169,
-   "combustivel": "Gasolina",
-   "cor": "Preto",
-   "ano": "2021/2021",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/1.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/2.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/3.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/4.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/5.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/6.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/7.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/8.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/9.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/10.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/11.jpg",
-    "fotos/jaguar-f-type-3-0-v6-p380-gasolina-r-dynamic-coupe-automatico/12.jpg"
    ]
   },
   {
