@@ -2,6 +2,36 @@
  "atualizado": "2026-11-16",
  "veiculos": [
   {
+   "id": "s-mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic",
+   "tipo": "seminovo",
+   "marca": "MINI",
+   "modelo": "COOPER",
+   "versao": "2.0 16V TWINPOWER GASOLINA JOHN COOPER WORKS 2P STEPTRONIC",
+   "preco": 355950.0,
+   "km": 5532,
+   "combustivel": "Gasolina",
+   "cor": "Branco",
+   "ano": "2025/2025",
+   "cambio": "Automático",
+   "final_placa": "1",
+   "portas": 2,
+   "blindagem": null,
+   "fotos": [
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/1.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/2.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/3.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/4.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/5.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/6.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/7.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/8.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/9.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/10.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/11.jpg",
+    "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/12.jpg"
+   ]
+  },
+  {
    "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4",
    "tipo": "seminovo",
    "marca": "BMW",
@@ -89,36 +119,6 @@
     "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/10.jpg",
     "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/11.jpg",
     "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X5",
-   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE50E M SPORT AUTOMÁTICO",
-   "preco": 559950.0,
-   "km": 10067,
-   "combustivel": "Híbrido",
-   "cor": "Cinza",
-   "ano": "2025/2025",
-   "cambio": "Automático",
-   "final_placa": "5",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/1.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/2.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/3.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/4.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/5.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/6.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/7.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/8.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/9.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/10.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/11.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/12.jpg"
    ]
   },
   {
@@ -315,25 +315,6 @@
    "blindagem": "Master",
    "fotos": [
     "fotos/bmw-330e-2-0-16v-turbo-hibrido-m-sport-automatico-2/1.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-8",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "320I",
-   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
-   "preco": 309950.0,
-   "km": 1690,
-   "combustivel": "Flex",
-   "cor": "Preto",
-   "ano": "2026/2026",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-8/1.jpg"
    ]
   },
   {
