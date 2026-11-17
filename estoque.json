@@ -2,6 +2,74 @@
  "atualizado": "2026-11-17",
  "veiculos": [
   {
+   "id": "s-volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic",
+   "tipo": "seminovo",
+   "marca": "Volvo",
+   "modelo": "XC60",
+   "versao": "2.0 T8 RECHARGE ULTRA AWD GEARTRONIC",
+   "preco": 384950.0,
+   "km": 28993,
+   "combustivel": "Híbrido",
+   "cor": "Cinza",
+   "ano": "2025/2026",
+   "cambio": "Automático",
+   "final_placa": "0",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/1.jpg"
+   ]
+  },
+  {
+   "id": "s-land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico",
+   "tipo": "seminovo",
+   "marca": "Land Rover",
+   "modelo": "DEFENDER",
+   "versao": "3.0 D350 TURBO DIESEL MHEV 90 X-DYNAMIC HSE AWD AUTOMÁTICO",
+   "preco": 759950.0,
+   "km": 4471,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2025/2026",
+   "cambio": "Automático",
+   "final_placa": "7",
+   "portas": 2,
+   "blindagem": null,
+   "fotos": [
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/1.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/2.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/3.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/4.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/5.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/6.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/7.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/8.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/9.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/10.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/11.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/12.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "M2",
+   "versao": "3.0 I6 TWNTURBO GASOLINA COUPÉ M SETPTRONIC",
+   "preco": 617950.0,
+   "km": 5800,
+   "combustivel": "Gasolina",
+   "cor": "Cinza",
+   "ano": "2025/2026",
+   "cambio": "Automático",
+   "final_placa": "4",
+   "portas": 2,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/1.jpg"
+   ]
+  },
+  {
    "id": "s-bmw-x1-s20i-x-line",
    "tipo": "seminovo",
    "marca": "BMW",
@@ -138,25 +206,6 @@
     "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/10.jpg",
     "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/11.jpg",
     "fotos/ram-rampage-2-0-hurricane-4-turbo-gasolina-r-t-4x4-automatico/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X5",
-   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE50E M SPORT AUTOMÁTICO",
-   "preco": 699950.0,
-   "km": 11530,
-   "combustivel": "Híbrido",
-   "cor": "Preto",
-   "ano": "2024/2025",
-   "cambio": "Automático",
-   "final_placa": "7",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/1.jpg"
    ]
   },
   {
@@ -560,84 +609,6 @@
     "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/10.jpg",
     "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/11.jpg",
     "fotos/bmw-x3-2-0-16v-hibrido-x-line-xdrive30e-steptronic/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-ix-xdrive40",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "IX",
-   "versao": "XDRIVE40",
-   "preco": 319950.0,
-   "km": 17310,
-   "combustivel": "Elétrico",
-   "cor": "Cinza",
-   "ano": "2022/2023",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-ix-xdrive40/1.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "320I",
-   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
-   "preco": 314790.0,
-   "km": 25886,
-   "combustivel": "Flex",
-   "cor": "Preto",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "2",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/1.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/2.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/3.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/4.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/5.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/6.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/7.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/8.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/9.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/10.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/11.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/12.jpg"
-   ]
-  },
-  {
-   "id": "s-mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico",
-   "tipo": "seminovo",
-   "marca": "MINI",
-   "modelo": "COOPER",
-   "versao": "2.0 S 16V TURBO GASOLINA 2P AUTOMATICO",
-   "preco": 168890.0,
-   "km": 19257,
-   "combustivel": "Gasolina",
-   "cor": "Branco",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 2,
-   "blindagem": null,
-   "fotos": [
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/1.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/2.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/3.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/4.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/5.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/6.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/7.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/8.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/9.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/10.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/11.jpg"
    ]
   },
   {
@@ -1945,36 +1916,6 @@
     "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-srx-platinum-7l-4x4-automatico/10.jpg",
     "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-srx-platinum-7l-4x4-automatico/11.jpg",
     "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-srx-platinum-7l-4x4-automatico/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X1",
-   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I M SPORT STEPTRONIC",
-   "preco": 309890.0,
-   "km": 26800,
-   "combustivel": "Gasolina",
-   "cor": "Azul",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "8",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/1.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/2.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/3.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/4.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/5.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/6.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/7.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/8.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/9.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/10.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/11.jpg",
-    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/12.jpg"
    ]
   },
   {
