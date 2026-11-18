@@ -2,6 +2,74 @@
  "atualizado": "2026-11-18",
  "veiculos": [
   {
+   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X5",
+   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE50E M SPORT AUTOMÁTICO",
+   "preco": 699950.0,
+   "km": 11530,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2024/2025",
+   "cambio": "Automático",
+   "final_placa": "7",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-3/1.jpg"
+   ]
+  },
+  {
+   "id": "s-volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic",
+   "tipo": "seminovo",
+   "marca": "Volvo",
+   "modelo": "XC60",
+   "versao": "2.0 T8 RECHARGE ULTRA AWD GEARTRONIC",
+   "preco": 384950.0,
+   "km": 28993,
+   "combustivel": "Híbrido",
+   "cor": "Cinza",
+   "ano": "2025/2026",
+   "cambio": "Automático",
+   "final_placa": "0",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/1.jpg"
+   ]
+  },
+  {
+   "id": "s-land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico",
+   "tipo": "seminovo",
+   "marca": "Land Rover",
+   "modelo": "DEFENDER",
+   "versao": "3.0 D350 TURBO DIESEL MHEV 90 X-DYNAMIC HSE AWD AUTOMÁTICO",
+   "preco": 759950.0,
+   "km": 4471,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2025/2026",
+   "cambio": "Automático",
+   "final_placa": "7",
+   "portas": 2,
+   "blindagem": null,
+   "fotos": [
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/1.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/2.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/3.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/4.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/5.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/6.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/7.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/8.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/9.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/10.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/11.jpg",
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-90-x-dynamic-hse-awd-automatico/12.jpg"
+   ]
+  },
+  {
    "id": "s-bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3",
    "tipo": "seminovo",
    "marca": "BMW",
