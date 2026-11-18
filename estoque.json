@@ -810,36 +810,6 @@
    ]
   },
   {
-   "id": "s-bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X3",
-   "versao": "3.0 TWINPOWER MHEV M50 XDRIVE STEPTRONIC",
-   "preco": 669950.0,
-   "km": 5195,
-   "combustivel": "Híbrido",
-   "cor": "Branco",
-   "ano": "2024/2025",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/1.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/2.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/3.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/4.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/5.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/6.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/7.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/8.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/9.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/10.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/11.jpg",
-    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-4/12.jpg"
-   ]
-  },
-  {
    "id": "s-bmw-x6-m-competition",
    "tipo": "seminovo",
    "marca": "BMW",
