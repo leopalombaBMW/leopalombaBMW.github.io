@@ -2,6 +2,123 @@
  "atualizado": "2026-11-19",
  "veiculos": [
   {
+   "id": "s-bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "M2",
+   "versao": "3.0 I6 TWNTURBO GASOLINA COUPÉ M SETPTRONIC",
+   "preco": 659890.0,
+   "km": 486,
+   "combustivel": "Gasolina",
+   "cor": "Amarelo",
+   "ano": "2026/2027",
+   "cambio": "Automático",
+   "final_placa": "8",
+   "portas": 2,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/1.jpg"
+   ]
+  },
+  {
+   "id": "s-toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico",
+   "tipo": "seminovo",
+   "marca": "Toyota",
+   "modelo": "HILUX SW4",
+   "versao": "2.8 D 4D TURBO DIESEL DIAMOND 7L 4X4 AUTOMÁTICO",
+   "preco": 489950.0,
+   "km": 1962,
+   "combustivel": "Diesel",
+   "cor": "Branco",
+   "ano": "2026/2026",
+   "cambio": "Automático",
+   "final_placa": "5",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X1",
+   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I M SPORT STEPTRONIC",
+   "preco": 375790.0,
+   "km": 10888,
+   "combustivel": "Gasolina",
+   "cor": "Branco",
+   "ano": "2024/2025",
+   "cambio": "Automático",
+   "final_placa": "8",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/1.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "320I",
+   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
+   "preco": 389890.0,
+   "km": 17200,
+   "combustivel": "Flex",
+   "cor": "Cinza",
+   "ano": "2025/2026",
+   "cambio": "Automático",
+   "final_placa": "2",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/1.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/2.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/3.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/4.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/5.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/6.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/7.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/8.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/9.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/10.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/11.jpg",
+    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/12.jpg"
+   ]
+  },
+  {
+   "id": "s-honda-hr-v-exl-1-5-sensing-16v-5p-aut-2",
+   "tipo": "seminovo",
+   "marca": "Honda",
+   "modelo": "HR-V",
+   "versao": "EXL 1.5 SENSING 16V 5P AUT.",
+   "preco": 128950.0,
+   "km": 32372,
+   "combustivel": "Flex",
+   "cor": "Azul",
+   "ano": "2025/2025",
+   "cambio": "Automático",
+   "final_placa": "2",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/1.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/2.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/3.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/4.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/5.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/6.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/7.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/8.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/9.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/10.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/11.jpg",
+    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/12.jpg"
+   ]
+  },
+  {
    "id": "s-bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2",
    "tipo": "seminovo",
    "marca": "BMW",
@@ -205,7 +322,18 @@
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-x1-s20i-x-line/1.jpg"
+    "fotos/bmw-x1-s20i-x-line/1.jpg",
+    "fotos/bmw-x1-s20i-x-line/2.jpg",
+    "fotos/bmw-x1-s20i-x-line/3.jpg",
+    "fotos/bmw-x1-s20i-x-line/4.jpg",
+    "fotos/bmw-x1-s20i-x-line/5.jpg",
+    "fotos/bmw-x1-s20i-x-line/6.jpg",
+    "fotos/bmw-x1-s20i-x-line/7.jpg",
+    "fotos/bmw-x1-s20i-x-line/8.jpg",
+    "fotos/bmw-x1-s20i-x-line/9.jpg",
+    "fotos/bmw-x1-s20i-x-line/10.jpg",
+    "fotos/bmw-x1-s20i-x-line/11.jpg",
+    "fotos/bmw-x1-s20i-x-line/12.jpg"
    ]
   },
   {
@@ -759,35 +887,6 @@
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/10.jpg",
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/11.jpg",
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-5/12.jpg"
-   ]
-  },
-  {
-   "id": "s-mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico",
-   "tipo": "seminovo",
-   "marca": "MINI",
-   "modelo": "COOPER",
-   "versao": "2.0 S 16V TURBO GASOLINA 2P AUTOMATICO",
-   "preco": 168890.0,
-   "km": 19257,
-   "combustivel": "Gasolina",
-   "cor": "Branco",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "6",
-   "portas": 2,
-   "blindagem": null,
-   "fotos": [
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/1.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/2.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/3.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/4.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/5.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/6.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/7.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/8.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/9.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/10.jpg",
-    "fotos/mini-cooper-2-0-s-16v-turbo-gasolina-2p-automatico/11.jpg"
    ]
   },
   {
