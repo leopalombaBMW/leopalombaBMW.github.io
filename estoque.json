@@ -2,6 +2,36 @@
  "atualizado": "2026-11-19",
  "veiculos": [
   {
+   "id": "s-bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X3",
+   "versao": "3.0 TWINPOWER MHEV M50 XDRIVE STEPTRONIC",
+   "preco": 518890.0,
+   "km": 11950,
+   "combustivel": "Híbrido",
+   "cor": "Vermelho",
+   "ano": "2024/2025",
+   "cambio": "Automático",
+   "final_placa": "3",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/1.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/2.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/3.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/4.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/5.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/6.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/7.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/8.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/9.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/10.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/11.jpg",
+    "fotos/bmw-x3-3-0-twinpower-mhev-m50-xdrive-steptronic-2/12.jpg"
+   ]
+  },
+  {
    "id": "s-land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico",
    "tipo": "seminovo",
    "marca": "Land Rover",
@@ -17,7 +47,18 @@
    "portas": 4,
    "blindagem": "Guardian",
    "fotos": [
-    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/1.jpg"
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/1.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/2.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/3.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/4.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/5.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/6.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/7.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/8.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/9.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/10.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/11.jpg",
+    "fotos/land-rover-range-rover-sport-3-0-d300-turbo-diesel-hse-automatico/12.jpg"
    ]
   },
   {
@@ -85,7 +126,18 @@
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/1.jpg"
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/1.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/2.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/3.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/4.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/5.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/6.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/7.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/8.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/9.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/10.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/11.jpg",
+    "fotos/volvo-xc60-2-0-t8-recharge-ultra-awd-geartronic/12.jpg"
    ]
   },
   {
