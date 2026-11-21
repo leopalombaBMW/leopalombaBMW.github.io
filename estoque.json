@@ -2,25 +2,6 @@
  "atualizado": "2026-11-21",
  "veiculos": [
   {
-   "id": "s-bmw-x6-m-competition-2",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X6",
-   "versao": "M COMPETITION",
-   "preco": 649950.0,
-   "km": 42825,
-   "combustivel": "Gasolina",
-   "cor": "Azul",
-   "ano": "2023/2023",
-   "cambio": "Automático",
-   "final_placa": "1",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x6-m-competition-2/1.jpg"
-   ]
-  },
-  {
    "id": "s-bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4",
    "tipo": "seminovo",
    "marca": "BMW",
@@ -748,36 +729,6 @@
    "blindagem": null,
    "fotos": [
     "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/1.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "320I",
-   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
-   "preco": 389890.0,
-   "km": 9227,
-   "combustivel": "Flex",
-   "cor": "Preto",
-   "ano": "2025/2026",
-   "cambio": "Automático",
-   "final_placa": "2",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/1.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/2.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/3.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/4.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/5.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/6.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/7.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/8.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/9.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/10.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/11.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico/12.jpg"
    ]
   },
   {
