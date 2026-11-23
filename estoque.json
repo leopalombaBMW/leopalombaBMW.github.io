@@ -1,6 +1,25 @@
 {
- "atualizado": "2026-11-21",
+ "atualizado": "2026-11-23",
  "veiculos": [
+  {
+   "id": "s-bmw-x6-m-competition-2",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X6",
+   "versao": "M COMPETITION",
+   "preco": 649950.0,
+   "km": 42825,
+   "combustivel": "Gasolina",
+   "cor": "Azul",
+   "ano": "2023/2023",
+   "cambio": "Automático",
+   "final_placa": "1",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x6-m-competition-2/1.jpg"
+   ]
+  },
   {
    "id": "s-bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4",
    "tipo": "seminovo",
@@ -17,7 +36,18 @@
    "portas": 2,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/1.jpg"
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/1.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/2.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/3.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/4.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/5.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/6.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/7.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/8.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/9.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/10.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/11.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/12.jpg"
    ]
   },
   {
@@ -214,7 +244,7 @@
    "marca": "Volvo",
    "modelo": "XC60",
    "versao": "2.0 T8 RECHARGE ULTRA AWD GEARTRONIC",
-   "preco": 384950.0,
+   "preco": 364950.0,
    "km": 28993,
    "combustivel": "Híbrido",
    "cor": "Cinza",
@@ -1847,36 +1877,6 @@
     "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic/10.jpg",
     "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic/11.jpg",
     "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X6",
-   "versao": "3.0 TWINPOWER GASOLINA XDRIVE40I M SPORT AUTOMÁTICO",
-   "preco": 549890.0,
-   "km": 29772,
-   "combustivel": "Híbrido",
-   "cor": "Cinza",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "3",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/1.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/2.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/3.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/4.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/5.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/6.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/7.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/8.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/9.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/10.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/11.jpg",
-    "fotos/bmw-x6-3-0-twinpower-gasolina-xdrive40i-m-sport-automatico/12.jpg"
    ]
   },
   {
