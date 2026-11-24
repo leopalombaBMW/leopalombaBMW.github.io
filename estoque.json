@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23",
+ "atualizado": "2026-11-24",
  "veiculos": [
   {
    "id": "s-bmw-x6-m-competition-2",
@@ -1580,36 +1580,6 @@
    ]
   },
   {
-   "id": "s-mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic",
-   "tipo": "seminovo",
-   "marca": "MINI",
-   "modelo": "COUNTRYMAN",
-   "versao": "2.0 16V TWINPOWER TURBO GASOLINA JOHN COOPER WORKS ALL4 STEPTRONIC",
-   "preco": 249950.0,
-   "km": 16715,
-   "combustivel": "Gasolina",
-   "cor": "Branco",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "7",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/1.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/2.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/3.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/4.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/5.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/6.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/7.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/8.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/9.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/10.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/11.jpg",
-    "fotos/mini-countryman-2-0-16v-twinpower-turbo-gasolina-john-cooper-works-all4-steptronic/12.jpg"
-   ]
-  },
-  {
    "id": "s-land-rover-discovery-3-0-d350-turbo-diesel-mhev-metropolitan-edition-automatico-2",
    "tipo": "seminovo",
    "marca": "Land Rover",
@@ -1877,36 +1847,6 @@
     "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic/10.jpg",
     "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic/11.jpg",
     "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic/12.jpg"
-   ]
-  },
-  {
-   "id": "s-land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico",
-   "tipo": "seminovo",
-   "marca": "Land Rover",
-   "modelo": "RANGE ROVER EVOQUE",
-   "versao": "2.0 P250 FLEX R-DYNAMIC HSE AWD AUTOMÁTICO",
-   "preco": 269890.0,
-   "km": 27263,
-   "combustivel": "Gasolina",
-   "cor": "Cinza",
-   "ano": "2024/2024",
-   "cambio": "Automático",
-   "final_placa": "2",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/1.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/2.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/3.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/4.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/5.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/6.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/7.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/8.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/9.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/10.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/11.jpg",
-    "fotos/land-rover-range-rover-evoque-2-0-p250-flex-r-dynamic-hse-awd-automatico/12.jpg"
    ]
   },
   {
