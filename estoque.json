@@ -1,72 +1,23 @@
 {
- "atualizado": "2026-11-24",
+ "atualizado": "2026-11-25",
  "veiculos": [
   {
-   "id": "s-bmw-x6-m-competition-2",
+   "id": "s-bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic",
    "tipo": "seminovo",
    "marca": "BMW",
-   "modelo": "X6",
-   "versao": "M COMPETITION",
-   "preco": 649950.0,
-   "km": 42825,
+   "modelo": "X1",
+   "versao": "2.0 16V TURBO GASOLINA SDRIVE20I M SPORT STEPTRONIC",
+   "preco": 319950.0,
+   "km": 1596,
    "combustivel": "Gasolina",
-   "cor": "Azul",
-   "ano": "2023/2023",
+   "cor": "Preto",
+   "ano": "2026/2026",
    "cambio": "Automático",
    "final_placa": "1",
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-x6-m-competition-2/1.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "M2",
-   "versao": "3.0 I6 TWNTURBO GASOLINA COUPÉ M SETPTRONIC",
-   "preco": 659890.0,
-   "km": 486,
-   "combustivel": "Gasolina",
-   "cor": "Amarelo",
-   "ano": "2026/2027",
-   "cambio": "Automático",
-   "final_placa": "8",
-   "portas": 2,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/1.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/2.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/3.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/4.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/5.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/6.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/7.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/8.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/9.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/10.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/11.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-4/12.jpg"
-   ]
-  },
-  {
-   "id": "s-toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico",
-   "tipo": "seminovo",
-   "marca": "Toyota",
-   "modelo": "HILUX SW4",
-   "versao": "2.8 D 4D TURBO DIESEL DIAMOND 7L 4X4 AUTOMÁTICO",
-   "preco": 489950.0,
-   "km": 1962,
-   "combustivel": "Diesel",
-   "cor": "Branco",
-   "ano": "2026/2026",
-   "cambio": "Automático",
-   "final_placa": "5",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico/1.jpg"
+    "fotos/bmw-x1-2-0-16v-turbo-gasolina-sdrive20i-m-sport-steptronic/1.jpg"
    ]
   },
   {
@@ -97,36 +48,6 @@
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/10.jpg",
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/11.jpg",
     "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/12.jpg"
-   ]
-  },
-  {
-   "id": "s-honda-hr-v-exl-1-5-sensing-16v-5p-aut-2",
-   "tipo": "seminovo",
-   "marca": "Honda",
-   "modelo": "HR-V",
-   "versao": "EXL 1.5 SENSING 16V 5P AUT.",
-   "preco": 128950.0,
-   "km": 32372,
-   "combustivel": "Flex",
-   "cor": "Azul",
-   "ano": "2025/2025",
-   "cambio": "Automático",
-   "final_placa": "2",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/1.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/2.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/3.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/4.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/5.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/6.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/7.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/8.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/9.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/10.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/11.jpg",
-    "fotos/honda-hr-v-exl-1-5-sensing-16v-5p-aut-2/12.jpg"
    ]
   },
   {
@@ -1097,36 +1018,6 @@
     "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/10.jpg",
     "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/11.jpg",
     "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "M2",
-   "versao": "3.0 I6 TWNTURBO GASOLINA COUPÉ M SETPTRONIC",
-   "preco": 709950.0,
-   "km": 1585,
-   "combustivel": "Gasolina",
-   "cor": "Azul",
-   "ano": "2026/2026",
-   "cambio": "Automático",
-   "final_placa": "5",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/1.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/2.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/3.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/4.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/5.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/6.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/7.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/8.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/9.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/10.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/11.jpg",
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic/12.jpg"
    ]
   },
   {
