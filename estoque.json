@@ -1,6 +1,104 @@
 {
- "atualizado": "2026-11-26",
+ "atualizado": "2026-11-27",
  "veiculos": [
+  {
+   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-6",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X5",
+   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE50E M SPORT AUTOMÁTICO",
+   "preco": 839950.0,
+   "km": 3700,
+   "combustivel": "Híbrido",
+   "cor": "Preto",
+   "ano": "2025/2026",
+   "cambio": "Automático",
+   "final_placa": "3",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-6/1.jpg"
+   ]
+  },
+  {
+   "id": "s-toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual",
+   "tipo": "seminovo",
+   "marca": "Toyota",
+   "modelo": "GR COROLLA",
+   "versao": "1.6 TURBO GASOLINA CIRCUIT GR-FOUR MANUAL",
+   "preco": 319990.0,
+   "km": 23256,
+   "combustivel": "Gasolina",
+   "cor": "Preto",
+   "ano": "2023/2024",
+   "cambio": "Manual",
+   "final_placa": "3",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/1.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/2.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/3.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/4.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/5.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/6.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/7.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/8.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/9.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/10.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/11.jpg",
+    "fotos/toyota-gr-corolla-1-6-turbo-gasolina-circuit-gr-four-manual/12.jpg"
+   ]
+  },
+  {
+   "id": "s-bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic",
+   "tipo": "seminovo",
+   "marca": "BMW",
+   "modelo": "X4",
+   "versao": "2.0 16V GASOLINA XDRIVE30I M SPORT STEPTRONIC",
+   "preco": 348890.0,
+   "km": 26484,
+   "combustivel": "Gasolina",
+   "cor": "Preto",
+   "ano": "2024/2025",
+   "cambio": "Automático",
+   "final_placa": "4",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/1.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/2.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/3.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/4.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/5.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/6.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/7.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/8.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/9.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/10.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/11.jpg",
+    "fotos/bmw-x4-2-0-16v-gasolina-xdrive30i-m-sport-steptronic/12.jpg"
+   ]
+  },
+  {
+   "id": "s-land-rover-defender-3-0-d350-turbo-diesel-mhev-110-trophy-edition-awd-automatico",
+   "tipo": "seminovo",
+   "marca": "Land Rover",
+   "modelo": "DEFENDER",
+   "versao": "3.0 D350 TURBO DIESEL MHEV 110 TROPHY EDITION AWD AUTOMÁTICO",
+   "preco": 795950.0,
+   "km": 420,
+   "combustivel": "Híbrido",
+   "cor": "Amarelo",
+   "ano": "2025/2026",
+   "cambio": "Automático",
+   "final_placa": "0",
+   "portas": 4,
+   "blindagem": null,
+   "fotos": [
+    "fotos/land-rover-defender-3-0-d350-turbo-diesel-mhev-110-trophy-edition-awd-automatico/1.jpg"
+   ]
+  },
   {
    "id": "s-mercedes-benz-cla-200-amg-line-1-3-tb-16v-aut-hib",
    "tipo": "seminovo",
@@ -145,7 +243,18 @@
    "portas": 3,
    "blindagem": null,
    "fotos": [
-    "fotos/mini-cooper-s-3p-top-2/1.jpg"
+    "fotos/mini-cooper-s-3p-top-2/1.jpg",
+    "fotos/mini-cooper-s-3p-top-2/2.jpg",
+    "fotos/mini-cooper-s-3p-top-2/3.jpg",
+    "fotos/mini-cooper-s-3p-top-2/4.jpg",
+    "fotos/mini-cooper-s-3p-top-2/5.jpg",
+    "fotos/mini-cooper-s-3p-top-2/6.jpg",
+    "fotos/mini-cooper-s-3p-top-2/7.jpg",
+    "fotos/mini-cooper-s-3p-top-2/8.jpg",
+    "fotos/mini-cooper-s-3p-top-2/9.jpg",
+    "fotos/mini-cooper-s-3p-top-2/10.jpg",
+    "fotos/mini-cooper-s-3p-top-2/11.jpg",
+    "fotos/mini-cooper-s-3p-top-2/12.jpg"
    ]
   },
   {
@@ -164,7 +273,18 @@
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/1.jpg"
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/1.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/2.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/3.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/4.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/5.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/6.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/7.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/8.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/9.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/10.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/11.jpg",
+    "fotos/volvo-xc90-2-0-t8-ultimate-dark-awd-hibrido/12.jpg"
    ]
   },
   {
@@ -183,7 +303,18 @@
    "portas": 4,
    "blindagem": "Master",
    "fotos": [
-    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/1.jpg"
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/1.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/2.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/3.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/4.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/5.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/6.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/7.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/8.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/9.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/10.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/11.jpg",
+    "fotos/bmw-x2-2-0-turbo-gasolina-xdrive-m35i-steptronic/12.jpg"
    ]
   },
   {
@@ -262,7 +393,18 @@
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/1.jpg"
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/1.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/2.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/3.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/4.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/5.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/6.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/7.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/8.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/9.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/10.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/11.jpg",
+    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-5/12.jpg"
    ]
   },
   {
@@ -312,55 +454,6 @@
    "blindagem": null,
    "fotos": [
     "fotos/bmw-x6-m-competition-2/1.jpg"
-   ]
-  },
-  {
-   "id": "s-toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico",
-   "tipo": "seminovo",
-   "marca": "Toyota",
-   "modelo": "HILUX SW4",
-   "versao": "2.8 D 4D TURBO DIESEL DIAMOND 7L 4X4 AUTOMÁTICO",
-   "preco": 489950.0,
-   "km": 1962,
-   "combustivel": "Diesel",
-   "cor": "Branco",
-   "ano": "2026/2026",
-   "cambio": "Automático",
-   "final_placa": "5",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico/1.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "320I",
-   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
-   "preco": 389890.0,
-   "km": 17200,
-   "combustivel": "Flex",
-   "cor": "Cinza",
-   "ano": "2025/2026",
-   "cambio": "Automático",
-   "final_placa": "2",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/1.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/2.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/3.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/4.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/5.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/6.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/7.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/8.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/9.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/10.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/11.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-2/12.jpg"
    ]
   },
   {
@@ -548,7 +641,18 @@
    "portas": 2,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/1.jpg"
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/1.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/2.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/3.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/4.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/5.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/6.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/7.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/8.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/9.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/10.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/11.jpg",
+    "fotos/bmw-m2-3-0-i6-twnturbo-gasolina-coupe-m-setptronic-3/12.jpg"
    ]
   },
   {
@@ -609,66 +713,6 @@
     "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/10.jpg",
     "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/11.jpg",
     "fotos/mini-cooper-2-0-16v-twinpower-gasolina-john-cooper-works-2p-steptronic/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "320I",
-   "versao": "2.0 16V TURBO FLEX M SPORT AUTOMÁTICO",
-   "preco": 295950.0,
-   "km": 19232,
-   "combustivel": "Flex",
-   "cor": "Cinza",
-   "ano": "2025/2025",
-   "cambio": "Automático",
-   "final_placa": "8",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/1.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/2.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/3.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/4.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/5.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/6.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/7.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/8.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/9.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/10.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/11.jpg",
-    "fotos/bmw-320i-2-0-16v-turbo-flex-m-sport-automatico-4/12.jpg"
-   ]
-  },
-  {
-   "id": "s-honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt",
-   "tipo": "seminovo",
-   "marca": "Honda",
-   "modelo": "HR-V",
-   "versao": "1.5 DI I-VTEC TURBO FLEX TOURING CVT",
-   "preco": 189690.0,
-   "km": 46748,
-   "combustivel": "Flex",
-   "cor": "Cinza",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "5",
-   "portas": 4,
-   "blindagem": "Carbon",
-   "fotos": [
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/1.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/2.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/3.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/4.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/5.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/6.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/7.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/8.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/9.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/10.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/11.jpg",
-    "fotos/honda-hr-v-1-5-di-i-vtec-turbo-flex-touring-cvt/12.jpg"
    ]
   },
   {
@@ -954,7 +998,18 @@
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/1.jpg"
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/1.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/2.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/3.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/4.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/5.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/6.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/7.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/8.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/9.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/10.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/11.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-3/12.jpg"
    ]
   },
   {
@@ -973,7 +1028,18 @@
    "portas": 4,
    "blindagem": null,
    "fotos": [
-    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/1.jpg"
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/1.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/2.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/3.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/4.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/5.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/6.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/7.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/8.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/9.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/10.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/11.jpg",
+    "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic-2/12.jpg"
    ]
   },
   {
@@ -1225,66 +1291,6 @@
    ]
   },
   {
-   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X5",
-   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE50E M SPORT AUTOMÁTICO",
-   "preco": 689950.0,
-   "km": 1949,
-   "combustivel": "Híbrido",
-   "cor": "Preto",
-   "ano": "2025/2026",
-   "cambio": "Automático",
-   "final_placa": "5",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/1.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/2.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/3.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/4.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/5.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/6.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/7.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/8.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/9.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/10.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/11.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive50e-m-sport-automatico-2/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X5",
-   "versao": "3.0 I6 TURBO HÍBRIDO XDRIVE45E M SPORT AUTOMÁTICO",
-   "preco": 464950.0,
-   "km": 55061,
-   "combustivel": "Híbrido",
-   "cor": "Preto",
-   "ano": "2022/2023",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/1.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/2.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/3.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/4.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/5.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/6.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/7.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/8.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/9.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/10.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/11.jpg",
-    "fotos/bmw-x5-3-0-i6-turbo-hibrido-xdrive45e-m-sport-automatico/12.jpg"
-   ]
-  },
-  {
    "id": "s-mercedes-benz-c200-1-5-eq-boost-hibrido-amg-line-9g-tronic",
    "tipo": "seminovo",
    "marca": "Mercedes-Benz",
@@ -1312,66 +1318,6 @@
     "fotos/mercedes-benz-c200-1-5-eq-boost-hibrido-amg-line-9g-tronic/10.jpg",
     "fotos/mercedes-benz-c200-1-5-eq-boost-hibrido-amg-line-9g-tronic/11.jpg",
     "fotos/mercedes-benz-c200-1-5-eq-boost-hibrido-amg-line-9g-tronic/12.jpg"
-   ]
-  },
-  {
-   "id": "s-bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico",
-   "tipo": "seminovo",
-   "marca": "BMW",
-   "modelo": "X6",
-   "versao": "4.4 V8 BITURBO GASOLINA M COMPETITION AUTOMÁTICO",
-   "preco": 990000.0,
-   "km": 9628,
-   "combustivel": "Gasolina",
-   "cor": "Preto",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "4",
-   "portas": 4,
-   "blindagem": null,
-   "fotos": [
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/1.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/2.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/3.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/4.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/5.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/6.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/7.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/8.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/9.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/10.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/11.jpg",
-    "fotos/bmw-x6-4-4-v8-biturbo-gasolina-m-competition-automatico/12.jpg"
-   ]
-  },
-  {
-   "id": "s-ferrari-296-gts-3-0-v6-turbo-phev-f1-dct",
-   "tipo": "seminovo",
-   "marca": "Ferrari",
-   "modelo": "296 GTS",
-   "versao": "3.0 V6 TURBO PHEV F1-DCT",
-   "preco": 3600000.0,
-   "km": 100,
-   "combustivel": "Híbrido",
-   "cor": "Vermelho",
-   "ano": "2024/2024",
-   "cambio": "Automático",
-   "final_placa": "1",
-   "portas": 2,
-   "blindagem": null,
-   "fotos": [
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/1.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/2.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/3.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/4.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/5.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/6.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/7.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/8.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/9.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/10.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/11.jpg",
-    "fotos/ferrari-296-gts-3-0-v6-turbo-phev-f1-dct/12.jpg"
    ]
   },
   {
@@ -1525,36 +1471,6 @@
    ]
   },
   {
-   "id": "s-toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2",
-   "tipo": "seminovo",
-   "marca": "Toyota",
-   "modelo": "HILUX SW4",
-   "versao": "2.8 D-4D TURBO DIESEL DIAMOND 7L 4X4 AUTOMÁTICO",
-   "preco": 369950.0,
-   "km": 55242,
-   "combustivel": "Diesel",
-   "cor": "Cinza",
-   "ano": "2023/2024",
-   "cambio": "Automático",
-   "final_placa": "5",
-   "portas": 4,
-   "blindagem": "Carbon",
-   "fotos": [
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/1.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/2.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/3.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/4.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/5.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/6.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/7.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/8.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/9.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/10.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/11.jpg",
-    "fotos/toyota-hilux-sw4-2-8-d-4d-turbo-diesel-diamond-7l-4x4-automatico-2/12.jpg"
-   ]
-  },
-  {
    "id": "s-toyota-corolla-cross-1-8-vvt-i-hybrid-flex-xrx-cvt",
    "tipo": "seminovo",
    "marca": "Toyota",
@@ -1590,7 +1506,7 @@
    "marca": "Land Rover",
    "modelo": "RANGE ROVER SPORT",
    "versao": "3.0 D350 TURBO DIESEL MHEV DYNAMIC HSE AWD AUTOMÁTICO",
-   "preco": 775950.0,
+   "preco": 759950.0,
    "km": 32649,
    "combustivel": "Híbrido",
    "cor": "Preto",
@@ -2002,36 +1918,6 @@
     "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic/10.jpg",
     "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic/11.jpg",
     "fotos/bmw-m3-3-0-i6-twinturbo-gasolina-competition-m-steptronic/12.jpg"
-   ]
-  },
-  {
-   "id": "s-land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2",
-   "tipo": "seminovo",
-   "marca": "Land Rover",
-   "modelo": "RANGE ROVER SPORT",
-   "versao": "3.0 P550E PHEV AUTOBIOGRAPHY AWD AUTOMÁTICO",
-   "preco": 989950.0,
-   "km": 6691,
-   "combustivel": "Híbrido",
-   "cor": "Cinza",
-   "ano": "2025/2025",
-   "cambio": "Automático",
-   "final_placa": "3",
-   "portas": 4,
-   "blindagem": "Carbon",
-   "fotos": [
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/1.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/2.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/3.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/4.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/5.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/6.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/7.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/8.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/9.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/10.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/11.jpg",
-    "fotos/land-rover-range-rover-sport-3-0-p550e-phev-autobiography-awd-automatico-2/12.jpg"
    ]
   },
   {
